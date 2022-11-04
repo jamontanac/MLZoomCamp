@@ -1,0 +1,217 @@
+WorkDay,Holiday,conditions,hour,temp,feelslike,dew,humidity,cloudcover,visibility
+False,False,Partially cloudy,0,7.3,7.3,5.1,85.95,62.6,12.2
+False,False,Overcast,1,8.1,8.1,5.8,85.43,93.0,11.9
+False,False,Partially cloudy,2,9.1,9.1,6.7,84.4,89.9,10.6
+False,False,Overcast,3,10.0,10.0,7.6,85.04,93.8,15.3
+False,False,Overcast,4,10.6,10.6,8.1,84.54,93.0,14.7
+False,False,Partially cloudy,5,10.6,10.6,7.8,82.82,89.9,11.9
+False,False,Partially cloudy,6,11.0,11.0,7.3,77.95,86.9,13.7
+False,False,Partially cloudy,7,11.0,11.0,7.1,76.9,83.7,11.6
+False,False,Partially cloudy,8,11.0,11.0,7.1,76.91,89.9,9.9
+False,False,Overcast,9,11.1,11.1,7.7,79.06,93.0,8.8
+False,False,Partially cloudy,10,11.3,11.3,8.1,80.72,83.7,9.2
+False,False,Partially cloudy,11,11.6,11.6,8.7,81.87,89.9,7.8
+False,False,Overcast,12,12.6,12.6,9.6,82.01,93.0,7.2
+False,False,Overcast,13,12.6,12.6,9.4,80.38,93.0,7.7
+False,False,Overcast,14,12.1,12.1,9.5,84.16,96.2,6.8
+False,False,Overcast,15,12.6,12.6,9.2,79.32,93.0,6.5
+False,False,Overcast,16,11.8,11.8,9.5,85.83,96.9,7.6
+False,False,Partially cloudy,17,12.3,12.3,9.3,81.95,90.0,9.4
+False,False,Partially cloudy,18,12.3,12.3,9.3,81.96,89.9,6.2
+False,False,"Rain, Partially cloudy",19,11.8,11.8,10.0,88.7,86.9,4.0
+False,False,"Rain, Partially cloudy",20,8.0,8.0,4.6,79.13,65.4,30.2
+False,False,Clear,21,7.5,7.5,1.9,67.22,3.1,22.4
+False,False,Partially cloudy,22,7.0,7.0,1.1,66.12,37.6,20.9
+False,False,Partially cloudy,23,6.0,6.0,0.0,65.43,23.8,22.4
+True,False,Rain,0,5.8,5.8,-1.2,60.8,0.0,20.9
+True,False,Partially cloudy,1,5.5,5.5,-0.7,64.37,38.8,17.8
+True,False,Partially cloudy,2,5.6,0.4,-0.6,63.95,74.5,19.3
+True,False,Clear,3,5.1,5.1,-0.7,66.18,18.6,22.4
+True,False,Clear,4,4.8,4.8,-1.0,66.11,3.1,22.4
+True,False,Clear,5,5.3,5.3,-0.4,66.72,0.0,22.4
+True,False,Partially cloudy,6,5.8,5.8,-0.4,64.42,27.9,16.2
+True,False,Partially cloudy,7,6.6,6.6,0.1,63.23,23.8,14.7
+True,False,Partially cloudy,8,7.5,7.5,1.0,63.46,65.1,12.8
+True,False,Partially cloudy,9,8.3,8.3,1.6,62.72,77.8,11.6
+True,False,Partially cloudy,10,9.1,9.1,2.0,61.15,80.7,13.1
+True,False,Overcast,11,10.3,10.3,2.5,58.48,93.0,14.3
+True,False,Overcast,12,10.8,10.8,3.6,61.13,93.0,17.8
+True,False,Partially cloudy,13,11.0,11.0,3.8,61.18,77.7,15.0
+True,False,Partially cloudy,14,10.8,10.8,3.7,61.15,86.9,17.8
+True,False,"Rain, Partially cloudy",15,10.3,10.3,4.8,68.65,90.0,16.2
+True,False,Overcast,16,11.1,11.1,2.6,55.83,93.0,13.7
+True,False,Partially cloudy,17,10.8,10.8,2.1,54.59,77.7,14.0
+True,False,Partially cloudy,18,10.3,10.3,1.8,55.64,47.2,15.6
+True,False,Clear,19,9.6,9.6,1.6,57.46,14.7,16.2
+True,False,Clear,20,9.5,9.5,1.3,56.64,16.7,15.0
+True,False,Clear,21,8.8,8.8,1.6,60.69,16.7,14.7
+True,False,Clear,22,6.6,6.6,1.5,69.96,0.0,13.7
+True,False,Clear,23,6.1,6.1,3.1,81.09,0.0,12.8
+True,False,Partially cloudy,0,5.6,5.6,2.6,81.03,28.6,16.2
+True,False,Partially cloudy,1,6.1,6.1,2.6,78.29,37.9,13.1
+True,False,Partially cloudy,2,6.2,6.2,2.8,79.38,66.4,11.2
+True,False,Overcast,3,6.5,6.5,3.3,80.05,93.1,10.6
+True,False,Partially cloudy,4,7.1,7.1,4.3,82.4,89.9,10.0
+True,False,Overcast,5,7.1,7.1,6.1,93.34,93.0,7.5
+True,False,Overcast,6,8.1,5.6,6.8,91.52,96.9,8.4
+True,False,Partially cloudy,7,8.5,8.5,7.1,90.91,62.4,8.4
+True,False,Partially cloudy,8,9.6,9.6,8.1,90.39,62.6,9.4
+True,False,Partially cloudy,9,10.8,10.8,8.0,82.86,65.7,12.8
+True,False,Partially cloudy,10,11.8,11.8,7.3,73.93,74.8,13.1
+True,False,Partially cloudy,11,13.3,13.3,7.1,65.68,65.3,19.3
+True,False,Partially cloudy,12,13.5,13.5,7.0,64.82,83.7,16.2
+True,False,Overcast,13,12.8,12.8,7.9,71.67,93.0,16.2
+True,False,Partially cloudy,14,12.1,12.1,9.5,84.12,90.0,16.2
+True,False,"Rain, Partially cloudy",15,13.5,13.5,7.3,66.1,62.2,20.9
+True,False,Partially cloudy,16,13.1,13.1,1.8,46.26,65.1,19.3
+True,False,Partially cloudy,17,11.8,11.8,1.7,49.66,45.0,22.4
+True,False,Clear,18,10.8,10.8,1.9,53.83,15.1,22.4
+True,False,Clear,19,9.6,9.6,1.8,58.32,0.0,20.9
+True,False,Clear,20,8.6,8.6,1.5,61.06,0.0,20.9
+True,False,Clear,21,7.5,6.0,1.5,65.78,0.0,17.8
+True,False,Clear,22,6.3,6.3,2.1,74.49,0.0,17.8
+True,False,Clear,23,6.0,6.0,2.1,76.11,0.0,15.9
+True,False,Clear,0,5.3,2.5,2.5,82.15,0.0,13.7
+True,False,Clear,1,5.1,5.1,3.1,86.91,0.0,11.6
+True,False,Clear,2,4.3,4.3,3.1,91.88,0.0,12.8
+True,False,Clear,3,4.1,4.1,3.1,93.19,0.0,13.7
+True,False,Clear,4,3.6,3.6,3.0,95.83,0.0,12.8
+True,False,Clear,5,3.3,3.3,2.6,95.17,0.0,12.2
+True,False,Clear,6,3.1,1.1,2.6,96.52,0.0,10.9
+True,False,Clear,7,3.8,3.8,2.8,93.21,0.0,10.3
+True,False,Clear,8,4.6,4.6,3.5,92.58,0.0,10.6
+True,False,Partially cloudy,9,7.1,7.1,4.1,81.3,30.2,8.4
+True,False,Partially cloudy,10,8.3,8.3,4.4,75.98,80.9,7.5
+True,False,Partially cloudy,11,10.0,10.0,4.9,70.18,77.6,13.1
+True,False,Partially cloudy,12,10.0,10.0,4.5,68.64,89.9,14.3
+True,False,Overcast,13,10.8,10.8,2.4,55.79,93.0,17.8
+True,False,Overcast,14,10.6,10.6,3.6,61.97,93.0,16.2
+True,False,Partially cloudy,15,10.3,10.3,3.9,64.11,90.0,16.2
+True,False,Overcast,16,9.8,9.8,4.6,70.07,93.0,12.2
+True,False,Overcast,17,9.6,9.6,4.5,70.54,93.0,10.9
+True,False,Partially cloudy,18,9.3,9.3,5.1,75.05,89.9,14.0
+True,False,Partially cloudy,19,9.1,9.1,4.8,74.49,30.3,13.1
+True,False,Partially cloudy,20,8.8,8.8,4.8,76.03,40.4,14.3
+True,False,Partially cloudy,21,8.5,8.5,4.8,77.58,53.3,12.5
+True,False,Overcast,22,8.5,8.5,5.1,79.23,96.9,13.7
+True,False,Partially cloudy,23,8.1,8.1,5.1,81.39,48.6,20.9
+True,False,Partially cloudy,0,8.1,4.8,5.3,82.52,90.0,17.8
+True,False,Overcast,1,8.3,8.3,5.1,80.3,93.1,19.3
+True,False,Partially cloudy,2,8.6,8.6,5.1,78.69,68.5,19.3
+True,False,Partially cloudy,3,8.6,8.6,5.1,78.69,71.5,19.3
+True,False,Partially cloudy,4,8.6,8.6,5.5,80.89,74.7,17.8
+True,False,Partially cloudy,5,9.1,9.1,5.7,78.78,86.9,14.7
+True,False,"Rain, Partially cloudy",6,8.6,5.1,6.6,87.26,71.5,9.4
+True,False,"Rain, Partially cloudy",7,8.6,8.6,7.1,90.31,86.9,8.4
+True,False,"Rain, Partially cloudy",8,7.3,7.3,5.6,88.98,62.6,22.4
+True,False,"Rain, Partially cloudy",9,7.1,7.1,5.3,88.33,86.9,10.3
+True,False,"Rain, Partially cloudy",10,5.6,5.6,2.6,81.06,90.0,13.1
+True,False,Partially cloudy,11,6.1,6.1,2.0,75.02,62.6,22.4
+True,False,"Rain, Partially cloudy",12,7.8,7.8,2.0,66.75,48.3,22.4
+True,False,Partially cloudy,13,7.6,7.6,-1.8,51.06,71.5,16.2
+True,False,Partially cloudy,14,6.1,6.1,-0.8,60.89,40.8,8.1
+True,False,Partially cloudy,15,5.5,5.5,-2.3,56.86,36.1,20.9
+True,False,Partially cloudy,16,6.5,6.5,-1.3,57.1,54.5,22.4
+True,False,Clear,17,6.8,6.8,-4.4,44.44,15.1,22.4
+True,False,Clear,18,5.6,1.5,-3.4,52.03,0.0,22.4
+True,False,Clear,19,5.3,5.3,-3.4,53.12,0.0,22.4
+True,False,Clear,20,4.6,4.6,-1.5,64.64,0.0,22.4
+True,False,Clear,21,4.0,4.0,-0.9,70.43,0.0,20.9
+True,False,Clear,22,4.0,4.0,-0.7,71.47,0.0,22.4
+True,False,Clear,23,4.0,4.0,-0.4,73.04,0.0,20.9
+True,False,Clear,0,3.6,-1.0,-0.5,74.57,0.0,20.9
+True,False,Clear,1,3.6,3.6,-0.2,76.21,0.0,19.3
+True,False,Clear,2,4.0,4.0,-0.2,74.11,0.0,22.4
+True,False,Clear,3,3.7,3.7,-0.1,76.2,0.0,15.9
+True,False,Clear,4,4.6,4.6,0.3,73.7,0.0,16.2
+True,False,Clear,5,4.5,4.5,0.3,74.21,0.0,16.2
+True,False,Clear,6,4.1,0.3,0.1,75.23,0.0,19.3
+True,False,Clear,7,4.0,4.0,0.6,78.53,0.0,16.2
+True,False,Clear,8,4.5,4.5,1.0,78.05,0.0,16.2
+True,False,Clear,9,5.6,5.6,1.8,76.53,0.0,16.2
+True,False,Clear,10,8.1,8.1,1.6,63.59,0.0,17.8
+True,False,Clear,11,9.8,9.8,1.1,54.36,13.3,10.6
+True,False,Partially cloudy,12,10.3,10.3,1.1,52.92,30.0,17.8
+True,False,Partially cloudy,13,11.0,11.0,0.4,47.69,38.8,20.9
+True,False,Partially cloudy,14,11.1,11.1,0.1,46.69,54.7,16.2
+True,False,Partially cloudy,15,10.3,10.3,-0.8,45.79,36.4,19.3
+True,False,Partially cloudy,16,10.6,10.6,-0.8,44.88,66.9,17.8
+True,False,Partially cloudy,17,9.8,9.8,-0.1,49.82,45.4,20.9
+True,False,Clear,18,9.1,9.1,-0.3,51.49,15.1,22.4
+True,False,Clear,19,7.1,7.1,0.1,61.1,0.0,20.9
+True,False,Clear,20,5.0,5.0,-0.4,68.12,0.0,20.9
+True,False,Clear,21,4.5,4.5,0.8,76.9,0.0,12.8
+True,False,Clear,22,4.6,4.6,1.0,77.5,0.0,17.8
+True,False,Clear,23,3.6,3.6,0.8,81.92,0.0,17.8
+False,False,Clear,0,3.6,3.6,0.6,80.76,0.0,16.2
+False,False,Clear,1,2.8,2.8,0.3,83.62,0.0,17.8
+False,False,Clear,2,2.1,2.1,0.1,86.61,0.0,17.8
+False,False,Clear,3,1.6,1.6,0.3,91.06,0.0,17.8
+False,False,Partially cloudy,4,1.5,1.5,0.6,93.67,27.9,20.9
+False,False,Clear,5,1.3,1.3,0.5,94.35,16.7,20.9
+False,False,Clear,6,1.6,1.6,0.8,94.36,0.0,19.3
+False,False,Clear,7,3.1,3.1,1.3,87.97,0.0,16.2
+False,False,Clear,8,2.6,2.6,0.8,87.95,0.0,11.6
+False,False,Clear,9,6.1,6.1,4.1,87.03,0.0,13.1
+False,False,Rain,10,8.8,8.8,4.6,74.45,14.7,12.8
+False,False,Partially cloudy,11,9.8,9.8,3.1,63.06,56.5,19.3
+False,False,Clear,12,11.0,11.0,1.8,53.09,14.7,17.8
+False,False,Partially cloudy,13,11.1,11.1,1.1,50.18,39.2,15.6
+False,False,Partially cloudy,14,10.6,10.6,0.5,49.66,27.9,15.6
+False,False,Clear,15,11.0,11.0,0.2,47.01,0.0,17.8
+False,False,Clear,16,10.3,10.3,-1.4,44.13,0.0,22.4
+False,False,Clear,17,9.1,9.1,-3.9,39.49,0.0,22.4
+False,False,Clear,18,8.1,8.1,-1.9,49.34,0.0,22.4
+False,False,Clear,19,6.6,6.6,-0.2,61.86,0.0,22.4
+False,False,Clear,20,6.3,6.3,0.6,66.93,0.0,22.4
+False,False,Clear,21,5.6,5.6,0.3,68.75,0.0,20.9
+False,False,Clear,22,5.8,5.8,0.6,69.28,0.0,22.4
+False,False,Clear,23,5.6,2.7,0.5,69.76,0.0,22.4
+False,False,Clear,0,5.6,2.8,0.1,67.78,0.0,22.4
+False,False,Clear,1,5.3,5.3,0.3,70.18,0.0,19.3
+False,False,Clear,2,5.1,5.1,-0.3,67.68,0.0,16.2
+False,False,Clear,3,4.6,4.6,-0.9,67.08,0.0,19.3
+False,False,Clear,4,4.1,4.1,-1.1,68.45,0.0,20.9
+False,False,Clear,5,3.8,3.8,-1.0,70.94,0.0,20.9
+False,False,Clear,6,3.6,0.2,-0.7,73.53,0.0,22.4
+False,False,Clear,7,3.6,3.6,-0.5,74.62,0.0,20.9
+False,False,Clear,8,4.0,4.0,-0.2,74.13,0.0,17.8
+False,False,Clear,9,5.1,5.1,-0.3,67.65,0.0,19.3
+False,False,Clear,10,6.2,6.2,-0.3,63.11,0.0,19.3
+False,False,Clear,11,8.8,8.8,-0.4,52.13,0.0,22.4
+False,False,Clear,12,10.1,10.1,-1.2,45.39,0.0,16.2
+False,False,Clear,13,11.1,11.1,-0.9,43.41,0.0,17.8
+False,False,Clear,14,11.3,11.3,-2.6,37.53,0.0,22.4
+False,False,Clear,15,11.3,11.3,-2.8,36.99,0.0,20.9
+False,False,Clear,16,10.3,10.3,-2.1,41.62,0.0,22.4
+False,False,Clear,17,8.6,8.6,-1.4,49.46,0.0,20.9
+False,False,Clear,18,7.6,7.6,-0.9,54.93,0.0,20.9
+False,False,Clear,19,6.6,6.6,-0.6,59.68,0.0,22.4
+False,False,Clear,20,6.3,6.3,0.1,64.57,0.0,20.9
+False,False,Clear,21,6.3,6.3,0.6,66.94,0.0,20.9
+False,False,Clear,22,6.6,6.6,0.8,66.52,0.0,22.4
+False,False,Clear,23,6.5,6.5,1.0,67.96,0.0,22.4
+True,False,Clear,0,6.1,3.5,0.9,68.87,0.0,22.4
+True,False,Clear,1,6.8,6.8,1.8,70.52,0.0,17.8
+True,False,Partially cloudy,2,6.3,6.3,1.8,72.99,34.8,17.8
+True,False,Partially cloudy,3,6.6,6.6,2.3,74.09,62.4,19.3
+True,False,Overcast,4,7.3,7.3,3.1,74.74,96.2,19.3
+True,False,Overcast,5,7.8,7.8,3.3,73.25,93.0,16.2
+True,False,Overcast,6,8.3,6.1,3.6,71.83,93.0,16.2
+True,False,Overcast,7,8.1,8.1,3.7,73.3,93.0,16.2
+True,False,Overcast,8,8.6,8.6,4.2,73.4,96.2,16.2
+True,False,Overcast,9,9.6,9.6,4.9,72.06,93.1,15.0
+True,False,Overcast,10,10.6,10.6,6.0,73.24,93.0,11.9
+True,False,Partially cloudy,11,11.6,11.6,6.5,70.95,90.0,20.9
+True,False,Partially cloudy,12,12.3,12.3,7.1,70.6,80.7,16.2
+True,False,Partially cloudy,13,12.3,12.3,7.3,71.56,80.7,17.8
+True,False,Partially cloudy,14,12.5,12.5,6.8,68.26,74.7,20.9
+True,False,Partially cloudy,15,11.6,11.6,5.9,67.61,56.2,22.4
+True,False,Partially cloudy,16,11.3,11.3,5.7,68.02,77.8,19.3
+True,False,Overcast,17,11.1,11.1,6.8,74.85,96.9,19.3
+True,False,Overcast,18,11.3,11.3,7.2,75.44,96.9,14.0
+True,False,Partially cloudy,19,10.3,10.3,8.0,85.67,87.6,7.3
+True,False,"Rain, Partially cloudy",20,9.8,9.8,8.3,90.41,80.7,6.8
+True,False,"Rain, Overcast",21,9.6,9.6,8.7,93.52,93.0,6.8
+True,False,"Rain, Overcast",22,9.6,9.6,9.1,96.68,96.2,6.1
+True,False,"Rain, Overcast",23,9.8,9.8,9.1,95.41,96.2,6.2

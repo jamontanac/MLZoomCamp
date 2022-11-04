@@ -1,0 +1,1417 @@
+Date,hour,temp,feelslike,dew,humidity,cloudcover,visibility,count,WorkDay,Holiday,conditions,icon
+2022-01-01 00:00:00,0,13.5,13.5,12.0,90.68,80.1,10.8,1470,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 01:00:00,1,13.6,13.6,12.3,91.88,96.2,5.7,1532,False,True,Overcast,cloudy
+2022-01-01 02:00:00,2,13.5,13.5,12.1,91.27,100.0,8.7,1084,False,True,Overcast,cloudy
+2022-01-01 03:00:00,3,13.3,13.3,12.0,91.85,100.0,9.4,696,False,True,Overcast,cloudy
+2022-01-01 04:00:00,4,13.3,13.3,11.6,89.46,84.8,12.3,447,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 05:00:00,5,13.5,13.5,11.6,88.3,78.5,15.3,320,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 06:00:00,6,13.5,13.5,11.6,88.3,80.9,16.1,213,False,True,"Rain, Partially cloudy",rain
+2022-01-01 07:00:00,7,13.3,13.3,11.1,86.56,50.2,17.0,193,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 08:00:00,8,13.3,13.3,10.3,82.08,44.7,20.2,244,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 09:00:00,9,13.3,13.3,9.8,79.38,44.7,23.5,364,False,True,Partially cloudy,partly-cloudy-day
+2022-01-01 10:00:00,10,14.3,14.3,9.2,71.0,44.7,22.0,655,False,True,Partially cloudy,partly-cloudy-day
+2022-01-01 11:00:00,11,15.1,15.1,9.0,66.96,44.7,25.5,1058,False,True,Partially cloudy,partly-cloudy-day
+2022-01-01 12:00:00,12,16.1,16.1,10.1,67.63,47.1,23.3,1412,False,True,Partially cloudy,partly-cloudy-day
+2022-01-01 13:00:00,13,15.0,15.0,9.8,71.11,50.2,19.8,1704,False,True,Partially cloudy,partly-cloudy-day
+2022-01-01 14:00:00,14,14.6,14.6,10.3,75.44,50.7,17.3,1754,False,True,Partially cloudy,partly-cloudy-day
+2022-01-01 15:00:00,15,14.6,14.6,10.6,76.97,93.0,18.0,1945,False,True,Overcast,cloudy
+2022-01-01 16:00:00,16,13.8,13.8,10.8,82.14,84.5,17.3,1543,False,True,Partially cloudy,partly-cloudy-day
+2022-01-01 17:00:00,17,14.0,14.0,10.8,81.09,86.9,10.8,1255,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 18:00:00,18,13.3,13.3,10.8,84.85,89.2,13.1,1018,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 19:00:00,19,13.3,13.3,11.1,86.55,93.1,12.9,835,False,True,Overcast,cloudy
+2022-01-01 20:00:00,20,13.3,13.3,11.1,86.54,89.2,13.5,856,False,True,Partially cloudy,partly-cloudy-night
+2022-01-01 21:00:00,21,13.5,13.5,11.1,85.44,92.3,12.9,726,False,True,Overcast,cloudy
+2022-01-01 22:00:00,22,13.1,13.1,11.0,87.1,93.1,11.9,618,False,True,Overcast,cloudy
+2022-01-01 23:00:00,23,13.3,13.3,11.1,86.55,69.4,12.0,545,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 00:00:00,0,13.3,13.3,11.3,87.7,92.3,12.6,352,False,True,Overcast,cloudy
+2022-01-02 01:00:00,1,13.3,13.3,11.3,87.7,89.2,23.1,217,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 02:00:00,2,13.1,13.1,10.9,85.97,81.6,17.7,169,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 03:00:00,3,13.0,13.0,11.1,88.26,92.3,16.1,74,False,True,Overcast,cloudy
+2022-01-02 04:00:00,4,12.6,12.6,11.5,93.02,81.6,20.8,60,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 05:00:00,5,12.5,12.5,11.3,92.39,74.6,17.7,38,False,True,"Rain, Partially cloudy",rain
+2022-01-02 06:00:00,6,12.3,12.3,10.6,89.37,77.6,26.2,92,False,True,"Rain, Partially cloudy",rain
+2022-01-02 07:00:00,7,12.0,12.0,9.3,83.57,81.5,30.1,127,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 08:00:00,8,11.6,11.6,8.8,82.97,77.7,30.1,250,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 09:00:00,9,11.1,11.1,8.8,85.75,78.4,30.1,512,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 10:00:00,10,11.6,11.6,8.3,80.2,70.8,27.0,981,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 11:00:00,11,12.1,12.1,8.5,78.65,78.5,30.1,1333,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 12:00:00,12,12.1,12.1,8.1,76.57,77.7,30.1,1619,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 13:00:00,13,12.1,12.1,8.6,78.69,76.8,9.3,1463,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 14:00:00,14,12.3,12.3,9.4,81.98,86.9,14.2,1466,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 15:00:00,15,12.1,12.1,9.7,84.73,86.9,11.7,1265,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 16:00:00,16,12.0,12.0,8.5,79.18,86.9,26.6,1221,False,True,Partially cloudy,partly-cloudy-day
+2022-01-02 17:00:00,17,11.3,11.3,7.8,79.1,57.1,29.3,1063,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 18:00:00,18,11.1,11.1,8.1,81.79,86.2,34.3,1016,False,True,"Rain, Partially cloudy",rain
+2022-01-02 19:00:00,19,10.5,10.5,7.6,82.26,12.2,30.5,919,False,True,Clear,clear-night
+2022-01-02 20:00:00,20,10.3,10.3,6.8,78.94,21.6,34.0,732,False,True,Partially cloudy,partly-cloudy-night
+2022-01-02 21:00:00,21,10.1,10.1,5.8,74.68,3.1,32.4,562,False,True,Clear,clear-night
+2022-01-02 22:00:00,22,9.8,9.8,6.1,77.78,3.1,23.9,565,False,True,Clear,clear-night
+2022-01-02 23:00:00,23,9.8,9.8,6.8,81.61,56.1,17.6,398,False,True,Partially cloudy,partly-cloudy-night
+2022-01-03 00:00:00,0,9.8,9.8,7.0,82.74,74.0,16.0,277,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 01:00:00,1,9.8,9.8,6.7,80.52,59.4,15.2,197,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 02:00:00,2,9.8,9.8,7.0,82.73,42.6,15.8,97,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 03:00:00,3,9.6,9.6,7.0,83.84,31.0,16.1,52,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 04:00:00,4,9.6,9.6,6.6,81.57,31.8,18.8,36,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 05:00:00,5,9.6,9.6,6.5,81.02,31.0,18.2,67,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 06:00:00,6,9.6,9.6,6.6,81.57,65.7,17.3,144,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 07:00:00,7,9.8,9.8,6.8,81.61,62.6,14.9,223,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 08:00:00,8,10.1,10.1,7.3,82.78,78.6,13.0,374,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 09:00:00,9,10.1,10.1,7.1,81.65,78.5,20.1,671,True,True,Partially cloudy,partly-cloudy-day
+2022-01-03 10:00:00,10,10.1,10.1,6.3,77.3,28.6,27.0,1001,True,True,Partially cloudy,partly-cloudy-day
+2022-01-03 11:00:00,11,10.1,10.1,6.1,76.24,59.3,30.9,1391,True,True,Partially cloudy,partly-cloudy-day
+2022-01-03 12:00:00,12,10.6,10.6,6.6,76.32,77.6,29.3,1662,True,True,Partially cloudy,partly-cloudy-day
+2022-01-03 13:00:00,13,10.8,10.8,7.1,77.93,80.6,30.9,1803,True,True,Partially cloudy,partly-cloudy-day
+2022-01-03 14:00:00,14,11.0,11.0,7.1,76.91,93.8,27.8,1977,True,True,Overcast,cloudy
+2022-01-03 15:00:00,15,10.8,10.8,6.8,76.36,63.2,25.5,1929,True,True,Partially cloudy,partly-cloudy-day
+2022-01-03 16:00:00,16,10.1,10.1,6.8,79.99,69.0,23.0,1651,True,True,Partially cloudy,partly-cloudy-day
+2022-01-03 17:00:00,17,10.1,10.1,7.1,81.65,66.4,22.4,1376,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 18:00:00,18,10.1,10.1,7.5,83.92,69.5,19.1,1133,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 19:00:00,19,9.8,9.8,7.3,84.47,50.9,17.6,855,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 20:00:00,20,9.8,9.8,7.5,85.63,50.9,16.2,613,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 21:00:00,21,9.1,9.1,7.1,87.32,63.3,16.8,480,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 22:00:00,22,9.3,9.3,7.6,89.14,50.9,14.5,529,True,True,Partially cloudy,partly-cloudy-night
+2022-01-03 23:00:00,23,9.1,9.1,7.6,90.35,37.8,14.9,290,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 00:00:00,0,9.0,9.0,7.6,90.95,63.3,14.4,175,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 01:00:00,1,9.0,9.0,7.3,89.13,69.5,15.3,127,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 02:00:00,2,8.6,8.6,6.8,88.49,69.5,15.0,76,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 03:00:00,3,8.6,8.6,7.1,90.32,89.3,16.6,55,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 04:00:00,4,8.8,8.8,7.1,89.11,89.9,17.4,63,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 05:00:00,5,8.6,8.6,6.8,88.48,90.0,18.4,121,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 06:00:00,6,8.3,8.3,6.8,90.29,93.0,18.6,494,True,True,Overcast,cloudy
+2022-01-04 07:00:00,7,8.3,8.3,6.8,90.3,90.7,15.7,1035,True,True,Overcast,cloudy
+2022-01-04 08:00:00,8,8.3,8.3,6.8,90.28,74.7,14.1,1370,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 09:00:00,9,8.3,8.3,6.8,90.29,80.6,10.4,631,True,True,Partially cloudy,partly-cloudy-day
+2022-01-04 10:00:00,10,6.0,2.8,4.4,88.88,77.6,12.6,291,True,True,"Rain, Partially cloudy",rain
+2022-01-04 11:00:00,11,4.8,4.8,3.3,90.02,89.9,9.2,299,True,True,"Rain, Partially cloudy",rain
+2022-01-04 12:00:00,12,3.6,3.6,2.1,89.91,96.9,8.9,562,True,True,"Rain, Overcast",rain
+2022-01-04 13:00:00,13,4.0,0.3,0.7,78.56,90.0,17.1,705,True,True,"Rain, Partially cloudy",rain
+2022-01-04 14:00:00,14,4.5,4.5,0.6,75.84,59.5,37.8,809,True,True,Partially cloudy,partly-cloudy-day
+2022-01-04 15:00:00,15,4.5,4.5,0.3,74.21,58.7,37.8,1011,True,True,Partially cloudy,partly-cloudy-day
+2022-01-04 16:00:00,16,4.5,4.5,-0.6,69.04,50.3,37.8,1241,True,True,Partially cloudy,partly-cloudy-day
+2022-01-04 17:00:00,17,3.8,3.8,-0.9,71.44,58.7,37.8,1654,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 18:00:00,18,3.8,3.8,-1.4,68.88,31.7,32.4,1643,True,True,Partially cloudy,partly-cloudy-night
+2022-01-04 19:00:00,19,2.5,2.5,-1.4,75.5,5.6,30.1,1109,True,True,Clear,clear-night
+2022-01-04 20:00:00,20,2.1,2.1,-1.5,77.08,5.6,23.9,651,True,True,Clear,clear-night
+2022-01-04 21:00:00,21,2.3,2.3,-1.2,77.7,0.0,23.6,477,True,True,Clear,clear-night
+2022-01-04 22:00:00,22,2.6,2.6,-0.9,77.76,0.0,25.5,360,True,True,Clear,clear-night
+2022-01-04 23:00:00,23,2.1,2.1,-1.0,79.97,0.0,30.1,157,True,True,Clear,clear-night
+2022-01-05 00:00:00,0,2.1,2.1,-1.0,79.95,0.0,28.6,104,True,False,Clear,clear-night
+2022-01-05 01:00:00,1,1.8,1.8,-1.2,80.5,0.0,32.4,63,True,False,Clear,clear-night
+2022-01-05 02:00:00,2,1.6,1.6,-1.5,79.89,0.0,34.0,40,True,False,Clear,clear-night
+2022-01-05 03:00:00,3,1.8,1.8,-1.4,79.35,0.0,32.4,32,True,False,Clear,clear-night
+2022-01-05 04:00:00,4,1.8,1.8,-1.4,79.34,0.0,34.0,35,True,False,Clear,clear-night
+2022-01-05 05:00:00,5,2.3,2.3,-1.2,77.71,0.0,30.5,103,True,False,Clear,clear-night
+2022-01-05 06:00:00,6,2.1,2.1,-1.0,79.96,0.0,30.5,512,True,False,Clear,clear-night
+2022-01-05 07:00:00,7,1.8,1.8,-0.9,82.27,0.0,27.4,1119,True,False,Clear,clear-night
+2022-01-05 08:00:00,8,1.8,1.8,-0.9,82.27,0.0,30.5,1783,True,False,Clear,clear-night
+2022-01-05 09:00:00,9,2.3,2.3,-0.7,80.57,5.6,28.6,1046,True,False,Clear,clear-day
+2022-01-05 10:00:00,10,3.1,3.1,-0.2,78.94,5.6,22.4,771,True,False,Clear,clear-day
+2022-01-05 11:00:00,11,5.1,5.1,0.3,71.16,5.6,21.7,891,True,False,Clear,clear-day
+2022-01-05 12:00:00,12,6.5,6.5,0.3,64.61,19.4,23.9,1079,True,False,Clear,clear-day
+2022-01-05 13:00:00,13,6.3,6.3,0.3,65.5,25.4,27.8,1207,True,False,Partially cloudy,partly-cloudy-day
+2022-01-05 14:00:00,14,6.3,6.3,0.2,64.56,63.8,30.9,1201,True,False,Partially cloudy,partly-cloudy-day
+2022-01-05 15:00:00,15,6.3,6.3,-0.1,63.18,25.4,34.0,1328,True,False,Partially cloudy,partly-cloudy-day
+2022-01-05 16:00:00,16,5.5,5.5,0.1,68.23,16.1,32.4,1449,True,False,Clear,clear-day
+2022-01-05 17:00:00,17,5.1,5.1,0.6,72.73,5.6,30.5,1980,True,False,Clear,clear-night
+2022-01-05 18:00:00,18,4.0,4.0,0.6,78.54,5.6,30.1,1983,True,False,Clear,clear-night
+2022-01-05 19:00:00,19,3.6,3.6,0.6,80.76,5.6,22.0,1315,True,False,Clear,clear-night
+2022-01-05 20:00:00,20,4.5,4.5,0.8,76.97,22.5,19.1,762,True,False,Partially cloudy,partly-cloudy-night
+2022-01-05 21:00:00,21,3.8,3.8,0.1,76.85,34.9,18.5,674,True,False,Partially cloudy,partly-cloudy-night
+2022-01-05 22:00:00,22,1.3,1.3,-1.0,84.69,3.1,17.9,545,True,False,Clear,clear-night
+2022-01-05 23:00:00,23,1.1,1.1,-0.2,91.05,0.0,14.1,245,True,False,Clear,clear-night
+2022-01-06 00:00:00,0,0.3,0.3,-0.9,91.66,0.0,15.3,131,True,False,Clear,clear-night
+2022-01-06 01:00:00,1,-0.2,-0.2,-0.9,95.02,0.0,16.9,93,True,False,Clear,clear-night
+2022-01-06 02:00:00,2,0.1,0.1,-0.5,95.73,0.0,13.5,45,True,False,Clear,clear-night
+2022-01-06 03:00:00,3,-0.4,-0.4,-1.4,92.96,0.0,11.4,43,True,False,Clear,clear-night
+2022-01-06 04:00:00,4,-1.2,-1.2,-2.0,94.29,5.6,9.3,39,True,False,Clear,clear-night
+2022-01-06 05:00:00,5,-0.9,-0.9,-1.2,97.81,0.0,11.5,105,True,False,Clear,clear-night
+2022-01-06 06:00:00,6,-1.5,-1.5,-2.2,94.99,0.0,12.7,478,True,False,Clear,clear-night
+2022-01-06 07:00:00,7,-1.9,-1.9,-2.4,96.36,0.0,17.5,1176,True,False,Clear,clear-night
+2022-01-06 08:00:00,8,-1.2,-1.2,-1.4,98.5,27.9,11.9,1717,True,False,Partially cloudy,partly-cloudy-night
+2022-01-06 09:00:00,9,-0.9,-0.9,-1.4,96.4,22.3,11.0,1044,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 10:00:00,10,0.6,0.6,0.0,95.71,46.7,11.7,805,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 11:00:00,11,3.1,3.1,0.3,81.89,65.2,18.5,833,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 12:00:00,12,4.5,4.5,-1.1,66.6,90.0,21.2,976,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 13:00:00,13,4.6,4.6,-1.1,66.11,69.2,23.2,1007,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 14:00:00,14,5.1,5.1,1.1,74.86,90.0,24.7,936,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 15:00:00,15,5.6,5.6,2.0,77.65,75.6,24.3,1039,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 16:00:00,16,6.6,6.6,2.4,74.06,69.5,28.2,1110,True,False,Partially cloudy,partly-cloudy-day
+2022-01-06 17:00:00,17,7.0,7.0,2.8,74.62,81.7,28.2,1623,True,False,"Rain, Partially cloudy",rain
+2022-01-06 18:00:00,18,7.3,7.3,2.9,73.14,100.0,20.2,1627,True,False,Overcast,cloudy
+2022-01-06 19:00:00,19,7.1,7.1,4.2,81.27,96.9,18.1,1195,True,False,Overcast,cloudy
+2022-01-06 20:00:00,20,6.8,6.8,5.2,88.95,96.9,4.7,643,True,False,Overcast,cloudy
+2022-01-06 21:00:00,21,7.1,7.1,5.8,91.47,97.0,22.2,479,True,False,"Rain, Overcast",rain
+2022-01-06 22:00:00,22,6.8,6.8,5.7,92.08,41.7,28.9,384,True,False,Partially cloudy,partly-cloudy-night
+2022-01-06 23:00:00,23,7.3,7.3,6.3,93.34,90.0,21.7,274,True,False,"Rain, Partially cloudy",rain
+2022-01-07 00:00:00,0,6.1,6.1,4.5,89.47,22.5,21.7,172,True,False,"Rain, Partially cloudy",rain
+2022-01-07 01:00:00,1,6.1,6.1,2.8,79.41,14.7,37.8,67,True,False,Clear,clear-night
+2022-01-07 02:00:00,2,4.8,4.8,2.6,85.65,37.9,34.3,49,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 03:00:00,3,5.3,5.3,2.5,82.15,51.0,29.3,29,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 04:00:00,4,5.0,5.0,2.5,83.87,26.2,32.4,44,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 05:00:00,5,4.6,4.6,2.1,83.81,33.9,35.9,94,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 06:00:00,6,4.3,4.3,1.1,79.71,13.2,39.7,471,True,False,Clear,clear-night
+2022-01-07 07:00:00,7,4.0,4.0,1.0,80.82,34.8,34.0,1056,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 08:00:00,8,3.8,3.8,1.0,81.96,16.7,34.0,1533,True,False,Clear,clear-night
+2022-01-07 09:00:00,9,3.6,3.6,0.8,81.95,14.7,34.0,1125,True,False,Clear,clear-day
+2022-01-07 10:00:00,10,4.1,4.1,1.1,80.82,5.6,37.8,895,True,False,Clear,clear-day
+2022-01-07 11:00:00,11,5.8,5.8,1.3,72.85,5.6,29.3,896,True,False,Clear,clear-day
+2022-01-07 12:00:00,12,6.3,6.3,0.8,67.9,33.1,34.7,1173,True,False,Partially cloudy,partly-cloudy-day
+2022-01-07 13:00:00,13,6.1,6.1,0.4,66.44,26.2,30.9,1152,True,False,Partially cloudy,partly-cloudy-day
+2022-01-07 14:00:00,14,5.6,5.6,0.8,71.25,50.2,34.0,1085,True,False,Partially cloudy,partly-cloudy-day
+2022-01-07 15:00:00,15,5.5,5.5,1.0,72.8,62.6,32.0,1260,True,False,Partially cloudy,partly-cloudy-day
+2022-01-07 16:00:00,16,5.6,5.6,1.3,73.85,65.7,34.0,1352,True,False,Partially cloudy,partly-cloudy-day
+2022-01-07 17:00:00,17,5.1,5.1,0.6,72.26,93.0,32.8,1807,True,False,Overcast,cloudy
+2022-01-07 18:00:00,18,3.8,3.8,1.6,85.59,62.4,34.7,1792,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 19:00:00,19,2.8,2.8,1.1,88.6,63.2,28.9,1223,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 20:00:00,20,2.3,2.3,1.1,91.79,39.5,19.6,842,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 21:00:00,21,1.8,1.8,0.3,89.79,7.0,32.4,540,True,False,Clear,clear-night
+2022-01-07 22:00:00,22,1.8,1.8,0.3,89.81,44.7,24.3,495,True,False,Partially cloudy,partly-cloudy-night
+2022-01-07 23:00:00,23,1.1,1.1,0.0,92.37,44.7,24.3,445,True,False,Partially cloudy,partly-cloudy-night
+2022-01-08 00:00:00,0,1.3,1.3,0.3,93.06,37.8,17.0,311,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 01:00:00,1,1.3,1.3,0.5,94.4,63.3,19.7,246,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 02:00:00,2,1.6,-1.0,0.8,94.41,66.4,18.1,157,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 03:00:00,3,2.3,2.3,1.3,93.11,69.5,13.7,99,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 04:00:00,4,2.6,0.3,1.3,91.16,96.2,18.0,76,False,False,Overcast,cloudy
+2022-01-08 05:00:00,5,3.5,3.5,2.0,89.94,70.6,21.6,56,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 06:00:00,6,5.0,5.0,3.1,87.56,78.5,27.0,156,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 07:00:00,7,5.8,5.8,4.6,92.02,93.8,8.8,235,False,False,Overcast,cloudy
+2022-01-08 08:00:00,8,6.5,6.5,5.5,93.34,81.7,8.0,501,False,False,"Rain, Partially cloudy",rain
+2022-01-08 09:00:00,9,7.6,7.6,7.0,96.0,84.8,7.6,642,False,False,Partially cloudy,partly-cloudy-day
+2022-01-08 10:00:00,10,8.4,8.4,7.5,94.69,78.5,7.7,728,False,False,"Rain, Partially cloudy",rain
+2022-01-08 11:00:00,11,8.8,8.8,8.0,94.73,90.7,6.1,575,False,False,"Rain, Overcast",rain
+2022-01-08 12:00:00,12,9.3,9.3,8.5,94.75,96.9,5.5,533,False,False,"Rain, Overcast",rain
+2022-01-08 13:00:00,13,9.8,9.8,9.0,94.77,93.8,10.3,670,False,False,"Rain, Overcast",rain
+2022-01-08 14:00:00,14,9.6,9.6,8.8,94.76,96.9,4.6,729,False,False,"Rain, Overcast",rain
+2022-01-08 15:00:00,15,10.0,10.0,9.1,94.14,76.8,30.1,983,False,False,"Rain, Partially cloudy",rain
+2022-01-08 16:00:00,16,9.6,9.6,8.6,93.46,80.7,24.7,744,False,False,Partially cloudy,partly-cloudy-day
+2022-01-08 17:00:00,17,9.3,9.3,7.6,89.1,59.5,20.5,856,False,False,"Rain, Partially cloudy",rain
+2022-01-08 18:00:00,18,8.1,8.1,6.3,88.4,63.3,20.2,897,False,False,"Rain, Partially cloudy",rain
+2022-01-08 19:00:00,19,7.8,7.8,5.3,84.19,66.4,18.0,882,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 20:00:00,20,8.1,8.1,3.8,74.31,90.0,20.5,689,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 21:00:00,21,6.8,6.8,1.9,70.51,39.3,24.7,467,False,False,Partially cloudy,partly-cloudy-night
+2022-01-08 22:00:00,22,5.6,5.6,1.8,76.55,0.0,28.9,448,False,False,Clear,clear-night
+2022-01-08 23:00:00,23,4.8,4.8,1.0,76.43,0.0,30.5,388,False,False,Clear,clear-night
+2022-01-09 00:00:00,0,4.6,4.6,1.1,78.06,3.1,32.0,344,False,False,Clear,clear-night
+2022-01-09 01:00:00,1,3.8,3.8,1.1,82.54,0.0,25.8,247,False,False,Clear,clear-night
+2022-01-09 02:00:00,2,3.8,3.8,1.1,82.54,0.0,28.6,186,False,False,Clear,clear-night
+2022-01-09 03:00:00,3,4.0,4.0,1.1,81.4,0.0,27.0,116,False,False,Clear,clear-night
+2022-01-09 04:00:00,4,3.8,3.8,1.0,81.96,0.0,23.1,73,False,False,Clear,clear-night
+2022-01-09 05:00:00,5,3.6,3.6,1.0,83.11,0.0,24.7,65,False,False,Clear,clear-night
+2022-01-09 06:00:00,6,3.3,3.3,0.8,83.67,44.7,25.9,115,False,False,Partially cloudy,partly-cloudy-night
+2022-01-09 07:00:00,7,3.3,3.3,0.8,83.67,5.6,25.1,187,False,False,Clear,clear-night
+2022-01-09 08:00:00,8,2.8,2.8,0.5,84.83,16.7,22.0,382,False,False,Clear,clear-night
+2022-01-09 09:00:00,9,2.8,2.8,0.8,86.67,5.6,23.0,808,False,False,Clear,clear-day
+2022-01-09 10:00:00,10,3.8,3.8,1.6,85.54,5.6,23.9,1319,False,False,Clear,clear-day
+2022-01-09 11:00:00,11,6.3,6.3,2.5,76.66,5.6,25.5,1823,False,False,Clear,clear-day
+2022-01-09 12:00:00,12,7.1,7.1,2.6,73.08,16.7,28.6,2295,False,False,Clear,clear-day
+2022-01-09 13:00:00,13,7.5,4.9,2.1,68.64,16.7,23.0,2391,False,False,Clear,clear-day
+2022-01-09 14:00:00,14,7.7,7.7,2.0,67.67,29.9,23.9,2378,False,False,Partially cloudy,partly-cloudy-day
+2022-01-09 15:00:00,15,7.4,7.4,2.6,72.06,35.6,28.6,2160,False,False,Partially cloudy,partly-cloudy-day
+2022-01-09 16:00:00,16,7.3,7.3,2.3,70.6,84.4,23.9,1981,False,False,Partially cloudy,partly-cloudy-day
+2022-01-09 17:00:00,17,6.3,6.3,2.3,75.59,54.7,18.2,1292,False,False,Partially cloudy,partly-cloudy-night
+2022-01-09 18:00:00,18,5.2,5.2,2.3,82.1,27.1,17.9,1051,False,False,Partially cloudy,partly-cloudy-night
+2022-01-09 19:00:00,19,4.4,4.4,2.1,85.6,13.2,14.4,833,False,False,Clear,clear-night
+2022-01-09 20:00:00,20,3.1,3.1,1.6,89.88,0.0,16.4,545,False,False,Clear,clear-night
+2022-01-09 21:00:00,21,3.1,3.1,2.3,94.45,0.0,13.8,477,False,False,Clear,clear-night
+2022-01-09 22:00:00,22,2.6,2.6,2.1,96.49,3.1,13.8,338,False,False,Clear,clear-night
+2022-01-09 23:00:00,23,2.3,2.3,2.0,97.86,59.5,13.0,240,False,False,Partially cloudy,partly-cloudy-night
+2022-01-10 00:00:00,0,2.1,2.1,1.6,96.48,66.4,11.0,131,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 01:00:00,1,2.1,2.1,1.8,97.87,69.5,11.6,88,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 02:00:00,2,1.6,1.6,1.3,97.87,69.5,9.6,47,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 03:00:00,3,2.1,2.1,2.0,99.27,69.5,9.2,33,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 04:00:00,4,2.6,2.6,2.5,99.27,69.5,9.8,54,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 05:00:00,5,3.1,3.1,3.0,99.27,69.5,10.0,124,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 06:00:00,6,3.3,3.3,3.1,98.58,69.5,9.9,609,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 07:00:00,7,3.6,3.6,3.5,99.28,65.7,11.4,1402,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 08:00:00,8,4.0,4.0,3.8,98.58,65.7,11.4,2200,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 09:00:00,9,4.5,4.5,4.3,98.57,65.7,14.2,1280,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 10:00:00,10,5.3,5.3,5.0,97.9,65.7,14.3,851,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 11:00:00,11,6.0,6.0,5.6,97.22,62.6,14.0,815,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 12:00:00,12,6.9,6.9,5.6,92.02,50.2,15.6,1015,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 13:00:00,13,7.5,6.5,5.8,88.97,62.6,13.7,1153,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 14:00:00,14,8.6,8.6,6.1,84.33,59.5,12.5,1033,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 15:00:00,15,9.0,9.0,5.8,80.42,62.6,13.1,1167,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 16:00:00,16,8.6,8.6,6.1,84.33,80.9,13.5,1413,True,False,Partially cloudy,partly-cloudy-day
+2022-01-10 17:00:00,17,8.6,8.6,6.6,87.27,100.0,12.9,2121,True,False,Overcast,cloudy
+2022-01-10 18:00:00,18,8.6,8.6,6.8,88.49,93.8,11.3,2308,True,False,Overcast,cloudy
+2022-01-10 19:00:00,19,8.6,8.6,7.1,90.32,93.8,10.7,1698,True,False,Overcast,cloudy
+2022-01-10 20:00:00,20,8.8,8.8,7.6,92.19,96.9,9.2,935,True,False,Overcast,cloudy
+2022-01-10 21:00:00,21,8.8,8.8,8.0,94.71,96.2,4.8,648,True,False,"Rain, Overcast",rain
+2022-01-10 22:00:00,22,9.0,9.0,7.7,90.99,69.1,4.2,511,True,False,Partially cloudy,partly-cloudy-night
+2022-01-10 23:00:00,23,9.1,9.1,7.4,88.56,93.0,3.2,284,True,False,Overcast,cloudy
+2022-01-11 00:00:00,0,9.1,9.1,7.4,88.55,93.0,7.1,145,True,False,Overcast,cloudy
+2022-01-11 01:00:00,1,8.8,8.8,7.4,90.34,96.9,8.4,55,True,False,Overcast,cloudy
+2022-01-11 02:00:00,2,8.6,8.6,7.6,93.44,100.0,7.6,53,True,False,"Rain, Overcast",rain
+2022-01-11 03:00:00,3,8.6,8.6,7.6,93.43,96.2,9.5,40,True,False,Overcast,cloudy
+2022-01-11 04:00:00,4,9.1,9.1,7.5,89.75,100.0,12.8,46,True,False,Overcast,cloudy
+2022-01-11 05:00:00,5,8.8,8.8,7.4,90.34,100.0,7.6,136,True,False,Overcast,cloudy
+2022-01-11 06:00:00,6,8.8,8.8,7.7,92.2,100.0,7.5,653,True,False,Overcast,cloudy
+2022-01-11 07:00:00,7,9.1,9.1,8.1,93.47,100.0,7.4,1574,True,False,Overcast,cloudy
+2022-01-11 08:00:00,8,9.3,9.3,8.1,92.23,96.2,6.1,2528,True,False,Overcast,cloudy
+2022-01-11 09:00:00,9,9.1,9.1,8.3,94.74,96.9,5.4,1469,True,False,Overcast,cloudy
+2022-01-11 10:00:00,10,9.5,9.5,8.3,92.24,100.0,5.6,897,True,False,Overcast,cloudy
+2022-01-11 11:00:00,11,9.6,9.6,8.7,93.5,100.0,5.3,859,True,False,Overcast,cloudy
+2022-01-11 12:00:00,12,10.3,10.3,9.1,92.29,100.0,2.1,1001,True,False,Overcast,cloudy
+2022-01-11 13:00:00,13,10.3,10.3,9.4,93.55,100.0,3.0,970,True,False,Overcast,cloudy
+2022-01-11 14:00:00,14,10.5,10.5,9.6,94.18,100.0,2.7,757,True,False,Overcast,cloudy
+2022-01-11 15:00:00,15,10.3,10.3,9.6,95.44,97.0,2.4,799,True,False,"Rain, Overcast",rain
+2022-01-11 16:00:00,16,10.1,10.1,9.6,96.72,100.0,2.7,1143,True,False,"Rain, Overcast",rain
+2022-01-11 17:00:00,17,10.3,10.3,9.8,96.72,100.0,3.3,1926,True,False,"Rain, Overcast",rain
+2022-01-11 18:00:00,18,10.3,10.3,9.8,96.71,100.0,6.4,2129,True,False,"Rain, Overcast",rain
+2022-01-11 19:00:00,19,9.8,9.8,9.0,94.77,100.0,7.2,1457,True,False,"Rain, Overcast",rain
+2022-01-11 20:00:00,20,9.5,9.5,8.3,92.24,100.0,10.1,895,True,False,"Rain, Overcast",rain
+2022-01-11 21:00:00,21,9.3,9.3,7.8,90.37,96.2,8.6,723,True,False,Overcast,cloudy
+2022-01-11 22:00:00,22,9.1,9.1,7.1,87.33,96.2,11.2,597,True,False,Overcast,cloudy
+2022-01-11 23:00:00,23,8.6,8.6,6.6,87.28,74.0,12.9,231,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 00:00:00,0,7.8,7.8,5.1,83.11,31.8,9.2,168,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 01:00:00,1,6.8,6.8,5.1,88.96,27.9,7.1,85,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 02:00:00,2,6.3,6.3,4.3,87.09,27.9,9.2,51,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 03:00:00,3,6.1,6.1,3.8,85.26,27.9,6.5,37,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 04:00:00,4,5.6,5.6,4.1,90.1,31.8,6.5,47,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 05:00:00,5,5.0,5.0,3.5,90.06,28.7,5.0,143,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 06:00:00,6,4.8,4.8,2.3,83.94,9.3,6.7,662,True,False,Clear,clear-night
+2022-01-12 07:00:00,7,3.8,3.8,1.8,86.83,0.0,6.1,1596,True,False,Clear,clear-night
+2022-01-12 08:00:00,8,2.6,2.6,1.5,92.48,22.3,11.1,2632,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 09:00:00,9,2.3,2.3,1.8,96.5,22.3,8.6,1446,True,False,Partially cloudy,partly-cloudy-day
+2022-01-12 10:00:00,10,3.1,3.1,2.8,97.89,16.7,7.1,945,True,False,Clear,clear-day
+2022-01-12 11:00:00,11,6.1,6.1,6.0,99.28,5.6,8.4,1044,True,False,Clear,clear-day
+2022-01-12 12:00:00,12,7.6,7.6,3.9,76.94,0.0,10.4,1343,True,False,Clear,clear-day
+2022-01-12 13:00:00,13,8.0,8.0,4.5,78.59,16.7,16.6,1331,True,False,Clear,clear-day
+2022-01-12 14:00:00,14,8.1,8.1,4.2,75.89,5.6,19.4,1302,True,False,Clear,clear-day
+2022-01-12 15:00:00,15,8.1,8.1,4.3,77.47,5.6,21.0,1439,True,False,Clear,clear-day
+2022-01-12 16:00:00,16,7.8,7.8,4.6,80.19,16.7,23.2,1687,True,False,Clear,clear-day
+2022-01-12 17:00:00,17,5.8,5.8,3.8,87.0,16.7,14.0,2456,True,False,Clear,clear-night
+2022-01-12 18:00:00,18,4.7,4.7,3.6,93.22,33.5,12.2,2652,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 19:00:00,19,4.3,4.3,3.6,95.19,33.5,8.1,1857,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 20:00:00,20,4.1,4.1,3.8,97.9,22.3,10.5,1085,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 21:00:00,21,3.8,3.8,3.3,96.52,22.3,8.3,794,True,False,Partially cloudy,partly-cloudy-night
+2022-01-12 22:00:00,22,3.6,3.6,3.3,97.89,16.7,7.4,733,True,False,Clear,clear-night
+2022-01-12 23:00:00,23,3.3,3.3,3.0,97.89,0.0,5.6,427,True,False,Clear,clear-night
+2022-01-13 00:00:00,0,3.1,3.1,3.1,99.98,0.0,7.3,208,True,False,Clear,clear-night
+2022-01-13 01:00:00,1,2.6,2.6,2.5,99.28,0.0,8.6,106,True,False,Clear,clear-night
+2022-01-13 02:00:00,2,2.3,2.3,2.1,98.57,33.5,5.0,69,True,False,Partially cloudy,partly-cloudy-night
+2022-01-13 03:00:00,3,1.8,1.8,1.6,98.58,50.2,4.3,71,True,False,Partially cloudy,partly-cloudy-night
+2022-01-13 04:00:00,4,1.6,1.6,1.5,99.27,0.0,1.5,71,True,False,Clear,clear-night
+2022-01-13 05:00:00,5,1.3,1.3,1.1,98.57,0.0,1.2,120,True,False,Clear,clear-night
+2022-01-13 06:00:00,6,1.3,1.3,1.1,98.56,50.2,0.9,613,True,False,Partially cloudy,fog
+2022-01-13 07:00:00,7,1.8,1.8,1.8,99.97,44.4,3.8,1564,True,False,Partially cloudy,partly-cloudy-night
+2022-01-13 08:00:00,8,1.1,1.1,1.0,99.26,22.1,3.8,2708,True,False,Partially cloudy,partly-cloudy-night
+2022-01-13 09:00:00,9,1.3,1.3,1.1,98.56,22.1,4.6,1551,True,False,Partially cloudy,partly-cloudy-day
+2022-01-13 10:00:00,10,2.8,2.8,2.8,99.99,22.1,10.0,988,True,False,Partially cloudy,partly-cloudy-day
+2022-01-13 11:00:00,11,5.1,5.1,5.0,99.26,18.8,20.3,1028,True,False,Clear,clear-day
+2022-01-13 12:00:00,12,7.3,7.3,5.1,85.87,0.0,20.1,1336,True,False,Rain,rain
+2022-01-13 13:00:00,13,7.6,7.6,4.1,78.98,0.0,20.1,1325,True,False,Clear,clear-day
+2022-01-13 14:00:00,14,8.4,8.4,3.6,72.24,0.0,26.3,1274,True,False,Clear,clear-day
+2022-01-13 15:00:00,15,8.2,8.2,2.1,65.41,0.0,22.4,1521,True,False,Clear,clear-day
+2022-01-13 16:00:00,16,6.7,6.7,2.3,73.99,0.0,21.6,1731,True,False,Clear,clear-day
+2022-01-13 17:00:00,17,5.2,5.2,1.5,77.54,0.0,24.7,2396,True,False,Clear,clear-night
+2022-01-13 18:00:00,18,4.8,4.8,2.8,86.84,0.0,23.2,2523,True,False,Clear,clear-night
+2022-01-13 19:00:00,19,4.0,4.0,2.3,88.61,0.0,21.6,1782,True,False,Clear,clear-night
+2022-01-13 20:00:00,20,3.2,3.2,1.8,91.13,0.0,20.1,1149,True,False,Clear,clear-night
+2022-01-13 21:00:00,21,2.6,2.6,1.3,91.09,0.0,22.4,870,True,False,Clear,clear-night
+2022-01-13 22:00:00,22,2.8,2.8,1.3,89.79,0.0,21.6,693,True,False,Clear,clear-night
+2022-01-13 23:00:00,23,2.0,2.0,0.8,91.69,0.0,20.5,489,True,False,Clear,clear-night
+2022-01-14 00:00:00,0,1.8,1.8,1.1,95.0,0.0,20.1,242,True,False,Clear,clear-night
+2022-01-14 01:00:00,1,1.6,1.6,1.1,96.39,0.0,20.5,163,True,False,Clear,clear-night
+2022-01-14 02:00:00,2,1.1,1.1,0.5,95.71,0.0,18.8,96,True,False,Clear,clear-night
+2022-01-14 03:00:00,3,0.6,0.6,0.1,96.41,0.0,20.6,60,True,False,Clear,clear-night
+2022-01-14 04:00:00,4,0.5,0.5,0.1,97.12,0.0,17.2,44,True,False,Clear,clear-night
+2022-01-14 05:00:00,5,0.1,0.1,-0.2,97.82,0.0,19.3,127,True,False,Clear,clear-night
+2022-01-14 06:00:00,6,0.3,0.3,0.1,98.54,0.0,22.0,518,True,False,Clear,clear-night
+2022-01-14 07:00:00,7,0.1,0.1,-0.2,97.79,0.0,21.6,1323,True,False,Clear,clear-night
+2022-01-14 08:00:00,8,0.0,0.0,-0.2,98.49,5.6,22.4,2073,True,False,Clear,clear-night
+2022-01-14 09:00:00,9,0.2,0.2,0.0,99.2,5.6,24.3,1437,True,False,Clear,clear-day
+2022-01-14 10:00:00,10,1.9,1.9,1.8,99.92,5.6,16.2,1036,True,False,Clear,clear-day
+2022-01-14 11:00:00,11,5.6,5.6,4.1,90.01,5.6,21.6,1134,True,False,Clear,clear-day
+2022-01-14 12:00:00,12,8.8,8.8,4.6,74.95,5.6,15.0,1363,True,False,Clear,clear-day
+2022-01-14 13:00:00,13,8.1,8.1,3.1,70.71,5.6,22.8,1614,True,False,Clear,clear-day
+2022-01-14 14:00:00,14,8.9,8.9,3.1,67.44,5.6,24.3,1408,True,False,Clear,clear-day
+2022-01-14 15:00:00,15,8.4,8.4,3.6,72.23,5.6,19.7,1654,True,False,Clear,clear-day
+2022-01-14 16:00:00,16,7.2,7.2,3.3,76.75,5.6,16.3,1771,True,False,Clear,clear-day
+2022-01-14 17:00:00,17,5.8,5.8,3.1,82.78,0.0,17.0,2349,True,False,Clear,clear-night
+2022-01-14 18:00:00,18,4.8,4.8,3.0,88.1,0.0,15.8,2356,True,False,Clear,clear-night
+2022-01-14 19:00:00,19,4.1,4.1,2.8,91.24,5.6,12.8,1759,True,False,Clear,clear-night
+2022-01-14 20:00:00,20,3.8,3.8,3.0,94.47,0.0,18.3,1086,True,False,Clear,clear-night
+2022-01-14 21:00:00,21,3.6,3.6,2.8,94.48,0.0,14.5,864,True,False,Clear,clear-night
+2022-01-14 22:00:00,22,3.6,3.6,3.1,96.52,0.0,14.2,720,True,False,Clear,clear-night
+2022-01-14 23:00:00,23,3.8,3.8,3.3,96.51,5.6,8.8,668,True,False,Clear,clear-night
+2022-01-15 00:00:00,0,3.5,3.5,2.8,95.16,0.0,13.6,545,False,False,Clear,clear-night
+2022-01-15 01:00:00,1,2.8,2.8,2.1,95.11,5.6,16.3,421,False,False,Clear,clear-night
+2022-01-15 02:00:00,2,3.6,3.6,2.8,94.47,0.0,13.2,234,False,False,Clear,clear-night
+2022-01-15 03:00:00,3,2.6,2.6,2.0,95.78,0.0,15.0,165,False,False,Clear,clear-night
+2022-01-15 04:00:00,4,2.5,2.5,2.1,97.17,0.0,11.3,100,False,False,Clear,clear-night
+2022-01-15 05:00:00,5,2.5,2.5,2.3,98.57,27.8,1.5,87,False,False,Partially cloudy,partly-cloudy-night
+2022-01-15 06:00:00,6,2.3,2.3,2.3,99.99,0.0,0.3,155,False,False,Clear,fog
+2022-01-15 07:00:00,7,2.8,2.8,2.6,98.59,0.0,0.3,314,False,False,Clear,fog
+2022-01-15 08:00:00,8,3.6,3.6,3.6,99.99,31.0,0.3,656,False,False,Partially cloudy,fog
+2022-01-15 09:00:00,9,3.6,3.6,3.6,99.99,31.0,0.0,1107,False,False,Partially cloudy,partly-cloudy-day
+2022-01-15 10:00:00,10,3.8,3.8,3.6,98.61,31.0,0.6,1535,False,False,Partially cloudy,fog
+2022-01-15 11:00:00,11,5.1,5.1,4.6,96.58,27.9,2.2,1941,False,False,"Rain, Partially cloudy",rain
+2022-01-15 12:00:00,12,5.3,5.3,4.0,91.35,93.8,2.9,2196,False,False,Overcast,cloudy
+2022-01-15 13:00:00,13,5.0,5.0,2.7,84.55,96.2,5.9,2145,False,False,Overcast,cloudy
+2022-01-15 14:00:00,14,4.8,4.8,2.2,82.72,96.2,8.8,2251,False,False,Overcast,cloudy
+2022-01-15 15:00:00,15,5.3,5.3,2.4,81.02,83.7,10.1,2197,False,False,Partially cloudy,partly-cloudy-day
+2022-01-15 16:00:00,16,5.6,5.6,2.6,80.49,100.0,8.8,1942,False,False,Overcast,cloudy
+2022-01-15 17:00:00,17,5.6,5.6,2.8,82.22,97.0,10.4,1821,False,False,Overcast,cloudy
+2022-01-15 18:00:00,18,4.6,4.6,2.1,83.87,93.0,10.9,1645,False,False,Overcast,cloudy
+2022-01-15 19:00:00,19,4.0,4.0,2.3,88.69,96.9,7.4,1329,False,False,Overcast,cloudy
+2022-01-15 20:00:00,20,4.6,4.6,2.6,86.89,100.0,7.0,1048,False,False,Overcast,cloudy
+2022-01-15 21:00:00,21,4.8,4.8,2.8,86.91,100.0,7.7,813,False,False,Overcast,cloudy
+2022-01-15 22:00:00,22,5.3,5.3,3.0,85.14,100.0,9.3,748,False,False,Overcast,cloudy
+2022-01-15 23:00:00,23,5.6,5.6,2.8,82.22,100.0,9.9,730,False,False,Overcast,cloudy
+2022-01-16 00:00:00,0,5.3,5.3,3.0,85.14,97.0,9.2,672,False,False,Overcast,cloudy
+2022-01-16 01:00:00,1,5.1,5.1,2.8,85.13,78.3,9.1,534,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 02:00:00,2,5.8,5.8,3.8,87.02,78.5,7.8,427,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 03:00:00,3,5.8,5.8,4.1,88.86,90.0,6.2,200,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 04:00:00,4,5.6,5.6,4.6,93.29,78.5,4.5,105,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 05:00:00,5,4.1,4.1,3.3,94.53,90.0,3.5,65,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 06:00:00,6,4.3,4.3,4.0,97.91,93.0,4.4,112,False,False,Overcast,cloudy
+2022-01-16 07:00:00,7,6.0,6.0,5.8,98.61,96.2,4.5,193,False,False,Overcast,cloudy
+2022-01-16 08:00:00,8,5.8,5.8,5.5,97.95,61.5,0.6,399,False,False,Partially cloudy,fog
+2022-01-16 09:00:00,9,6.0,6.0,5.8,98.61,31.0,0.6,885,False,False,Partially cloudy,fog
+2022-01-16 10:00:00,10,6.3,6.3,6.1,98.63,69.5,1.3,1404,False,False,Partially cloudy,partly-cloudy-day
+2022-01-16 11:00:00,11,6.6,6.6,6.2,96.63,96.2,5.1,1715,False,False,Overcast,cloudy
+2022-01-16 12:00:00,12,7.3,7.3,6.2,92.11,71.4,9.1,2119,False,False,Partially cloudy,partly-cloudy-day
+2022-01-16 13:00:00,13,7.6,7.6,5.9,88.99,67.6,13.0,2378,False,False,Partially cloudy,partly-cloudy-day
+2022-01-16 14:00:00,14,8.3,8.3,6.3,87.21,28.5,18.6,2364,False,False,Partially cloudy,partly-cloudy-day
+2022-01-16 15:00:00,15,9.1,9.1,5.8,79.83,7.0,20.8,2441,False,False,Clear,clear-day
+2022-01-16 16:00:00,16,8.8,8.8,4.6,75.0,16.7,15.5,2172,False,False,Clear,clear-day
+2022-01-16 17:00:00,17,6.3,6.3,3.7,82.91,22.3,12.6,1607,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 18:00:00,18,5.7,5.7,4.6,92.64,94.4,10.7,1357,False,False,Overcast,cloudy
+2022-01-16 19:00:00,19,6.6,6.6,5.8,94.62,80.6,10.3,875,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 20:00:00,20,8.0,8.0,6.0,87.22,80.6,13.0,724,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 21:00:00,21,7.8,7.8,5.6,85.99,58.7,13.8,521,False,False,Partially cloudy,partly-cloudy-night
+2022-01-16 22:00:00,22,6.8,6.8,3.1,77.34,15.5,16.2,415,False,False,Clear,clear-night
+2022-01-16 23:00:00,23,4.5,4.5,1.6,80.9,3.1,19.9,270,False,False,Clear,clear-night
+2022-01-17 00:00:00,0,3.8,3.8,1.6,85.57,0.0,18.0,168,True,False,Clear,clear-night
+2022-01-17 01:00:00,1,3.3,3.3,1.3,86.74,0.0,20.4,92,True,False,Clear,clear-night
+2022-01-17 02:00:00,2,3.6,3.6,1.3,84.94,0.0,19.5,44,True,False,Clear,clear-night
+2022-01-17 03:00:00,3,2.8,2.8,1.3,89.85,0.0,19.5,33,True,False,Clear,clear-night
+2022-01-17 04:00:00,4,2.1,2.1,0.8,91.1,0.0,20.0,45,True,False,Clear,clear-night
+2022-01-17 05:00:00,5,2.5,2.5,0.8,88.56,0.0,19.2,130,True,False,Clear,clear-night
+2022-01-17 06:00:00,6,2.0,2.0,0.5,89.81,0.0,17.3,582,True,False,Clear,clear-night
+2022-01-17 07:00:00,7,1.3,1.3,0.1,91.72,0.0,17.6,1544,True,False,Clear,clear-night
+2022-01-17 08:00:00,8,0.8,0.8,-0.2,93.03,5.6,13.8,2603,True,False,Clear,clear-day
+2022-01-17 09:00:00,9,1.5,1.5,0.8,95.09,5.6,16.6,1452,True,False,Clear,clear-day
+2022-01-17 10:00:00,10,3.6,3.6,2.6,93.16,0.0,16.3,954,True,False,Clear,clear-day
+2022-01-17 11:00:00,11,5.6,5.6,2.6,81.05,0.0,19.3,974,True,False,Clear,clear-day
+2022-01-17 12:00:00,12,7.1,7.1,2.9,74.16,0.0,25.6,1299,True,False,Clear,clear-day
+2022-01-17 13:00:00,13,8.1,8.1,3.1,70.73,0.0,23.9,1298,True,False,Clear,clear-day
+2022-01-17 14:00:00,14,8.8,8.8,3.3,68.4,0.0,25.0,1313,True,False,Clear,clear-day
+2022-01-17 15:00:00,15,8.4,8.4,3.2,69.76,0.0,27.8,1434,True,False,Clear,clear-day
+2022-01-17 16:00:00,16,7.6,7.6,2.9,72.12,0.0,21.7,1807,True,False,Clear,clear-day
+2022-01-17 17:00:00,17,5.6,5.6,2.8,82.19,0.0,16.6,2508,True,False,Clear,clear-night
+2022-01-17 18:00:00,18,3.8,3.8,2.1,88.66,0.0,13.5,2678,True,False,Clear,clear-night
+2022-01-17 19:00:00,19,2.8,2.8,1.8,93.13,0.0,10.1,1739,True,False,Clear,clear-night
+2022-01-17 20:00:00,20,2.2,2.2,1.3,94.43,0.0,12.2,1154,True,False,Clear,clear-night
+2022-01-17 21:00:00,21,1.8,1.8,1.5,97.85,0.0,9.7,796,True,False,Clear,clear-night
+2022-01-17 22:00:00,22,1.6,1.6,1.3,97.85,0.0,11.2,524,True,False,Clear,clear-night
+2022-01-17 23:00:00,23,1.3,1.3,1.0,97.86,0.0,11.5,279,True,False,Clear,clear-night
+2022-01-18 00:00:00,0,1.1,1.1,0.8,97.86,0.0,8.6,152,True,False,Clear,clear-night
+2022-01-18 01:00:00,1,0.6,0.6,0.3,97.85,0.0,6.8,60,True,False,Clear,clear-night
+2022-01-18 02:00:00,2,0.3,0.3,0.1,98.55,0.0,10.1,41,True,False,Clear,clear-night
+2022-01-18 03:00:00,3,-0.2,-0.2,-0.4,98.54,27.7,12.6,39,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 04:00:00,4,-0.4,-0.4,-0.5,99.26,39.8,14.3,47,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 05:00:00,5,-0.4,-0.4,-0.5,99.23,45.3,11.0,147,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 06:00:00,6,-0.7,-0.7,-0.9,98.53,50.2,18.1,673,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 07:00:00,7,-1.1,-1.1,-1.2,99.97,22.1,14.6,1729,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 08:00:00,8,-1.2,-1.2,-1.4,98.52,13.3,13.9,2888,True,False,Clear,clear-day
+2022-01-18 09:00:00,9,-0.6,-0.6,-0.7,99.95,13.3,10.2,1580,True,False,Clear,clear-day
+2022-01-18 10:00:00,10,0.7,0.7,0.6,99.97,27.8,5.3,1015,True,False,Partially cloudy,partly-cloudy-day
+2022-01-18 11:00:00,11,4.5,4.5,4.5,99.97,70.0,4.6,970,True,False,Partially cloudy,partly-cloudy-day
+2022-01-18 12:00:00,12,5.3,5.3,4.8,96.59,93.0,1.6,1217,True,False,"Rain, Overcast",rain
+2022-01-18 13:00:00,13,5.6,5.6,4.8,94.59,94.4,7.2,1239,True,False,Overcast,cloudy
+2022-01-18 14:00:00,14,6.8,6.8,4.8,87.09,94.4,10.6,1144,True,False,Overcast,cloudy
+2022-01-18 15:00:00,15,6.8,6.8,4.8,87.09,66.7,12.8,1386,True,False,Partially cloudy,partly-cloudy-day
+2022-01-18 16:00:00,16,6.1,6.1,3.7,84.6,94.4,11.2,1793,True,False,Overcast,cloudy
+2022-01-18 17:00:00,17,5.5,5.5,4.0,90.06,94.4,8.1,2647,True,False,Overcast,cloudy
+2022-01-18 18:00:00,18,4.8,4.8,3.6,91.93,77.5,6.3,2844,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 19:00:00,19,5.6,5.6,4.6,93.27,68.2,6.4,1987,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 20:00:00,20,6.8,6.8,4.3,84.14,81.5,6.7,1213,True,False,Partially cloudy,partly-cloudy-night
+2022-01-18 21:00:00,21,6.3,6.3,4.3,87.07,96.2,6.7,841,True,False,Overcast,cloudy
+2022-01-18 22:00:00,22,5.8,5.8,4.3,90.1,100.0,9.7,700,True,False,Overcast,cloudy
+2022-01-18 23:00:00,23,5.6,5.6,4.3,91.35,100.0,8.4,310,True,False,Overcast,cloudy
+2022-01-19 00:00:00,0,5.8,5.8,4.0,88.23,96.9,11.3,181,True,False,Overcast,cloudy
+2022-01-19 01:00:00,1,5.8,5.8,3.5,85.21,93.0,9.3,109,True,False,Overcast,cloudy
+2022-01-19 02:00:00,2,6.1,6.1,3.1,81.17,100.0,7.7,42,True,False,Overcast,cloudy
+2022-01-19 03:00:00,3,5.6,5.6,3.3,85.18,100.0,14.2,44,True,False,Overcast,cloudy
+2022-01-19 04:00:00,4,5.6,5.6,3.6,86.98,100.0,14.5,66,True,False,Overcast,cloudy
+2022-01-19 05:00:00,5,5.6,5.6,3.5,86.36,100.0,15.7,157,True,False,Overcast,cloudy
+2022-01-19 06:00:00,6,5.8,5.8,3.3,83.99,93.1,19.3,691,True,False,Overcast,cloudy
+2022-01-19 07:00:00,7,5.8,5.8,3.3,83.99,93.1,20.1,1771,True,False,Overcast,cloudy
+2022-01-19 08:00:00,8,5.6,5.6,3.3,85.16,73.9,19.7,2997,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 09:00:00,9,5.3,5.3,3.1,85.73,65.3,19.7,1637,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 10:00:00,10,6.1,6.1,3.8,85.2,90.0,20.8,1083,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 11:00:00,11,7.6,7.6,4.6,81.31,53.8,20.1,1057,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 12:00:00,12,8.6,8.6,5.4,79.79,77.6,20.1,1331,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 13:00:00,13,8.6,5.7,5.8,82.6,90.0,23.2,1172,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 14:00:00,14,7.9,7.9,6.6,92.09,96.2,18.4,1238,True,False,Overcast,cloudy
+2022-01-19 15:00:00,15,9.0,9.0,4.9,75.01,59.2,29.4,1326,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 16:00:00,16,9.3,9.3,2.8,63.87,73.7,32.4,1649,True,False,Partially cloudy,partly-cloudy-day
+2022-01-19 17:00:00,17,9.0,9.0,2.3,62.92,52.5,34.0,2630,True,False,Partially cloudy,partly-cloudy-night
+2022-01-19 18:00:00,18,7.5,7.5,2.3,69.64,39.5,32.0,2858,True,False,Partially cloudy,partly-cloudy-night
+2022-01-19 19:00:00,19,7.0,7.0,2.3,72.06,43.2,30.5,1931,True,False,Partially cloudy,partly-cloudy-night
+2022-01-19 20:00:00,20,6.3,6.3,2.1,74.54,24.7,25.5,1184,True,False,Partially cloudy,partly-cloudy-night
+2022-01-19 21:00:00,21,5.8,5.8,2.0,76.62,5.6,22.0,934,True,False,Clear,clear-night
+2022-01-19 22:00:00,22,5.6,5.6,2.3,79.38,5.6,17.6,805,True,False,Clear,clear-night
+2022-01-19 23:00:00,23,5.1,5.1,2.3,82.15,0.0,16.3,474,True,False,Clear,clear-night
+2022-01-20 00:00:00,0,4.3,4.3,2.0,85.04,0.0,16.7,203,True,False,Clear,clear-night
+2022-01-20 01:00:00,1,2.6,2.6,0.6,86.71,0.0,16.1,111,True,False,Clear,clear-night
+2022-01-20 02:00:00,2,2.1,2.1,1.1,93.1,0.0,14.3,82,True,False,Clear,clear-night
+2022-01-20 03:00:00,3,3.1,3.1,1.5,89.27,0.0,11.6,37,True,False,Clear,clear-night
+2022-01-20 04:00:00,4,3.3,3.3,1.1,85.55,0.0,11.7,56,True,False,Clear,clear-night
+2022-01-20 05:00:00,5,3.8,3.8,0.6,79.71,0.0,14.2,124,True,False,Clear,clear-night
+2022-01-20 06:00:00,6,3.8,3.8,0.1,76.87,0.0,18.0,690,True,False,Clear,clear-night
+2022-01-20 07:00:00,7,3.5,3.5,-0.2,76.82,7.0,15.8,1669,True,False,Clear,clear-night
+2022-01-20 08:00:00,8,3.5,3.5,-0.2,76.81,5.6,20.2,3022,True,False,Clear,clear-day
+2022-01-20 09:00:00,9,3.6,3.6,-0.4,75.19,5.6,24.3,1634,True,False,Clear,clear-day
+2022-01-20 10:00:00,10,4.1,4.1,-0.1,73.65,5.6,26.5,1111,True,False,Clear,clear-day
+2022-01-20 11:00:00,11,5.1,5.1,-0.6,66.22,5.6,31.6,1100,True,False,Clear,clear-day
+2022-01-20 12:00:00,12,5.6,5.6,-1.4,60.75,19.4,33.2,1355,True,False,Clear,clear-day
+2022-01-20 13:00:00,13,5.8,2.7,-2.3,55.67,7.0,33.2,1396,True,False,Clear,clear-day
+2022-01-20 14:00:00,14,6.1,6.1,-2.8,52.55,65.3,37.8,1206,True,False,Partially cloudy,partly-cloudy-day
+2022-01-20 15:00:00,15,5.6,5.6,-2.9,54.37,93.0,34.0,1222,True,False,Overcast,cloudy
+2022-01-20 16:00:00,16,5.3,5.3,-2.2,58.47,93.0,34.0,1595,True,False,Overcast,cloudy
+2022-01-20 17:00:00,17,5.0,5.0,-2.4,58.83,96.2,34.0,2467,True,False,Overcast,cloudy
+2022-01-20 18:00:00,18,4.8,4.8,-2.7,58.37,96.2,30.5,2682,True,False,Overcast,cloudy
+2022-01-20 19:00:00,19,4.6,4.6,-2.6,59.2,96.2,27.0,1853,True,False,Overcast,cloudy
+2022-01-20 20:00:00,20,4.6,4.6,-2.8,58.33,96.2,30.1,1162,True,False,Overcast,cloudy
+2022-01-20 21:00:00,21,4.1,4.1,-2.9,60.39,93.0,27.0,815,True,False,Overcast,cloudy
+2022-01-20 22:00:00,22,4.0,4.0,-2.9,60.82,90.0,30.1,829,True,False,Partially cloudy,partly-cloudy-night
+2022-01-20 23:00:00,23,4.1,4.1,-2.8,60.4,89.9,32.4,573,True,False,Partially cloudy,partly-cloudy-night
+2022-01-21 00:00:00,0,4.1,4.1,-2.7,61.32,62.4,30.1,45,True,False,Partially cloudy,partly-cloudy-night
+2022-01-21 01:00:00,1,3.1,3.1,-2.9,64.81,31.0,32.0,19,True,False,Partially cloudy,partly-cloudy-night
+2022-01-21 02:00:00,2,3.0,3.0,-3.0,64.81,3.1,32.0,7,True,False,Clear,clear-night
+2022-01-21 03:00:00,3,1.3,1.3,-2.7,74.75,0.0,32.0,65,True,False,Clear,clear-night
+2022-01-21 04:00:00,4,1.3,1.3,-2.9,73.65,0.0,30.5,70,True,False,Clear,clear-night
+2022-01-21 05:00:00,5,0.0,0.0,-2.9,80.86,0.0,25.8,138,True,False,Clear,clear-night
+2022-01-21 06:00:00,6,-0.7,-0.7,-2.7,86.32,0.0,28.6,563,True,False,Clear,clear-night
+2022-01-21 07:00:00,7,-1.2,-1.2,-2.9,88.22,0.0,26.6,1376,True,False,Clear,clear-night
+2022-01-21 08:00:00,8,-1.0,-1.0,-2.4,90.21,5.6,17.3,2259,True,False,Clear,clear-day
+2022-01-21 09:00:00,9,0.3,0.3,-1.7,86.45,22.3,17.9,1484,True,False,Partially cloudy,partly-cloudy-day
+2022-01-21 10:00:00,10,2.0,2.0,-1.0,80.55,90.0,17.0,1078,True,False,Partially cloudy,partly-cloudy-day
+2022-01-21 11:00:00,11,3.0,3.0,-0.7,76.68,83.7,21.6,1120,True,False,Partially cloudy,partly-cloudy-day
+2022-01-21 12:00:00,12,3.5,3.5,-0.5,75.1,100.0,20.1,1307,True,False,Overcast,cloudy
+2022-01-21 13:00:00,13,3.6,3.6,-0.5,74.58,96.2,20.1,1316,True,False,Overcast,cloudy
+2022-01-21 14:00:00,14,4.3,4.3,-0.2,72.58,96.2,23.5,1261,True,False,Overcast,cloudy
+2022-01-21 15:00:00,15,4.5,4.5,0.1,73.14,93.0,23.5,1376,True,False,Overcast,cloudy
+2022-01-21 16:00:00,16,4.5,1.5,0.3,74.21,93.0,26.6,1685,True,False,Overcast,cloudy
+2022-01-21 17:00:00,17,4.5,4.5,0.6,75.83,96.2,23.2,2250,True,False,Overcast,cloudy
+2022-01-21 18:00:00,18,4.5,4.5,0.8,76.93,96.2,24.7,2291,True,False,Overcast,cloudy
+2022-01-21 19:00:00,19,4.5,4.5,0.8,76.93,96.2,28.2,1761,True,False,Overcast,cloudy
+2022-01-21 20:00:00,20,4.3,4.3,1.3,80.85,96.2,24.7,1202,True,False,Overcast,cloudy
+2022-01-21 21:00:00,21,4.6,4.6,1.5,80.31,100.0,24.3,811,True,False,Overcast,cloudy
+2022-01-21 22:00:00,22,4.6,4.6,2.0,83.24,100.0,27.0,782,True,False,Overcast,cloudy
+2022-01-21 23:00:00,23,4.6,4.6,1.8,82.07,100.0,27.0,742,True,False,Overcast,cloudy
+2022-01-22 00:00:00,0,3.6,3.6,1.6,86.76,93.1,25.5,600,False,False,Overcast,cloudy
+2022-01-22 01:00:00,1,3.1,3.1,1.5,89.24,34.9,21.2,439,False,False,Partially cloudy,partly-cloudy-night
+2022-01-22 02:00:00,2,2.3,2.3,1.1,91.76,9.3,19.2,291,False,False,Clear,clear-night
+2022-01-22 03:00:00,3,2.5,2.5,1.3,91.79,3.1,21.2,205,False,False,Clear,clear-night
+2022-01-22 04:00:00,4,1.7,1.7,0.6,93.05,90.0,22.0,167,False,False,Partially cloudy,partly-cloudy-night
+2022-01-22 05:00:00,5,3.2,3.2,2.1,93.12,100.0,28.6,84,False,False,Overcast,cloudy
+2022-01-22 06:00:00,6,4.3,4.3,2.3,86.84,100.0,25.5,181,False,False,Overcast,cloudy
+2022-01-22 07:00:00,7,4.8,4.8,2.3,83.87,100.0,23.5,311,False,False,Overcast,cloudy
+2022-01-22 08:00:00,8,5.3,5.3,2.1,79.88,100.0,23.9,698,False,False,Overcast,cloudy
+2022-01-22 09:00:00,9,5.6,5.6,2.1,78.24,96.2,21.7,1213,False,False,Overcast,cloudy
+2022-01-22 10:00:00,10,5.6,5.6,2.3,79.33,96.2,25.5,1673,False,False,Overcast,cloudy
+2022-01-22 11:00:00,11,5.8,5.8,2.3,78.24,96.2,25.8,1998,False,False,Overcast,cloudy
+2022-01-22 12:00:00,12,6.3,6.3,2.3,75.6,100.0,23.9,2345,False,False,Overcast,cloudy
+2022-01-22 13:00:00,13,6.3,4.1,2.3,75.6,100.0,21.7,2409,False,False,Overcast,cloudy
+2022-01-22 14:00:00,14,6.0,6.0,2.1,76.08,96.2,21.4,2370,False,False,Overcast,cloudy
+2022-01-22 15:00:00,15,6.3,6.3,2.1,74.53,96.2,18.9,2327,False,False,Overcast,cloudy
+2022-01-22 16:00:00,16,6.5,6.5,2.1,73.52,96.2,20.7,2180,False,False,Overcast,cloudy
+2022-01-22 17:00:00,17,6.3,6.3,2.1,74.53,96.2,20.1,1767,False,False,Overcast,cloudy
+2022-01-22 18:00:00,18,6.3,6.3,2.1,74.54,96.2,20.1,1713,False,False,Overcast,cloudy
+2022-01-22 19:00:00,19,6.6,6.6,2.1,73.02,100.0,14.4,1337,False,False,Overcast,cloudy
+2022-01-22 20:00:00,20,6.6,6.6,2.3,74.07,100.0,15.6,1028,False,False,Overcast,cloudy
+2022-01-22 21:00:00,21,6.8,6.8,2.8,75.69,100.0,11.4,829,False,False,Overcast,cloudy
+2022-01-22 22:00:00,22,6.6,6.6,2.8,76.73,100.0,9.7,863,False,False,Overcast,cloudy
+2022-01-22 23:00:00,23,6.8,6.8,2.8,75.69,100.0,8.4,722,False,False,Overcast,cloudy
+2022-01-23 00:00:00,0,6.6,6.6,2.8,76.74,100.0,15.2,720,False,False,Overcast,cloudy
+2022-01-23 01:00:00,1,6.6,6.6,2.8,76.74,100.0,16.8,613,False,False,Overcast,cloudy
+2022-01-23 02:00:00,2,6.3,6.3,2.8,78.32,100.0,16.5,414,False,False,Overcast,cloudy
+2022-01-23 03:00:00,3,6.3,6.3,2.6,77.25,100.0,15.9,253,False,False,Overcast,cloudy
+2022-01-23 04:00:00,4,6.3,6.3,2.6,77.24,100.0,16.5,146,False,False,Overcast,cloudy
+2022-01-23 05:00:00,5,6.3,6.3,2.6,77.24,100.0,13.5,87,False,False,Overcast,cloudy
+2022-01-23 06:00:00,6,6.3,6.3,2.6,77.26,100.0,13.0,140,False,False,Overcast,cloudy
+2022-01-23 07:00:00,7,6.3,6.3,2.5,76.71,100.0,13.2,192,False,False,Overcast,cloudy
+2022-01-23 08:00:00,8,6.1,6.1,2.6,78.32,100.0,13.5,430,False,False,Overcast,cloudy
+2022-01-23 09:00:00,9,6.1,6.1,3.0,80.55,100.0,12.9,922,False,False,Overcast,cloudy
+2022-01-23 10:00:00,10,6.3,6.3,3.1,79.99,100.0,14.3,1314,False,False,Overcast,cloudy
+2022-01-23 11:00:00,11,6.5,6.5,2.4,74.58,100.0,17.4,1781,False,False,Overcast,cloudy
+2022-01-23 12:00:00,12,6.6,6.6,2.3,74.06,100.0,18.1,2122,False,False,Overcast,cloudy
+2022-01-23 13:00:00,13,6.6,5.4,2.1,73.01,100.0,19.7,2203,False,False,Overcast,cloudy
+2022-01-23 14:00:00,14,6.5,6.5,1.7,70.94,100.0,19.7,2200,False,False,Overcast,cloudy
+2022-01-23 15:00:00,15,6.3,6.3,1.7,71.92,100.0,18.1,2163,False,False,Overcast,cloudy
+2022-01-23 16:00:00,16,6.1,6.1,1.6,72.9,100.0,19.7,1983,False,False,Overcast,cloudy
+2022-01-23 17:00:00,17,6.0,6.0,1.3,71.87,100.0,17.8,1568,False,False,Overcast,cloudy
+2022-01-23 18:00:00,18,5.6,5.6,1.1,72.82,100.0,17.8,1338,False,False,Overcast,cloudy
+2022-01-23 19:00:00,19,5.8,5.8,1.5,73.9,100.0,16.7,1001,False,False,Overcast,cloudy
+2022-01-23 20:00:00,20,5.8,5.8,1.6,74.43,100.0,22.4,715,False,False,Overcast,cloudy
+2022-01-23 21:00:00,21,5.8,5.8,1.6,74.43,100.0,18.9,501,False,False,Overcast,cloudy
+2022-01-23 22:00:00,22,6.1,6.1,1.4,71.39,100.0,18.1,436,False,False,Overcast,cloudy
+2022-01-23 23:00:00,23,5.8,5.8,1.5,73.91,100.0,18.9,293,False,False,Overcast,cloudy
+2022-01-24 00:00:00,0,6.0,6.0,1.6,73.42,100.0,18.3,147,True,False,Overcast,cloudy
+2022-01-24 01:00:00,1,5.8,5.8,1.8,75.52,100.0,19.0,89,True,False,Overcast,cloudy
+2022-01-24 02:00:00,2,5.6,5.6,1.6,75.47,100.0,17.6,56,True,False,Overcast,cloudy
+2022-01-24 03:00:00,3,5.3,5.3,1.5,76.5,100.0,15.8,32,True,False,Overcast,cloudy
+2022-01-24 04:00:00,4,5.1,5.1,1.1,75.38,100.0,15.6,42,True,False,Overcast,cloudy
+2022-01-24 05:00:00,5,4.8,4.8,0.8,75.34,100.0,12.5,141,True,False,Overcast,cloudy
+2022-01-24 06:00:00,6,4.8,4.8,1.0,76.44,100.0,11.5,657,True,False,Overcast,cloudy
+2022-01-24 07:00:00,7,4.6,4.6,0.8,76.4,100.0,10.8,1593,True,False,Overcast,cloudy
+2022-01-24 08:00:00,8,4.5,4.5,0.8,76.94,100.0,11.4,2814,True,False,Overcast,cloudy
+2022-01-24 09:00:00,9,4.3,4.3,1.0,79.13,100.0,12.5,1489,True,False,Overcast,cloudy
+2022-01-24 10:00:00,10,4.3,4.3,1.1,79.7,100.0,11.7,933,True,False,Overcast,cloudy
+2022-01-24 11:00:00,11,4.3,4.3,1.0,79.14,100.0,10.6,869,True,False,Overcast,cloudy
+2022-01-24 12:00:00,12,4.3,4.3,1.0,79.13,100.0,9.9,1111,True,False,Overcast,cloudy
+2022-01-24 13:00:00,13,4.6,4.6,1.1,78.06,100.0,9.5,1140,True,False,Overcast,cloudy
+2022-01-24 14:00:00,14,4.6,4.6,1.0,77.5,100.0,9.2,1123,True,False,Overcast,cloudy
+2022-01-24 15:00:00,15,4.6,4.6,0.7,75.32,100.0,9.9,1215,True,False,Overcast,cloudy
+2022-01-24 16:00:00,16,4.6,4.6,1.0,77.51,100.0,9.6,1625,True,False,Overcast,cloudy
+2022-01-24 17:00:00,17,4.5,4.5,1.0,78.04,100.0,8.5,2452,True,False,Overcast,cloudy
+2022-01-24 18:00:00,18,4.3,4.3,0.8,78.02,100.0,8.7,2616,True,False,Overcast,cloudy
+2022-01-24 19:00:00,19,4.1,4.1,1.0,80.26,100.0,7.6,1869,True,False,Overcast,cloudy
+2022-01-24 20:00:00,20,4.1,4.1,1.0,80.25,100.0,7.6,1183,True,False,Overcast,cloudy
+2022-01-24 21:00:00,21,3.8,3.8,0.8,80.79,100.0,7.3,834,True,False,Overcast,cloudy
+2022-01-24 22:00:00,22,3.6,3.6,0.8,81.95,100.0,6.9,536,True,False,Overcast,cloudy
+2022-01-24 23:00:00,23,3.8,3.8,1.0,81.98,100.0,6.9,330,True,False,Overcast,cloudy
+2022-01-25 00:00:00,0,3.6,3.6,1.0,83.12,100.0,6.9,193,True,False,Overcast,cloudy
+2022-01-25 01:00:00,1,3.6,3.6,0.8,81.94,100.0,6.9,107,True,False,Overcast,cloudy
+2022-01-25 02:00:00,2,3.3,3.3,0.8,83.7,100.0,7.5,65,True,False,Overcast,cloudy
+2022-01-25 03:00:00,3,3.1,3.1,0.6,83.67,100.0,7.2,68,True,False,Overcast,cloudy
+2022-01-25 04:00:00,4,3.1,3.1,0.6,83.67,100.0,7.2,70,True,False,Overcast,cloudy
+2022-01-25 05:00:00,5,3.0,3.0,0.6,84.27,100.0,6.6,165,True,False,Overcast,cloudy
+2022-01-25 06:00:00,6,2.6,1.5,0.3,84.83,100.0,7.0,750,True,False,Overcast,cloudy
+2022-01-25 07:00:00,7,2.6,2.6,0.3,84.82,100.0,7.6,1871,True,False,Overcast,cloudy
+2022-01-25 08:00:00,8,2.5,2.5,0.3,85.42,100.0,6.6,3201,True,False,Overcast,cloudy
+2022-01-25 09:00:00,9,2.5,2.5,0.3,85.42,100.0,6.6,1734,True,False,Overcast,cloudy
+2022-01-25 10:00:00,10,2.6,2.6,0.3,84.81,100.0,7.3,1036,True,False,Overcast,cloudy
+2022-01-25 11:00:00,11,3.0,3.0,0.5,83.65,100.0,7.3,947,True,False,Overcast,cloudy
+2022-01-25 12:00:00,12,2.8,2.8,0.5,84.84,100.0,7.3,1153,True,False,Overcast,cloudy
+2022-01-25 13:00:00,13,3.0,3.0,0.8,85.47,100.0,7.3,1192,True,False,Overcast,cloudy
+2022-01-25 14:00:00,14,3.0,3.0,0.6,84.26,100.0,7.3,1096,True,False,Overcast,cloudy
+2022-01-25 15:00:00,15,2.6,2.6,0.3,84.82,100.0,6.9,1172,True,False,Overcast,cloudy
+2022-01-25 16:00:00,16,2.6,2.6,-0.1,81.81,100.0,6.2,1556,True,False,Overcast,cloudy
+2022-01-25 17:00:00,17,2.5,2.5,-0.3,81.22,100.0,6.2,2633,True,False,Overcast,cloudy
+2022-01-25 18:00:00,18,2.6,2.6,0.1,83.6,100.0,7.3,2896,True,False,Overcast,cloudy
+2022-01-25 19:00:00,19,2.1,2.1,-0.4,83.53,100.0,8.7,1929,True,False,Overcast,cloudy
+2022-01-25 20:00:00,20,2.5,2.5,-0.2,82.4,100.0,9.1,1224,True,False,Overcast,cloudy
+2022-01-25 21:00:00,21,2.6,2.6,0.1,83.61,100.0,8.6,832,True,False,Overcast,cloudy
+2022-01-25 22:00:00,22,3.1,3.1,0.3,81.89,100.0,8.2,681,True,False,Overcast,cloudy
+2022-01-25 23:00:00,23,3.3,3.3,0.3,80.75,100.0,7.8,316,True,False,Overcast,cloudy
+2022-01-26 00:00:00,0,3.3,3.3,-0.1,77.89,100.0,7.9,175,True,False,Overcast,cloudy
+2022-01-26 01:00:00,1,3.1,3.1,0.3,81.88,100.0,8.2,110,True,False,Overcast,cloudy
+2022-01-26 02:00:00,2,3.1,3.1,0.5,83.06,96.9,7.6,53,True,False,Overcast,cloudy
+2022-01-26 03:00:00,3,3.1,3.1,0.5,83.06,100.0,7.2,36,True,False,Overcast,cloudy
+2022-01-26 04:00:00,4,3.3,3.3,0.8,83.7,100.0,7.5,61,True,False,Overcast,cloudy
+2022-01-26 05:00:00,5,3.3,3.3,1.1,85.51,100.0,7.5,164,True,False,Overcast,cloudy
+2022-01-26 06:00:00,6,3.6,3.6,1.3,84.93,100.0,8.8,722,True,False,Overcast,cloudy
+2022-01-26 07:00:00,7,4.0,4.0,1.5,83.76,100.0,9.8,1836,True,False,Overcast,cloudy
+2022-01-26 08:00:00,8,4.3,4.3,1.8,83.79,96.2,9.2,3195,True,False,Overcast,cloudy
+2022-01-26 09:00:00,9,5.0,5.0,1.8,79.82,100.0,10.2,1806,True,False,Overcast,cloudy
+2022-01-26 10:00:00,10,5.3,5.3,2.0,79.29,96.2,10.9,1083,True,False,Overcast,cloudy
+2022-01-26 11:00:00,11,6.1,6.1,2.3,76.63,96.2,11.8,1071,True,False,Overcast,cloudy
+2022-01-26 12:00:00,12,6.8,6.8,2.5,74.06,96.2,14.7,1280,True,False,Overcast,cloudy
+2022-01-26 13:00:00,13,7.6,7.6,2.3,69.16,96.2,18.1,1327,True,False,Overcast,cloudy
+2022-01-26 14:00:00,14,8.1,8.1,2.6,68.27,61.7,23.2,1315,True,False,Partially cloudy,partly-cloudy-day
+2022-01-26 15:00:00,15,8.0,8.0,2.4,67.29,74.6,18.8,1462,True,False,Partially cloudy,partly-cloudy-day
+2022-01-26 16:00:00,16,7.6,7.6,2.8,71.62,92.3,21.6,1736,True,False,Overcast,cloudy
+2022-01-26 17:00:00,17,7.5,7.5,2.5,70.61,92.3,15.6,2727,True,False,Overcast,cloudy
+2022-01-26 18:00:00,18,7.5,7.5,2.3,69.62,100.0,18.0,3032,True,False,Overcast,cloudy
+2022-01-26 19:00:00,19,7.3,7.3,1.8,68.11,81.6,19.1,2050,True,False,Partially cloudy,partly-cloudy-night
+2022-01-26 20:00:00,20,5.8,5.8,1.3,72.86,53.6,16.4,1294,True,False,Partially cloudy,partly-cloudy-night
+2022-01-26 21:00:00,21,6.1,6.1,1.6,72.92,96.9,15.6,1011,True,False,Overcast,cloudy
+2022-01-26 22:00:00,22,6.0,6.0,1.8,74.48,39.5,14.6,818,True,False,Partially cloudy,partly-cloudy-night
+2022-01-26 23:00:00,23,5.5,5.5,2.1,78.76,37.1,14.5,487,True,False,Partially cloudy,partly-cloudy-night
+2022-01-27 00:00:00,0,5.5,5.5,2.5,81.03,12.4,12.9,244,True,False,Clear,clear-night
+2022-01-27 01:00:00,1,6.0,6.0,3.1,81.67,12.4,14.7,162,True,False,Clear,clear-night
+2022-01-27 02:00:00,2,6.2,6.2,3.6,84.01,73.3,17.8,108,True,False,Partially cloudy,partly-cloudy-night
+2022-01-27 03:00:00,3,6.8,6.8,4.1,82.92,84.5,19.4,74,True,False,Partially cloudy,partly-cloudy-night
+2022-01-27 04:00:00,4,7.5,7.5,4.6,81.87,96.9,25.9,59,True,False,Overcast,cloudy
+2022-01-27 05:00:00,5,7.6,7.6,4.8,82.45,100.0,29.0,153,True,False,Overcast,cloudy
+2022-01-27 06:00:00,6,7.8,7.8,5.0,82.48,97.0,28.6,700,True,False,Overcast,cloudy
+2022-01-27 07:00:00,7,8.1,8.1,5.3,82.52,96.2,27.0,1805,True,False,Overcast,cloudy
+2022-01-27 08:00:00,8,8.3,8.3,6.1,86.04,96.2,32.0,3317,True,False,Overcast,cloudy
+2022-01-27 09:00:00,9,8.6,8.6,6.6,86.67,100.0,30.1,1811,True,False,Overcast,cloudy
+2022-01-27 10:00:00,10,8.8,8.8,6.9,87.28,100.0,27.4,1114,True,False,Overcast,cloudy
+2022-01-27 11:00:00,11,9.6,9.6,7.8,88.56,100.0,20.9,1079,True,False,Overcast,cloudy
+2022-01-27 12:00:00,12,10.3,10.3,8.4,87.43,100.0,19.7,1244,True,False,Overcast,cloudy
+2022-01-27 13:00:00,13,10.8,10.8,9.5,91.67,89.2,16.1,1230,True,False,Partially cloudy,partly-cloudy-day
+2022-01-27 14:00:00,14,11.8,11.8,9.3,84.63,64.8,37.8,1222,True,False,Partially cloudy,partly-cloudy-day
+2022-01-27 15:00:00,15,12.1,12.1,7.1,71.52,46.8,37.8,1450,True,False,Partially cloudy,partly-cloudy-day
+2022-01-27 16:00:00,16,11.6,11.6,4.7,62.19,13.2,41.7,1928,True,False,Clear,clear-day
+2022-01-27 17:00:00,17,10.8,10.8,3.6,60.73,0.0,39.7,2751,True,False,Clear,clear-night
+2022-01-27 18:00:00,18,9.8,9.8,3.1,63.1,0.0,37.8,3058,True,False,Clear,clear-night
+2022-01-27 19:00:00,19,7.6,7.6,2.6,70.62,0.0,30.1,2056,True,False,Clear,clear-night
+2022-01-27 20:00:00,20,8.3,8.3,3.0,69.3,0.0,29.3,1378,True,False,Clear,clear-night
+2022-01-27 21:00:00,21,7.6,5.9,3.1,73.2,16.7,30.1,985,True,False,Clear,clear-night
+2022-01-27 22:00:00,22,4.8,4.8,2.3,83.85,32.4,30.1,938,True,False,Partially cloudy,partly-cloudy-night
+2022-01-27 23:00:00,23,4.3,4.3,2.5,88.07,7.0,28.6,633,True,False,Clear,clear-night
+2022-01-28 00:00:00,0,3.5,3.5,2.1,90.53,0.0,27.8,353,True,False,Clear,clear-night
+2022-01-28 01:00:00,1,3.3,3.3,2.6,95.13,0.0,25.5,200,True,False,Clear,clear-night
+2022-01-28 02:00:00,2,2.5,1.1,1.6,93.78,0.0,23.5,125,True,False,Clear,clear-night
+2022-01-28 03:00:00,3,2.6,2.6,1.8,94.44,33.5,26.6,78,True,False,Partially cloudy,partly-cloudy-night
+2022-01-28 04:00:00,4,3.1,3.1,2.1,93.15,0.0,22.4,73,True,False,Clear,clear-night
+2022-01-28 05:00:00,5,2.6,2.6,1.8,94.46,22.3,22.0,154,True,False,Partially cloudy,partly-cloudy-night
+2022-01-28 06:00:00,6,2.1,2.1,1.3,94.44,44.7,24.3,604,True,False,Partially cloudy,partly-cloudy-night
+2022-01-28 07:00:00,7,2.5,2.5,1.8,95.13,44.0,15.0,1457,True,False,Partially cloudy,partly-cloudy-night
+2022-01-28 08:00:00,8,2.8,2.8,2.3,96.52,59.5,21.2,2532,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 09:00:00,9,3.6,3.6,2.6,93.18,37.8,21.6,1605,True,False,"Rain, Partially cloudy",rain
+2022-01-28 10:00:00,10,5.3,5.3,3.6,88.81,47.1,23.9,1154,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 11:00:00,11,6.1,6.1,3.6,84.02,90.0,26.3,1202,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 12:00:00,12,7.7,7.7,4.3,79.61,44.0,26.6,1560,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 13:00:00,13,9.1,6.4,4.1,70.94,50.2,28.2,1519,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 14:00:00,14,9.8,9.8,4.8,71.06,53.0,30.1,1430,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 15:00:00,15,9.6,9.6,5.0,73.03,64.8,30.1,1559,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 16:00:00,16,9.1,9.1,4.1,70.94,55.6,28.6,1889,True,False,Partially cloudy,partly-cloudy-day
+2022-01-28 17:00:00,17,8.0,8.0,4.3,77.48,71.4,30.1,2536,True,False,Partially cloudy,partly-cloudy-night
+2022-01-28 18:00:00,18,8.3,8.3,4.6,77.53,93.8,30.1,2518,True,False,Overcast,cloudy
+2022-01-28 19:00:00,19,8.5,8.5,4.8,77.58,100.0,28.6,1793,True,False,Overcast,cloudy
+2022-01-28 20:00:00,20,8.6,8.6,5.8,82.59,96.9,28.6,1264,True,False,Overcast,cloudy
+2022-01-28 21:00:00,21,9.0,6.4,6.5,84.37,96.2,24.0,865,True,False,Overcast,cloudy
+2022-01-28 22:00:00,22,8.8,8.8,7.6,92.19,96.2,8.5,749,True,False,Overcast,cloudy
+2022-01-28 23:00:00,23,8.8,8.8,8.0,94.72,93.0,8.4,751,True,False,Overcast,cloudy
+2022-01-29 00:00:00,0,9.1,9.1,8.3,94.73,93.0,13.1,646,False,False,Overcast,cloudy
+2022-01-29 01:00:00,1,9.7,9.7,8.3,91.59,83.7,22.4,582,False,False,Partially cloudy,partly-cloudy-night
+2022-01-29 02:00:00,2,10.0,10.0,8.6,91.0,93.0,8.4,348,False,False,Overcast,cloudy
+2022-01-29 03:00:00,3,10.2,10.2,8.6,90.39,93.0,22.4,288,False,False,Overcast,cloudy
+2022-01-29 04:00:00,4,10.6,10.6,8.5,86.84,100.0,22.4,166,False,False,Overcast,cloudy
+2022-01-29 05:00:00,5,11.0,11.0,8.3,83.44,96.2,22.4,110,False,False,Overcast,cloudy
+2022-01-29 06:00:00,6,10.8,10.8,7.7,80.65,93.0,22.4,172,False,False,Overcast,cloudy
+2022-01-29 07:00:00,7,10.6,10.6,7.6,81.72,93.0,22.4,347,False,False,Overcast,cloudy
+2022-01-29 08:00:00,8,10.8,10.8,7.8,81.72,96.2,22.4,747,False,False,Overcast,cloudy
+2022-01-29 09:00:00,9,10.8,10.8,7.3,78.99,93.1,22.4,1281,False,False,Overcast,cloudy
+2022-01-29 10:00:00,10,11.6,11.6,7.7,76.49,93.1,20.9,1854,False,False,Overcast,cloudy
+2022-01-29 11:00:00,11,13.0,13.0,8.1,72.18,74.5,20.9,2170,False,False,Partially cloudy,partly-cloudy-day
+2022-01-29 12:00:00,12,13.3,13.3,7.8,69.36,74.6,20.9,2657,False,False,Partially cloudy,partly-cloudy-day
+2022-01-29 13:00:00,13,13.1,13.1,8.1,71.7,86.9,20.9,2819,False,False,Partially cloudy,partly-cloudy-day
+2022-01-29 14:00:00,14,13.0,13.0,8.3,73.17,93.0,22.4,2682,False,False,Overcast,cloudy
+2022-01-29 15:00:00,15,13.1,13.1,8.6,74.18,93.0,22.4,2883,False,False,Overcast,cloudy
+2022-01-29 16:00:00,16,12.8,12.8,8.8,76.66,90.0,22.4,2561,False,False,Partially cloudy,partly-cloudy-day
+2022-01-29 17:00:00,17,13.0,13.0,8.3,73.14,90.0,22.4,2298,False,False,Partially cloudy,partly-cloudy-night
+2022-01-29 18:00:00,18,11.1,11.1,3.1,57.85,30.2,19.3,1987,False,False,Partially cloudy,partly-cloudy-night
+2022-01-29 19:00:00,19,10.3,10.3,2.5,58.49,47.0,16.2,1530,False,False,Partially cloudy,partly-cloudy-night
+2022-01-29 20:00:00,20,9.3,9.3,1.9,59.52,16.7,13.7,1087,False,False,Clear,clear-night
+2022-01-29 21:00:00,21,8.8,7.1,1.7,60.7,16.7,14.3,952,False,False,Clear,clear-night
+2022-01-29 22:00:00,22,8.3,8.3,1.2,60.58,0.0,13.4,832,False,False,Clear,clear-night
+2022-01-29 23:00:00,23,7.6,7.6,1.3,64.44,0.0,15.3,780,False,False,Clear,clear-night
+2022-01-30 00:00:00,0,6.5,6.5,1.6,70.96,0.0,16.2,673,False,False,Clear,clear-night
+2022-01-30 01:00:00,1,6.0,6.0,1.6,73.46,12.4,14.7,537,False,False,Clear,clear-night
+2022-01-30 02:00:00,2,4.5,4.5,1.3,79.74,3.1,14.3,376,False,False,Clear,clear-night
+2022-01-30 03:00:00,3,3.8,3.8,1.3,83.75,0.0,17.8,302,False,False,Clear,clear-night
+2022-01-30 04:00:00,4,3.6,3.6,1.5,86.14,0.0,15.3,158,False,False,Clear,clear-night
+2022-01-30 05:00:00,5,2.8,2.8,0.8,86.71,0.0,14.7,101,False,False,Clear,clear-night
+2022-01-30 06:00:00,6,2.3,2.3,0.8,89.83,0.0,13.4,148,False,False,Clear,clear-night
+2022-01-30 07:00:00,7,2.3,2.3,0.8,89.83,0.0,12.2,236,False,False,Clear,clear-night
+2022-01-30 08:00:00,8,1.6,1.6,0.8,94.42,0.0,10.9,503,False,False,Clear,clear-day
+2022-01-30 09:00:00,9,2.3,2.3,1.6,95.11,0.0,13.4,999,False,False,Clear,clear-day
+2022-01-30 10:00:00,10,4.3,4.3,2.3,86.85,0.0,12.2,1686,False,False,Clear,clear-day
+2022-01-30 11:00:00,11,7.1,7.1,2.3,71.59,0.0,11.9,2301,False,False,Clear,clear-day
+2022-01-30 12:00:00,12,8.3,8.3,0.9,59.25,0.0,16.2,2751,False,False,Clear,clear-day
+2022-01-30 13:00:00,13,7.6,5.3,1.0,62.99,0.0,17.8,2777,False,False,Clear,clear-day
+2022-01-30 14:00:00,14,7.7,7.7,0.8,62.09,27.9,17.8,2726,False,False,Partially cloudy,partly-cloudy-day
+2022-01-30 15:00:00,15,7.8,7.8,1.1,62.58,68.5,15.6,2699,False,False,Partially cloudy,partly-cloudy-day
+2022-01-30 16:00:00,16,7.6,7.6,1.1,63.47,68.2,16.2,2274,False,False,Partially cloudy,partly-cloudy-day
+2022-01-30 17:00:00,17,7.3,7.3,0.7,62.52,65.2,17.8,1738,False,False,Partially cloudy,partly-cloudy-night
+2022-01-30 18:00:00,18,7.0,7.0,1.3,67.1,96.9,13.4,1317,False,False,Overcast,cloudy
+2022-01-30 19:00:00,19,6.5,6.5,1.3,69.44,65.7,12.5,961,False,False,Partially cloudy,partly-cloudy-night
+2022-01-30 20:00:00,20,6.6,6.6,2.3,74.05,89.9,13.7,739,False,False,Partially cloudy,partly-cloudy-night
+2022-01-30 21:00:00,21,6.8,6.8,2.8,75.69,93.8,14.3,553,False,False,Overcast,cloudy
+2022-01-30 22:00:00,22,7.3,7.3,3.9,78.48,93.0,14.7,415,False,False,Overcast,cloudy
+2022-01-30 23:00:00,23,8.0,8.0,5.1,81.95,93.0,20.9,243,False,False,Overcast,cloudy
+2022-01-31 00:00:00,0,8.3,8.3,5.7,83.14,90.0,17.8,110,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 01:00:00,1,8.6,8.6,4.6,75.98,72.3,22.4,71,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 02:00:00,2,8.1,4.2,1.6,63.18,49.8,20.9,55,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 03:00:00,3,7.3,7.3,1.7,67.17,90.0,22.4,35,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 04:00:00,4,6.8,6.8,2.1,71.99,47.1,20.9,48,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 05:00:00,5,7.8,7.8,1.1,62.61,93.8,22.4,136,True,False,Overcast,cloudy
+2022-01-31 06:00:00,6,6.8,6.8,1.2,67.06,86.9,20.9,630,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 07:00:00,7,6.8,6.8,-0.1,61.07,29.8,19.3,1620,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 08:00:00,8,6.1,6.1,0.7,67.9,39.2,10.0,2948,True,False,Partially cloudy,partly-cloudy-day
+2022-01-31 09:00:00,9,6.6,6.6,-0.3,61.02,16.7,20.9,1643,True,False,Clear,clear-day
+2022-01-31 10:00:00,10,7.6,7.6,-2.6,48.14,16.7,16.2,1032,True,False,Clear,clear-day
+2022-01-31 11:00:00,11,8.6,8.6,-3.3,42.7,16.7,22.4,996,True,False,Clear,clear-day
+2022-01-31 12:00:00,12,8.6,8.6,-3.0,43.96,24.0,17.8,1208,True,False,Partially cloudy,partly-cloudy-day
+2022-01-31 13:00:00,13,9.1,5.2,-3.2,41.88,5.0,20.9,1269,True,False,Clear,clear-day
+2022-01-31 14:00:00,14,8.6,8.6,-4.6,38.71,5.0,20.9,1223,True,False,Clear,clear-day
+2022-01-31 15:00:00,15,8.8,8.8,-4.3,39.07,5.0,22.4,1367,True,False,Clear,clear-day
+2022-01-31 16:00:00,16,8.3,8.3,-3.8,41.97,27.9,22.4,1745,True,False,Partially cloudy,partly-cloudy-day
+2022-01-31 17:00:00,17,7.5,7.5,-2.1,50.28,90.0,22.4,2717,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 18:00:00,18,6.8,6.8,-1.1,56.8,67.7,19.3,2845,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 19:00:00,19,5.5,5.5,0.6,70.76,0.0,15.6,1930,True,False,Clear,clear-night
+2022-01-31 20:00:00,20,5.6,5.6,1.5,74.95,0.0,17.8,1250,True,False,Clear,clear-night
+2022-01-31 21:00:00,21,5.6,5.6,1.8,76.56,70.2,20.9,808,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 22:00:00,22,5.5,5.5,2.0,78.22,77.8,22.4,564,True,False,Partially cloudy,partly-cloudy-night
+2022-01-31 23:00:00,23,5.8,5.8,2.1,77.15,93.0,19.3,364,True,False,Overcast,cloudy
+2022-02-01 00:00:00,0,5.8,5.8,2.5,79.36,90.0,19.3,200,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 01:00:00,1,6.4,6.4,2.9,78.31,66.4,22.4,94,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 02:00:00,2,6.8,6.8,3.6,80.07,69.5,16.2,41,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 03:00:00,3,7.0,7.0,4.1,81.81,66.4,13.1,50,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 04:00:00,4,7.3,7.3,4.9,84.18,93.0,12.2,62,True,False,Overcast,cloudy
+2022-02-01 05:00:00,5,7.6,7.6,5.3,85.38,93.0,14.0,160,True,False,Overcast,cloudy
+2022-02-01 06:00:00,6,7.8,7.8,5.3,84.21,93.0,12.5,798,True,False,Overcast,cloudy
+2022-02-01 07:00:00,7,8.3,8.3,5.3,81.4,93.0,16.2,1980,True,False,Overcast,cloudy
+2022-02-01 08:00:00,8,8.3,8.3,5.5,82.54,53.1,17.8,3751,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 09:00:00,9,9.1,9.1,6.0,80.96,53.3,20.9,1879,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 10:00:00,10,10.3,10.3,7.0,80.0,86.9,17.8,1190,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 11:00:00,11,12.8,12.8,8.3,74.12,71.7,20.9,1129,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 12:00:00,12,13.3,13.3,7.6,67.96,50.2,16.2,1429,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 13:00:00,13,14.0,14.0,7.3,64.05,50.2,22.4,1450,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 14:00:00,14,14.1,14.1,7.6,64.95,90.0,22.4,1405,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 15:00:00,15,14.3,14.3,7.8,64.97,37.9,22.4,1535,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 16:00:00,16,14.3,14.3,6.4,58.67,65.2,22.4,1982,True,False,Partially cloudy,partly-cloudy-day
+2022-02-01 17:00:00,17,13.3,13.3,6.6,63.47,37.8,22.4,3255,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 18:00:00,18,12.6,12.6,6.7,66.9,38.8,22.4,3518,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 19:00:00,19,12.0,12.0,6.6,69.58,0.0,22.4,2309,True,False,Clear,clear-night
+2022-02-01 20:00:00,20,11.3,11.3,6.5,72.36,38.8,22.4,1493,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 21:00:00,21,11.1,11.1,6.9,74.86,68.2,22.4,1094,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 22:00:00,22,11.6,11.6,7.7,76.51,86.9,17.8,846,True,False,Partially cloudy,partly-cloudy-night
+2022-02-01 23:00:00,23,10.8,10.8,7.7,80.66,48.6,20.9,385,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 00:00:00,0,10.3,10.3,7.7,83.4,42.1,20.9,257,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 01:00:00,1,10.1,10.1,8.0,86.82,56.0,16.2,141,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 02:00:00,2,9.6,9.6,7.6,87.37,77.6,17.8,70,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 03:00:00,3,9.8,9.8,8.0,88.57,65.4,17.8,59,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 04:00:00,4,9.6,6.6,7.8,88.54,65.4,17.8,72,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 05:00:00,5,9.5,9.5,7.5,87.35,47.2,17.8,156,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 06:00:00,6,9.6,9.6,7.6,87.35,80.7,22.4,791,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 07:00:00,7,9.6,9.6,7.3,85.61,42.6,16.2,2045,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 08:00:00,8,8.5,8.5,6.6,87.84,20.9,16.2,3868,True,False,Partially cloudy,partly-cloudy-day
+2022-02-02 09:00:00,9,9.1,9.1,7.0,86.69,16.7,19.3,2080,True,False,Clear,clear-day
+2022-02-02 10:00:00,10,10.5,10.5,7.3,80.58,16.7,22.4,1221,True,False,Clear,clear-day
+2022-02-02 11:00:00,11,11.8,11.8,7.1,72.97,53.2,22.4,1223,True,False,Partially cloudy,partly-cloudy-day
+2022-02-02 12:00:00,12,11.5,11.5,7.1,74.41,43.8,19.3,1463,True,False,Partially cloudy,partly-cloudy-day
+2022-02-02 13:00:00,13,11.6,11.6,7.1,73.91,62.2,22.4,1428,True,False,Partially cloudy,partly-cloudy-day
+2022-02-02 14:00:00,14,11.6,11.6,7.1,73.89,62.2,17.8,1371,True,False,Partially cloudy,partly-cloudy-day
+2022-02-02 15:00:00,15,11.6,11.6,7.0,73.41,37.8,22.4,1465,True,False,Partially cloudy,partly-cloudy-day
+2022-02-02 16:00:00,16,11.1,11.1,6.8,74.85,37.8,22.4,2002,True,False,Partially cloudy,partly-cloudy-day
+2022-02-02 17:00:00,17,10.5,10.5,6.8,77.88,44.0,22.4,3246,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 18:00:00,18,9.1,9.1,6.1,81.53,25.2,22.4,3404,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 19:00:00,19,8.9,8.9,7.0,88.45,89.9,22.4,2329,True,False,Partially cloudy,partly-cloudy-night
+2022-02-02 20:00:00,20,10.1,10.1,7.5,83.91,96.2,19.3,1453,True,False,Overcast,cloudy
+2022-02-02 21:00:00,21,10.5,10.5,7.0,78.96,96.2,15.9,1108,True,False,Overcast,cloudy
+2022-02-02 22:00:00,22,10.1,10.1,6.3,77.29,100.0,16.2,904,True,False,Overcast,cloudy
+2022-02-02 23:00:00,23,9.6,9.6,4.9,72.06,96.2,22.4,574,True,False,Overcast,cloudy
+2022-02-03 00:00:00,0,9.6,9.6,4.9,72.06,100.0,20.9,264,True,False,Overcast,cloudy
+2022-02-03 01:00:00,1,9.3,9.3,5.3,76.1,96.2,22.4,185,True,False,Overcast,cloudy
+2022-02-03 02:00:00,2,9.3,9.3,5.3,76.11,96.2,17.8,80,True,False,Overcast,cloudy
+2022-02-03 03:00:00,3,9.1,9.1,4.9,74.52,100.0,15.6,70,True,False,Overcast,cloudy
+2022-02-03 04:00:00,4,8.8,8.8,5.5,79.81,93.0,16.2,80,True,False,Overcast,cloudy
+2022-02-03 05:00:00,5,8.6,8.6,5.3,79.8,93.0,20.9,170,True,False,Overcast,cloudy
+2022-02-03 06:00:00,6,8.5,6.6,5.1,79.24,86.9,19.3,760,True,False,Partially cloudy,partly-cloudy-night
+2022-02-03 07:00:00,7,7.6,7.6,4.9,82.48,90.0,20.9,2056,True,False,Partially cloudy,partly-cloudy-night
+2022-02-03 08:00:00,8,7.6,7.6,5.1,84.2,93.0,22.4,3892,True,False,Overcast,cloudy
+2022-02-03 09:00:00,9,8.0,8.0,5.5,84.24,90.0,22.4,2095,True,False,Partially cloudy,partly-cloudy-day
+2022-02-03 10:00:00,10,8.3,8.3,5.6,83.13,86.9,8.8,1289,True,False,Partially cloudy,partly-cloudy-day
+2022-02-03 11:00:00,11,8.8,8.8,5.6,80.35,93.0,22.4,1109,True,False,Overcast,cloudy
+2022-02-03 12:00:00,12,9.6,9.6,5.8,77.19,93.0,20.9,1416,True,False,Overcast,cloudy
+2022-02-03 13:00:00,13,10.0,10.0,5.3,72.61,93.0,22.4,1396,True,False,Overcast,cloudy
+2022-02-03 14:00:00,14,10.1,10.1,5.5,73.13,93.0,22.4,1301,True,False,Overcast,cloudy
+2022-02-03 15:00:00,15,10.1,10.1,5.1,71.14,93.0,22.4,1549,True,False,Overcast,cloudy
+2022-02-03 16:00:00,16,10.1,10.1,5.3,72.13,96.2,22.4,1884,True,False,Overcast,cloudy
+2022-02-03 17:00:00,17,10.0,10.0,5.3,72.61,96.2,22.4,3032,True,False,Overcast,cloudy
+2022-02-03 18:00:00,18,9.8,9.8,5.5,74.61,93.0,22.4,3198,True,False,Overcast,cloudy
+2022-02-03 19:00:00,19,10.1,10.1,5.6,73.64,96.2,22.4,2221,True,False,Overcast,cloudy
+2022-02-03 20:00:00,20,9.8,9.8,6.0,77.23,93.8,14.0,1387,True,False,Overcast,cloudy
+2022-02-03 21:00:00,21,9.3,9.3,6.0,79.89,56.3,20.9,1093,True,False,Partially cloudy,partly-cloudy-night
+2022-02-03 22:00:00,22,9.0,9.0,6.3,83.21,93.1,15.6,1050,True,False,Overcast,cloudy
+2022-02-03 23:00:00,23,9.3,9.3,6.1,80.44,90.0,20.9,690,True,False,Partially cloudy,partly-cloudy-night
+2022-02-04 00:00:00,0,9.1,6.6,5.6,78.75,93.1,20.9,204,True,False,Overcast,cloudy
+2022-02-04 01:00:00,1,9.5,9.5,5.6,76.67,96.2,22.4,18,True,False,Overcast,cloudy
+2022-02-04 02:00:00,2,9.8,9.8,6.1,77.78,96.2,22.4,6,True,False,Overcast,cloudy
+2022-02-04 03:00:00,3,9.5,9.5,6.6,82.15,68.6,9.1,24,True,False,Partially cloudy,partly-cloudy-night
+2022-02-04 04:00:00,4,9.5,6.7,7.0,84.42,90.0,20.9,75,True,False,Partially cloudy,partly-cloudy-night
+2022-02-04 05:00:00,5,9.8,9.8,6.6,80.48,90.0,17.8,153,True,False,Partially cloudy,partly-cloudy-night
+2022-02-04 06:00:00,6,9.8,9.8,6.3,78.85,71.7,19.3,608,True,False,Partially cloudy,partly-cloudy-night
+2022-02-04 07:00:00,7,10.1,10.1,5.9,74.69,83.7,13.7,1516,True,False,Partially cloudy,partly-cloudy-night
+2022-02-04 08:00:00,8,10.1,10.1,5.2,71.17,89.9,14.7,1520,True,False,Partially cloudy,partly-cloudy-day
+2022-02-04 09:00:00,9,6.1,6.1,3.6,84.05,86.9,8.0,638,True,False,"Rain, Partially cloudy",rain
+2022-02-04 10:00:00,10,4.5,4.5,3.0,90.0,90.0,9.1,634,True,False,"Rain, Partially cloudy",rain
+2022-02-04 11:00:00,11,4.0,4.0,2.3,88.71,90.0,8.4,894,True,False,"Rain, Partially cloudy",rain
+2022-02-04 12:00:00,12,5.1,5.1,2.8,85.11,71.5,19.3,1275,True,False,"Rain, Partially cloudy",rain
+2022-02-04 13:00:00,13,6.5,6.5,2.2,73.53,65.3,22.4,1412,True,False,Partially cloudy,partly-cloudy-day
+2022-02-04 14:00:00,14,7.8,7.8,1.5,64.44,59.1,20.9,1366,True,False,Partially cloudy,partly-cloudy-day
+2022-02-04 15:00:00,15,7.8,7.8,0.9,61.28,54.5,22.4,1584,True,False,Partially cloudy,partly-cloudy-day
+2022-02-04 16:00:00,16,7.8,7.8,0.1,58.25,62.2,22.4,1915,True,False,Partially cloudy,partly-cloudy-day
+2022-02-04 17:00:00,17,7.3,7.3,-0.8,56.06,27.1,22.4,2488,True,False,Partially cloudy,partly-cloudy-night
+2022-02-04 18:00:00,18,6.6,6.6,-0.7,59.68,0.0,22.4,2455,True,False,Clear,clear-night
+2022-02-04 19:00:00,19,6.3,6.3,-0.5,61.81,0.0,22.4,1811,True,False,Clear,clear-night
+2022-02-04 20:00:00,20,6.0,6.0,-0.4,63.57,0.0,22.4,1164,True,False,Clear,clear-night
+2022-02-04 21:00:00,21,5.1,1.8,0.3,71.18,15.1,22.4,780,True,False,Clear,clear-night
+2022-02-04 22:00:00,22,4.8,4.8,1.1,76.99,0.0,22.4,779,True,False,Clear,clear-night
+2022-02-04 23:00:00,23,4.6,4.6,1.6,80.91,0.0,22.4,715,True,False,Clear,clear-night
+2022-02-05 00:00:00,0,4.1,4.1,1.3,82.01,0.0,22.4,585,False,False,Clear,clear-night
+2022-02-05 01:00:00,1,4.1,4.1,1.3,81.99,0.0,22.4,423,False,False,Clear,clear-night
+2022-02-05 02:00:00,2,3.6,-0.3,1.0,83.12,0.0,22.4,286,False,False,Clear,clear-night
+2022-02-05 03:00:00,3,3.5,3.5,0.8,82.52,0.0,22.4,215,False,False,Clear,clear-night
+2022-02-05 04:00:00,4,3.6,-0.1,0.6,80.78,0.0,22.4,131,False,False,Clear,clear-night
+2022-02-05 05:00:00,5,3.0,3.0,0.6,84.25,0.0,22.4,113,False,False,Clear,clear-night
+2022-02-05 06:00:00,6,2.8,2.8,0.3,83.62,0.0,20.9,164,False,False,Clear,clear-night
+2022-02-05 07:00:00,7,2.3,2.3,0.1,85.39,0.0,20.9,375,False,False,Clear,clear-night
+2022-02-05 08:00:00,8,2.9,2.9,0.8,86.66,5.0,20.9,690,False,False,Clear,clear-day
+2022-02-05 09:00:00,9,3.8,3.8,1.3,83.75,5.0,14.3,1257,False,False,Clear,clear-day
+2022-02-05 10:00:00,10,4.9,4.9,1.9,80.91,0.0,15.9,1786,False,False,Clear,clear-day
+2022-02-05 11:00:00,11,7.6,7.6,3.1,73.17,0.0,17.8,2250,False,False,Clear,clear-day
+2022-02-05 12:00:00,12,9.3,9.3,3.1,65.24,22.4,22.4,2566,False,False,Partially cloudy,partly-cloudy-day
+2022-02-05 13:00:00,13,10.1,10.1,3.3,62.72,50.0,14.3,2866,False,False,Partially cloudy,partly-cloudy-day
+2022-02-05 14:00:00,14,10.6,10.6,3.8,62.83,80.7,17.8,2399,False,False,Partially cloudy,partly-cloudy-day
+2022-02-05 15:00:00,15,10.3,10.3,3.8,64.09,90.0,20.9,2441,False,False,Partially cloudy,partly-cloudy-day
+2022-02-05 16:00:00,16,10.1,10.1,4.1,66.33,68.6,22.4,2399,False,False,Partially cloudy,partly-cloudy-day
+2022-02-05 17:00:00,17,10.1,10.1,4.6,68.24,80.7,15.0,1838,False,False,Partially cloudy,partly-cloudy-night
+2022-02-05 18:00:00,18,9.8,9.8,4.7,70.11,80.6,16.2,1557,False,False,Partially cloudy,partly-cloudy-night
+2022-02-05 19:00:00,19,9.8,9.8,5.3,73.58,77.6,15.3,1378,False,False,Partially cloudy,partly-cloudy-night
+2022-02-05 20:00:00,20,10.0,10.0,5.6,74.13,89.9,14.0,1091,False,False,Partially cloudy,partly-cloudy-night
+2022-02-05 21:00:00,21,10.0,10.0,5.6,74.14,90.0,14.3,797,False,False,Partially cloudy,partly-cloudy-night
+2022-02-05 22:00:00,22,10.3,10.3,5.6,72.67,89.9,16.2,635,False,False,Partially cloudy,partly-cloudy-night
+2022-02-05 23:00:00,23,10.0,10.0,6.3,77.82,93.0,17.8,667,False,False,Overcast,cloudy
+2022-02-06 00:00:00,0,10.1,10.1,6.1,76.24,86.9,19.3,514,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 01:00:00,1,10.3,10.3,6.2,75.25,89.9,18.9,333,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 02:00:00,2,9.6,6.1,7.0,83.86,89.9,11.2,251,False,False,"Rain, Partially cloudy",rain
+2022-02-06 03:00:00,3,9.5,9.5,7.0,84.42,90.0,16.2,218,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 04:00:00,4,9.6,6.0,7.1,84.44,93.0,16.2,142,False,False,Overcast,cloudy
+2022-02-06 05:00:00,5,9.6,9.6,7.5,86.78,90.0,17.8,78,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 06:00:00,6,9.8,6.1,7.5,85.63,90.0,16.6,99,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 07:00:00,7,9.8,9.8,7.8,87.39,80.7,13.8,147,False,False,"Rain, Partially cloudy",rain
+2022-02-06 08:00:00,8,9.8,9.8,8.1,89.18,93.0,9.3,205,False,False,"Rain, Overcast",rain
+2022-02-06 09:00:00,9,9.8,9.8,8.3,90.35,80.7,20.9,609,False,False,"Rain, Partially cloudy",rain
+2022-02-06 10:00:00,10,10.0,10.0,6.0,76.2,77.6,22.4,1121,False,False,"Rain, Partially cloudy",rain
+2022-02-06 11:00:00,11,10.0,10.0,4.2,66.79,59.5,20.9,1553,False,False,Partially cloudy,partly-cloudy-day
+2022-02-06 12:00:00,12,10.3,10.3,4.5,67.31,65.2,22.4,1932,False,False,"Rain, Partially cloudy",rain
+2022-02-06 13:00:00,13,11.0,11.0,4.1,62.48,77.6,22.4,1980,False,False,Partially cloudy,partly-cloudy-day
+2022-02-06 14:00:00,14,11.3,11.3,4.1,61.24,71.7,13.1,2023,False,False,Partially cloudy,partly-cloudy-day
+2022-02-06 15:00:00,15,12.1,12.1,4.1,58.13,37.9,22.4,2010,False,False,Partially cloudy,partly-cloudy-day
+2022-02-06 16:00:00,16,10.6,10.6,4.2,64.2,65.3,22.4,1835,False,False,Partially cloudy,partly-cloudy-day
+2022-02-06 17:00:00,17,9.8,9.8,3.9,66.31,33.1,22.4,1684,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 18:00:00,18,9.3,9.3,4.1,69.95,77.8,22.4,1235,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 19:00:00,19,8.8,8.8,2.2,62.9,64.8,22.4,926,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 20:00:00,20,7.8,7.8,1.3,63.51,0.0,22.4,646,False,False,Clear,clear-night
+2022-02-06 21:00:00,21,7.5,3.8,0.3,60.32,3.1,22.4,500,False,False,Clear,clear-night
+2022-02-06 22:00:00,22,7.3,7.3,-0.1,59.01,50.0,22.4,419,False,False,Partially cloudy,partly-cloudy-night
+2022-02-06 23:00:00,23,7.0,7.0,-0.5,58.94,0.0,20.9,276,False,False,Clear,clear-night
+2022-02-07 00:00:00,0,5.6,5.6,-0.1,66.31,50.2,20.9,165,True,False,Partially cloudy,partly-cloudy-night
+2022-02-07 01:00:00,1,5.6,5.6,0.3,68.74,16.7,16.2,76,True,False,Clear,clear-night
+2022-02-07 02:00:00,2,5.8,5.8,0.3,67.82,0.0,17.8,34,True,False,Clear,clear-night
+2022-02-07 03:00:00,3,4.6,4.6,0.4,73.69,80.7,15.9,36,True,False,Partially cloudy,partly-cloudy-night
+2022-02-07 04:00:00,4,4.5,1.2,0.6,75.84,16.7,16.2,62,True,False,Clear,clear-night
+2022-02-07 05:00:00,5,3.3,3.3,0.3,80.73,0.0,16.2,155,True,False,Clear,clear-night
+2022-02-07 06:00:00,6,3.3,1.3,0.6,82.49,27.9,16.2,635,True,False,Partially cloudy,partly-cloudy-night
+2022-02-07 07:00:00,7,2.3,2.3,0.3,86.61,16.7,15.3,1727,True,False,Clear,clear-night
+2022-02-07 08:00:00,8,2.6,2.6,0.3,84.83,0.0,14.3,3098,True,False,Clear,clear-day
+2022-02-07 09:00:00,9,4.3,4.3,1.3,80.88,0.0,12.8,1680,True,False,Clear,clear-day
+2022-02-07 10:00:00,10,5.8,5.8,1.7,74.44,0.0,15.6,1048,True,False,Clear,clear-day
+2022-02-07 11:00:00,11,7.6,7.6,2.6,70.63,0.0,12.5,1065,True,False,Clear,clear-day
+2022-02-07 12:00:00,12,9.3,9.3,3.1,65.21,16.7,16.2,1338,True,False,Clear,clear-day
+2022-02-07 13:00:00,13,9.6,9.6,1.4,56.24,53.3,14.7,1407,True,False,Partially cloudy,partly-cloudy-day
+2022-02-07 14:00:00,14,10.5,10.5,1.7,54.13,62.6,17.8,1279,True,False,Partially cloudy,partly-cloudy-day
+2022-02-07 15:00:00,15,9.5,9.5,2.9,63.04,93.0,17.8,1389,True,False,Overcast,cloudy
+2022-02-07 16:00:00,16,9.3,6.8,4.2,70.0,96.9,19.3,1786,True,False,Overcast,cloudy
+2022-02-07 17:00:00,17,9.6,9.6,4.9,72.05,100.0,15.9,2777,True,False,Overcast,cloudy
+2022-02-07 18:00:00,18,9.6,9.6,6.2,78.85,100.0,16.2,2969,True,False,Overcast,cloudy
+2022-02-07 19:00:00,19,9.8,9.8,7.1,83.32,96.9,8.8,2114,True,False,Overcast,cloudy
+2022-02-07 20:00:00,20,9.8,9.8,7.9,87.39,100.0,7.5,1327,True,False,Overcast,cloudy
+2022-02-07 21:00:00,21,10.1,10.1,8.7,90.43,93.0,7.6,848,True,False,Overcast,cloudy
+2022-02-07 22:00:00,22,10.6,10.6,8.5,86.85,93.0,10.0,640,True,False,Overcast,cloudy
+2022-02-07 23:00:00,23,11.1,11.1,7.3,77.45,93.0,22.4,350,True,False,Overcast,cloudy
+2022-02-08 00:00:00,0,10.8,10.8,7.1,77.93,93.0,22.4,191,True,False,Overcast,cloudy
+2022-02-08 01:00:00,1,10.6,10.6,6.8,77.36,96.9,22.4,107,True,False,Overcast,cloudy
+2022-02-08 02:00:00,2,10.8,10.8,6.5,74.79,100.0,22.4,56,True,False,Overcast,cloudy
+2022-02-08 03:00:00,3,10.8,10.8,6.6,75.31,100.0,22.4,46,True,False,Overcast,cloudy
+2022-02-08 04:00:00,4,10.8,10.8,6.8,76.34,100.0,22.4,56,True,False,Overcast,cloudy
+2022-02-08 05:00:00,5,10.6,10.6,6.3,74.75,100.0,22.4,174,True,False,Overcast,cloudy
+2022-02-08 06:00:00,6,10.6,10.6,6.3,74.75,100.0,20.9,792,True,False,Overcast,cloudy
+2022-02-08 07:00:00,7,10.3,10.3,5.6,72.64,100.0,22.4,2144,True,False,Overcast,cloudy
+2022-02-08 08:00:00,8,10.6,10.6,5.8,72.2,96.2,22.4,3840,True,False,Overcast,cloudy
+2022-02-08 09:00:00,9,11.1,11.1,6.1,71.32,96.2,22.4,2043,True,False,Overcast,cloudy
+2022-02-08 10:00:00,10,11.8,11.8,6.1,68.1,96.2,22.4,1179,True,False,Overcast,cloudy
+2022-02-08 11:00:00,11,12.1,12.1,6.5,68.62,96.2,22.4,1136,True,False,Overcast,cloudy
+2022-02-08 12:00:00,12,12.0,12.0,6.5,69.07,96.2,20.9,1365,True,False,Overcast,cloudy
+2022-02-08 13:00:00,13,12.3,12.3,6.6,68.21,96.2,22.4,1409,True,False,Overcast,cloudy
+2022-02-08 14:00:00,14,12.6,12.6,6.6,66.87,100.0,22.4,1266,True,False,Overcast,cloudy
+2022-02-08 15:00:00,15,12.1,12.1,6.3,67.69,100.0,22.4,1471,True,False,Overcast,cloudy
+2022-02-08 16:00:00,16,12.0,12.0,6.3,68.13,96.2,22.4,2012,True,False,Overcast,cloudy
+2022-02-08 17:00:00,17,11.8,11.8,6.5,69.98,96.2,22.4,3276,True,False,Overcast,cloudy
+2022-02-08 18:00:00,18,11.3,11.3,6.3,71.34,96.2,22.4,3334,True,False,Overcast,cloudy
+2022-02-08 19:00:00,19,11.6,11.6,5.9,67.63,96.2,22.4,2360,True,False,Overcast,cloudy
+2022-02-08 20:00:00,20,11.1,11.1,6.5,73.33,96.2,22.4,1411,True,False,Overcast,cloudy
+2022-02-08 21:00:00,21,10.8,10.8,6.6,75.32,96.9,22.4,1071,True,False,Overcast,cloudy
+2022-02-08 22:00:00,22,10.3,10.3,7.0,80.02,96.9,22.4,851,True,False,Overcast,cloudy
+2022-02-08 23:00:00,23,10.1,10.1,7.1,81.66,96.9,11.6,382,True,False,Overcast,cloudy
+2022-02-09 00:00:00,0,10.0,10.0,7.1,82.2,93.0,17.8,257,True,False,Overcast,cloudy
+2022-02-09 01:00:00,1,10.0,10.0,7.1,82.2,96.9,17.8,147,True,False,Overcast,cloudy
+2022-02-09 02:00:00,2,10.0,10.0,7.1,82.21,83.7,14.7,95,True,False,Partially cloudy,partly-cloudy-night
+2022-02-09 03:00:00,3,9.8,9.8,7.1,83.32,93.0,22.4,60,True,False,Overcast,cloudy
+2022-02-09 04:00:00,4,9.6,9.6,7.0,83.87,89.9,20.9,66,True,False,Partially cloudy,partly-cloudy-night
+2022-02-09 05:00:00,5,9.8,9.8,7.1,83.31,93.0,19.3,159,True,False,Overcast,cloudy
+2022-02-09 06:00:00,6,9.1,9.1,6.8,85.56,44.1,11.2,798,True,False,Partially cloudy,partly-cloudy-night
+2022-02-09 07:00:00,7,8.3,8.3,6.8,90.29,45.5,19.3,2150,True,False,Partially cloudy,partly-cloudy-night
+2022-02-09 08:00:00,8,8.6,8.6,6.8,88.49,53.1,22.4,3936,True,False,Partially cloudy,partly-cloudy-day
+2022-02-09 09:00:00,9,9.3,9.3,6.8,84.39,71.5,22.4,2137,True,False,Partially cloudy,partly-cloudy-day
+2022-02-09 10:00:00,10,10.0,10.0,7.0,81.63,90.0,22.4,1306,True,False,Partially cloudy,partly-cloudy-day
+2022-02-09 11:00:00,11,11.1,11.1,7.3,77.44,68.2,19.3,1281,True,False,Partially cloudy,partly-cloudy-day
+2022-02-09 12:00:00,12,11.8,11.8,7.1,72.94,74.5,22.4,1542,True,False,Partially cloudy,partly-cloudy-day
+2022-02-09 13:00:00,13,13.1,13.1,7.8,70.24,74.6,19.3,1453,True,False,Partially cloudy,partly-cloudy-day
+2022-02-09 14:00:00,14,13.6,13.6,7.3,65.74,80.6,20.9,1404,True,False,Partially cloudy,partly-cloudy-day
+2022-02-09 15:00:00,15,12.6,12.6,7.0,68.75,93.0,22.4,1578,True,False,Overcast,cloudy
+2022-02-09 16:00:00,16,12.3,12.3,7.3,71.56,93.0,22.4,1889,True,False,Overcast,cloudy
+2022-02-09 17:00:00,17,11.6,11.6,7.6,76.48,96.2,22.4,3188,True,False,Overcast,cloudy
+2022-02-09 18:00:00,18,11.1,11.1,7.8,80.14,90.0,20.9,3398,True,False,Partially cloudy,partly-cloudy-night
+2022-02-09 19:00:00,19,10.3,10.3,8.0,85.68,86.9,22.4,2231,True,False,Partially cloudy,partly-cloudy-night
+2022-02-09 20:00:00,20,10.8,10.8,8.1,83.46,93.0,17.8,1388,True,False,Overcast,cloudy
+2022-02-09 21:00:00,21,10.6,10.6,8.3,85.73,89.9,9.3,724,True,False,Partially cloudy,partly-cloudy-night
+2022-02-09 22:00:00,22,9.3,9.3,8.1,92.24,93.8,5.1,670,True,False,"Rain, Overcast",rain
+2022-02-09 23:00:00,23,9.1,8.7,7.8,91.63,90.0,5.5,349,True,False,"Rain, Partially cloudy",rain
+2022-02-10 00:00:00,0,8.8,8.8,8.1,95.37,96.2,7.5,166,True,False,"Rain, Overcast",rain
+2022-02-10 01:00:00,1,8.3,8.3,6.8,90.29,96.2,7.8,58,True,False,"Rain, Overcast",rain
+2022-02-10 02:00:00,2,8.1,8.1,6.6,90.26,96.2,7.5,42,True,False,Overcast,cloudy
+2022-02-10 03:00:00,3,7.8,7.8,4.2,77.53,90.0,14.7,40,True,False,Partially cloudy,partly-cloudy-night
+2022-02-10 04:00:00,4,7.1,7.1,3.4,76.89,62.6,22.4,54,True,False,Partially cloudy,partly-cloudy-night
+2022-02-10 05:00:00,5,6.6,6.6,3.7,81.25,66.4,22.4,152,True,False,Partially cloudy,partly-cloudy-night
+2022-02-10 06:00:00,6,6.3,6.3,3.8,84.1,69.5,22.4,780,True,False,Partially cloudy,partly-cloudy-night
+2022-02-10 07:00:00,7,6.5,6.5,3.8,82.96,50.4,22.4,2143,True,False,Partially cloudy,partly-cloudy-night
+2022-02-10 08:00:00,8,6.3,6.3,3.6,82.9,50.4,19.3,4211,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 09:00:00,9,6.6,6.6,3.6,81.21,69.5,19.3,2130,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 10:00:00,10,7.0,7.0,2.9,74.7,50.4,19.3,1253,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 11:00:00,11,7.1,7.1,2.3,71.56,50.4,20.9,1079,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 12:00:00,12,8.1,8.1,0.9,60.08,65.7,20.9,1366,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 13:00:00,13,7.8,7.8,0.2,58.3,65.7,19.3,1420,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 14:00:00,14,8.1,8.1,1.1,61.35,62.6,22.4,1350,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 15:00:00,15,8.0,8.0,0.2,57.49,59.3,22.4,1498,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 16:00:00,16,7.8,7.8,-0.1,57.03,49.8,19.3,1957,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 17:00:00,17,7.1,7.1,-0.2,59.79,59.3,20.9,3130,True,False,Partially cloudy,partly-cloudy-day
+2022-02-10 18:00:00,18,7.0,7.0,-0.2,60.2,5.0,20.9,3263,True,False,Clear,clear-night
+2022-02-10 19:00:00,19,6.0,6.0,-0.5,63.08,30.3,22.4,2203,True,False,Partially cloudy,partly-cloudy-night
+2022-02-10 20:00:00,20,5.5,5.5,-1.4,60.74,5.0,22.4,1423,True,False,Clear,clear-night
+2022-02-10 21:00:00,21,4.8,4.8,-1.1,65.19,0.0,22.4,1092,True,False,Clear,clear-night
+2022-02-10 22:00:00,22,4.3,4.3,-0.7,69.99,0.0,22.4,934,True,False,Clear,clear-night
+2022-02-10 23:00:00,23,4.1,1.4,-0.7,70.99,0.0,22.4,594,True,False,Clear,clear-night
+2022-02-11 00:00:00,0,3.8,3.8,-0.4,74.1,0.0,22.4,359,True,False,Clear,clear-night
+2022-02-11 01:00:00,1,3.6,3.6,-0.2,76.26,0.0,19.3,197,True,False,Clear,clear-night
+2022-02-11 02:00:00,2,3.0,0.2,-0.2,79.54,0.0,19.3,128,True,False,Clear,clear-night
+2022-02-11 03:00:00,3,2.8,2.8,-0.2,80.67,0.0,19.3,87,True,False,Clear,clear-night
+2022-02-11 04:00:00,4,1.8,1.8,-0.4,85.38,0.0,19.3,74,True,False,Clear,clear-night
+2022-02-11 05:00:00,5,1.3,1.3,-0.5,87.82,0.0,19.3,162,True,False,Clear,clear-night
+2022-02-11 06:00:00,6,1.6,-0.9,0.1,89.77,0.0,20.9,615,True,False,Clear,clear-night
+2022-02-11 07:00:00,7,2.5,2.5,0.5,86.68,71.4,19.3,1551,True,False,Partially cloudy,partly-cloudy-night
+2022-02-11 08:00:00,8,2.5,2.5,0.3,85.45,46.9,19.3,2765,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 09:00:00,9,3.8,3.8,1.3,83.76,67.7,16.2,1793,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 10:00:00,10,4.8,4.8,1.6,79.76,16.7,16.2,1254,True,False,Clear,clear-day
+2022-02-11 11:00:00,11,7.6,7.6,1.8,66.73,16.7,15.0,1289,True,False,Clear,clear-day
+2022-02-11 12:00:00,12,8.6,8.6,1.8,62.32,30.0,19.3,1616,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 13:00:00,13,8.5,8.5,-0.4,53.19,47.2,20.9,1658,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 14:00:00,14,8.6,8.6,-0.7,52.06,62.4,16.2,1588,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 15:00:00,15,8.3,8.3,-0.8,52.38,65.3,20.9,1761,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 16:00:00,16,8.0,8.0,-0.4,55.42,71.4,22.4,2113,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 17:00:00,17,7.6,7.6,-0.8,54.94,71.7,22.4,2618,True,False,Partially cloudy,partly-cloudy-day
+2022-02-11 18:00:00,18,6.8,6.8,0.8,65.63,65.4,22.4,2603,True,False,Partially cloudy,partly-cloudy-night
+2022-02-11 19:00:00,19,5.8,5.8,0.8,70.31,57.1,19.3,1751,True,False,Partially cloudy,partly-cloudy-night
+2022-02-11 20:00:00,20,5.3,5.3,1.1,74.37,30.3,17.8,1134,True,False,Partially cloudy,partly-cloudy-night
+2022-02-11 21:00:00,21,4.6,4.6,1.1,78.07,0.0,22.4,853,True,False,Clear,clear-night
+2022-02-11 22:00:00,22,4.3,4.3,1.3,80.89,5.0,17.8,781,True,False,Clear,clear-night
+2022-02-11 23:00:00,23,3.6,3.6,1.1,83.73,30.2,20.9,681,True,False,Partially cloudy,partly-cloudy-night
+2022-02-12 00:00:00,0,3.3,3.3,1.0,84.9,36.4,22.4,548,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 01:00:00,1,3.6,3.6,1.1,83.74,15.5,20.9,434,False,False,Clear,clear-night
+2022-02-12 02:00:00,2,3.6,1.8,1.1,83.73,53.3,22.4,293,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 03:00:00,3,4.1,4.1,1.1,80.86,66.4,22.4,205,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 04:00:00,4,4.8,4.8,1.8,80.96,69.5,22.4,126,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 05:00:00,5,4.5,4.5,1.3,79.77,65.7,19.3,84,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 06:00:00,6,4.3,4.3,1.6,82.61,62.6,20.9,163,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 07:00:00,7,4.6,4.6,1.6,80.89,25.2,19.3,361,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 08:00:00,8,5.3,5.3,2.1,79.84,59.5,22.4,783,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 09:00:00,9,6.1,6.1,2.3,76.63,62.6,19.3,1291,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 10:00:00,10,6.8,6.8,1.6,69.02,90.0,16.2,1681,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 11:00:00,11,7.1,7.1,1.2,65.7,83.7,20.9,2152,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 12:00:00,12,8.3,8.3,1.0,60.1,63.5,17.8,2301,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 13:00:00,13,9.5,9.5,-1.1,47.27,27.9,16.2,2728,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 14:00:00,14,8.8,8.8,-1.1,49.54,50.2,16.2,2647,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 15:00:00,15,8.3,8.3,-0.4,53.94,50.2,20.9,2633,False,False,Partially cloudy,partly-cloudy-day
+2022-02-12 16:00:00,16,7.6,7.6,0.1,58.66,5.0,22.4,2406,False,False,Clear,clear-day
+2022-02-12 17:00:00,17,6.6,6.6,0.6,65.54,15.1,22.4,1932,False,False,Clear,clear-day
+2022-02-12 18:00:00,18,6.1,6.1,0.8,68.81,40.4,20.9,1488,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 19:00:00,19,6.0,6.0,1.1,70.82,90.7,22.4,1358,False,False,Overcast,cloudy
+2022-02-12 20:00:00,20,6.3,6.3,1.1,69.39,81.4,20.9,884,False,False,Partially cloudy,partly-cloudy-night
+2022-02-12 21:00:00,21,6.8,6.8,2.0,71.5,96.9,20.9,691,False,False,Overcast,cloudy
+2022-02-12 22:00:00,22,7.0,7.0,3.4,77.36,100.0,16.2,650,False,False,Overcast,cloudy
+2022-02-12 23:00:00,23,7.1,7.1,4.1,81.25,100.0,12.8,661,False,False,Overcast,cloudy
+2022-02-13 00:00:00,0,7.5,7.5,4.3,80.19,96.9,13.7,577,False,False,Overcast,cloudy
+2022-02-13 01:00:00,1,7.5,7.5,4.6,81.34,96.9,13.1,441,False,False,Overcast,cloudy
+2022-02-13 02:00:00,2,7.5,7.5,5.1,84.79,100.0,8.8,374,False,False,Overcast,cloudy
+2022-02-13 03:00:00,3,7.8,7.8,5.4,84.27,100.0,7.8,233,False,False,Overcast,cloudy
+2022-02-13 04:00:00,4,7.6,7.6,5.9,88.42,100.0,10.6,127,False,False,Overcast,cloudy
+2022-02-13 05:00:00,5,8.0,8.0,5.7,84.85,100.0,12.8,97,False,False,Overcast,cloudy
+2022-02-13 06:00:00,6,8.1,8.1,5.3,82.53,100.0,12.8,144,False,False,Overcast,cloudy
+2022-02-13 07:00:00,7,7.8,7.8,4.8,81.35,96.2,16.2,217,False,False,Overcast,cloudy
+2022-02-13 08:00:00,8,7.8,7.8,4.3,78.57,89.9,17.8,454,False,False,Partially cloudy,partly-cloudy-day
+2022-02-13 09:00:00,9,8.1,8.1,4.6,78.59,80.7,16.2,896,False,False,Partially cloudy,partly-cloudy-day
+2022-02-13 10:00:00,10,8.3,8.3,4.8,78.64,93.0,19.3,1367,False,False,Overcast,cloudy
+2022-02-13 11:00:00,11,8.3,8.3,4.7,77.56,96.2,19.3,1587,False,False,Overcast,cloudy
+2022-02-13 12:00:00,12,8.6,8.6,4.7,76.01,96.2,16.2,1858,False,False,Overcast,cloudy
+2022-02-13 13:00:00,13,9.0,9.0,4.9,75.04,96.2,19.3,1004,False,False,Overcast,cloudy
+2022-02-13 14:00:00,14,8.0,8.0,5.8,86.02,93.0,9.8,674,False,False,"Rain, Overcast",rain
+2022-02-13 15:00:00,15,8.0,8.0,6.6,90.9,93.0,7.9,469,False,False,"Rain, Overcast",rain
+2022-02-13 16:00:00,16,8.5,8.5,7.3,92.18,96.9,8.2,520,False,False,"Rain, Overcast",rain
+2022-02-13 17:00:00,17,9.1,9.1,7.8,91.59,96.2,6.9,520,False,False,"Rain, Overcast",rain
+2022-02-13 18:00:00,18,9.3,9.3,8.1,92.22,96.9,7.2,413,False,False,"Rain, Overcast",rain
+2022-02-13 19:00:00,19,9.6,9.6,8.3,91.6,96.2,7.8,382,False,False,"Rain, Overcast",rain
+2022-02-13 20:00:00,20,9.8,9.8,8.6,92.24,96.2,7.8,370,False,False,"Rain, Overcast",rain
+2022-02-13 21:00:00,21,10.1,10.1,8.6,90.42,96.9,7.8,189,False,False,"Rain, Overcast",rain
+2022-02-13 22:00:00,22,10.1,10.1,8.8,91.66,89.9,6.7,193,False,False,"Rain, Partially cloudy",rain
+2022-02-13 23:00:00,23,9.8,9.8,9.0,94.79,71.7,8.5,125,False,False,"Rain, Partially cloudy",rain
+2022-02-14 00:00:00,0,9.3,9.3,8.6,95.38,90.0,8.3,81,True,False,"Rain, Partially cloudy",rain
+2022-02-14 01:00:00,1,9.1,9.1,8.5,96.02,89.9,20.8,57,True,False,"Rain, Partially cloudy",rain
+2022-02-14 02:00:00,2,8.3,8.3,7.3,93.43,90.0,10.9,43,True,False,"Rain, Partially cloudy",rain
+2022-02-14 03:00:00,3,8.1,8.1,7.3,94.69,86.9,20.9,147,True,False,"Rain, Partially cloudy",rain
+2022-02-14 04:00:00,4,8.0,8.0,6.3,89.04,89.9,22.4,60,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 05:00:00,5,7.5,7.5,5.6,87.75,71.7,22.4,138,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 06:00:00,6,6.8,6.8,4.6,85.89,62.6,22.4,595,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 07:00:00,7,5.8,5.8,4.1,88.83,20.9,22.4,1447,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 08:00:00,8,6.1,6.1,4.0,86.42,30.0,22.4,2526,True,False,Partially cloudy,partly-cloudy-day
+2022-02-14 09:00:00,9,6.8,6.8,4.3,84.1,38.8,17.8,1504,True,False,Partially cloudy,partly-cloudy-day
+2022-02-14 10:00:00,10,8.1,8.1,4.6,78.59,33.1,17.8,1046,True,False,Partially cloudy,partly-cloudy-day
+2022-02-14 11:00:00,11,9.1,9.1,3.8,69.48,59.1,22.4,1097,True,False,Partially cloudy,partly-cloudy-day
+2022-02-14 12:00:00,12,9.0,9.0,4.1,71.41,93.0,20.9,1293,True,False,Overcast,cloudy
+2022-02-14 13:00:00,13,9.1,9.1,3.9,69.47,93.0,22.4,1138,True,False,Overcast,cloudy
+2022-02-14 14:00:00,14,9.1,9.1,4.2,70.97,80.7,22.4,1151,True,False,Partially cloudy,partly-cloudy-day
+2022-02-14 15:00:00,15,9.1,9.1,5.1,76.05,86.9,22.4,1314,True,False,Partially cloudy,partly-cloudy-day
+2022-02-14 16:00:00,16,9.3,9.3,4.6,72.48,86.9,22.4,1312,True,False,Partially cloudy,partly-cloudy-day
+2022-02-14 17:00:00,17,7.3,7.3,4.8,84.14,93.0,22.4,1994,True,False,"Rain, Overcast",rain
+2022-02-14 18:00:00,18,6.6,6.6,4.1,84.11,74.6,10.9,2382,True,False,"Rain, Partially cloudy",rain
+2022-02-14 19:00:00,19,6.6,6.6,4.3,85.28,74.7,13.7,1558,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 20:00:00,20,7.0,7.0,4.3,82.98,62.2,11.2,1057,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 21:00:00,21,7.0,7.0,4.3,82.94,89.9,22.4,771,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 22:00:00,22,6.6,6.6,3.3,79.5,74.6,22.4,582,True,False,Partially cloudy,partly-cloudy-night
+2022-02-14 23:00:00,23,6.1,3.1,3.3,82.25,40.4,22.4,407,True,False,Partially cloudy,partly-cloudy-night
+2022-02-15 00:00:00,0,5.3,5.3,2.3,81.01,0.0,22.4,233,True,False,Clear,clear-night
+2022-02-15 01:00:00,1,4.8,4.8,1.6,79.8,0.0,22.4,135,True,False,Clear,clear-night
+2022-02-15 02:00:00,2,4.0,4.0,1.5,83.77,0.0,22.4,70,True,False,Clear,clear-night
+2022-02-15 03:00:00,3,3.6,3.6,1.6,86.76,0.0,22.4,45,True,False,Clear,clear-night
+2022-02-15 04:00:00,4,2.9,2.9,1.3,89.83,0.0,22.4,66,True,False,Clear,clear-night
+2022-02-15 05:00:00,5,3.5,3.5,1.8,88.65,27.9,22.4,153,True,False,Partially cloudy,partly-cloudy-night
+2022-02-15 06:00:00,6,4.1,1.3,2.1,86.84,62.6,22.4,713,True,False,Partially cloudy,partly-cloudy-night
+2022-02-15 07:00:00,7,5.1,5.1,2.6,83.92,93.1,20.9,1889,True,False,Overcast,cloudy
+2022-02-15 08:00:00,8,6.6,6.6,4.1,84.1,90.0,14.3,3196,True,False,Partially cloudy,partly-cloudy-day
+2022-02-15 09:00:00,9,7.6,7.6,5.3,85.38,74.7,12.2,1689,True,False,Partially cloudy,partly-cloudy-day
+2022-02-15 10:00:00,10,9.1,9.1,6.3,82.65,86.9,14.3,820,True,False,Partially cloudy,partly-cloudy-day
+2022-02-15 11:00:00,11,9.6,9.6,7.1,84.44,77.8,12.3,484,True,False,"Rain, Partially cloudy",rain
+2022-02-15 12:00:00,12,10.0,10.0,7.3,83.35,90.0,8.9,545,True,False,"Rain, Partially cloudy",rain
+2022-02-15 13:00:00,13,9.6,6.1,8.1,90.39,93.0,8.3,463,True,False,"Rain, Overcast",rain
+2022-02-15 14:00:00,14,9.6,9.6,8.1,90.38,77.6,8.9,480,True,False,"Rain, Partially cloudy",rain
+2022-02-15 15:00:00,15,9.6,9.6,8.6,93.48,80.6,9.2,478,True,False,"Rain, Partially cloudy",rain
+2022-02-15 16:00:00,16,8.3,8.3,7.5,94.71,86.9,15.3,1104,True,False,"Rain, Partially cloudy",rain
+2022-02-15 17:00:00,17,8.7,8.7,8.0,95.99,80.7,8.8,2354,True,False,Partially cloudy,partly-cloudy-day
+2022-02-15 18:00:00,18,9.3,9.3,8.1,92.2,93.8,7.8,2575,True,False,"Rain, Overcast",rain
+2022-02-15 19:00:00,19,9.0,9.0,8.0,93.44,59.5,19.3,1863,True,False,Partially cloudy,partly-cloudy-night
+2022-02-15 20:00:00,20,9.3,9.3,8.1,92.23,66.3,10.0,1036,True,False,Partially cloudy,partly-cloudy-night
+2022-02-15 21:00:00,21,9.3,9.3,8.3,93.48,90.7,8.6,752,True,False,Overcast,cloudy
+2022-02-15 22:00:00,22,9.5,9.5,8.5,93.49,50.2,10.3,564,True,False,"Rain, Partially cloudy",rain
+2022-02-15 23:00:00,23,9.3,9.3,8.1,92.23,63.3,7.8,237,True,False,"Rain, Partially cloudy",rain
+2022-02-16 00:00:00,0,9.3,9.3,8.1,92.23,80.6,7.8,132,True,False,"Rain, Partially cloudy",rain
+2022-02-16 01:00:00,1,9.3,9.3,8.3,93.48,74.5,6.2,75,True,False,"Rain, Partially cloudy",rain
+2022-02-16 02:00:00,2,10.1,10.1,9.3,94.78,96.2,7.8,56,True,False,"Rain, Overcast",rain
+2022-02-16 03:00:00,3,11.3,11.3,10.1,92.33,96.9,8.8,42,True,False,Overcast,cloudy
+2022-02-16 04:00:00,4,11.8,11.8,10.1,89.34,96.9,20.9,66,True,False,Overcast,cloudy
+2022-02-16 05:00:00,5,12.1,12.1,10.7,90.57,93.0,20.5,137,True,False,Overcast,cloudy
+2022-02-16 06:00:00,6,11.7,11.7,11.0,96.09,93.0,8.1,574,True,False,Overcast,cloudy
+2022-02-16 07:00:00,7,11.8,11.8,11.3,96.73,93.0,8.4,1680,True,False,"Rain, Overcast",rain
+2022-02-16 08:00:00,8,12.6,12.6,10.3,85.88,89.9,16.2,3107,True,False,Partially cloudy,partly-cloudy-day
+2022-02-16 09:00:00,9,13.0,13.0,9.3,78.27,74.7,12.2,1718,True,False,Partially cloudy,partly-cloudy-day
+2022-02-16 10:00:00,10,13.1,13.1,9.1,76.72,93.0,12.5,1114,True,False,Overcast,cloudy
+2022-02-16 11:00:00,11,14.3,14.3,9.3,71.92,66.9,11.2,1159,True,False,Partially cloudy,partly-cloudy-day
+2022-02-16 12:00:00,12,15.3,15.3,10.0,70.69,86.9,13.7,1372,True,False,Partially cloudy,partly-cloudy-day
+2022-02-16 13:00:00,13,15.0,15.0,10.7,75.02,96.9,17.8,1267,True,False,Overcast,cloudy
+2022-02-16 14:00:00,14,13.8,13.8,11.7,86.63,93.0,5.0,1120,True,False,Overcast,cloudy
+2022-02-16 15:00:00,15,13.6,13.6,12.3,91.84,89.9,9.1,1170,True,False,Partially cloudy,partly-cloudy-day
+2022-02-16 16:00:00,16,14.5,14.5,12.3,86.68,96.2,9.7,1437,True,False,Overcast,cloudy
+2022-02-16 17:00:00,17,14.3,14.3,12.3,87.79,96.9,6.5,2158,True,False,"Rain, Overcast",rain
+2022-02-16 18:00:00,18,13.6,13.6,12.5,93.05,96.9,8.1,2361,True,False,"Rain, Overcast",rain
+2022-02-16 19:00:00,19,14.3,14.3,11.8,84.91,93.0,8.8,1741,True,False,"Rain, Overcast",rain
+2022-02-16 20:00:00,20,14.1,14.1,10.2,76.89,80.7,22.4,1160,True,False,Partially cloudy,partly-cloudy-night
+2022-02-16 21:00:00,21,13.1,13.1,9.8,80.41,86.9,8.4,873,True,False,Partially cloudy,partly-cloudy-night
+2022-02-16 22:00:00,22,13.0,13.0,8.7,74.69,86.9,11.6,808,True,False,Partially cloudy,partly-cloudy-night
+2022-02-16 23:00:00,23,12.1,12.1,5.9,65.43,62.2,12.2,493,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 00:00:00,0,11.3,11.3,5.6,67.99,62.2,10.9,247,True,False,"Rain, Partially cloudy",rain
+2022-02-17 01:00:00,1,10.6,10.6,6.3,74.72,86.9,10.3,111,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 02:00:00,2,11.1,11.1,4.8,65.19,74.6,10.6,84,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 03:00:00,3,10.1,10.1,4.5,68.2,96.2,10.3,54,True,False,Overcast,cloudy
+2022-02-17 04:00:00,4,9.8,9.8,4.3,68.62,93.1,10.0,67,True,False,Overcast,cloudy
+2022-02-17 05:00:00,5,9.6,9.6,4.3,69.57,90.0,9.0,129,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 06:00:00,6,8.4,8.4,5.5,82.47,65.3,11.2,621,True,False,"Rain, Partially cloudy",rain
+2022-02-17 07:00:00,7,8.6,8.6,4.3,74.39,24.0,11.6,1762,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 08:00:00,8,8.6,8.6,3.3,69.37,16.7,12.5,3243,True,False,Clear,clear-day
+2022-02-17 09:00:00,9,9.0,9.0,4.0,70.89,14.7,16.2,1822,True,False,Clear,clear-day
+2022-02-17 10:00:00,10,9.5,9.5,1.2,55.84,45.5,19.3,1131,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 11:00:00,11,10.3,10.3,2.1,56.43,80.7,16.2,1279,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 12:00:00,12,11.3,11.3,0.7,47.78,27.9,16.2,1516,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 13:00:00,13,11.1,11.1,-0.3,45.32,47.1,22.4,1504,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 14:00:00,14,11.5,11.5,0.9,47.83,62.6,19.3,1423,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 15:00:00,15,11.1,11.1,2.4,54.69,54.7,13.4,1607,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 16:00:00,16,10.8,10.8,4.5,65.07,56.5,19.3,1944,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 17:00:00,17,9.8,9.8,4.0,67.2,77.6,20.9,2268,True,False,Partially cloudy,partly-cloudy-day
+2022-02-17 18:00:00,18,8.3,8.3,5.1,80.21,62.3,17.8,2824,True,False,"Rain, Partially cloudy",rain
+2022-02-17 19:00:00,19,9.1,9.1,4.1,70.92,45.1,15.9,1876,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 20:00:00,20,9.1,9.1,4.3,71.94,50.4,13.7,1311,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 21:00:00,21,9.1,9.1,4.5,72.95,50.4,15.6,1015,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 22:00:00,22,8.5,8.5,4.6,76.48,69.5,14.3,901,True,False,Partially cloudy,partly-cloudy-night
+2022-02-17 23:00:00,23,8.8,8.8,3.9,70.92,69.5,10.3,693,True,False,Partially cloudy,partly-cloudy-night
+2022-02-18 00:00:00,0,8.6,8.6,5.1,78.68,66.4,10.0,392,True,False,Partially cloudy,partly-cloudy-night
+2022-02-18 01:00:00,1,8.6,8.6,6.3,85.48,71.7,9.1,193,True,False,Partially cloudy,partly-cloudy-night
+2022-02-18 02:00:00,2,9.1,6.4,7.1,87.3,80.7,8.4,99,True,False,"Rain, Partially cloudy",rain
+2022-02-18 03:00:00,3,8.5,8.5,6.6,87.88,93.0,6.7,68,True,False,Overcast,cloudy
+2022-02-18 04:00:00,4,9.0,9.0,7.9,92.23,93.0,6.7,89,True,False,Overcast,cloudy
+2022-02-18 05:00:00,5,10.8,10.8,9.6,92.32,96.2,7.8,117,True,False,Overcast,cloudy
+2022-02-18 06:00:00,6,11.5,11.5,10.0,90.54,96.2,5.8,360,True,False,"Rain, Overcast",rain
+2022-02-18 07:00:00,7,11.6,11.6,9.8,88.75,100.0,6.5,814,True,False,"Rain, Overcast",rain
+2022-02-18 08:00:00,8,11.5,11.5,8.5,81.85,86.9,5.9,1331,True,False,Partially cloudy,partly-cloudy-day
+2022-02-18 09:00:00,9,11.1,11.1,5.2,66.6,90.0,9.9,823,True,False,Partially cloudy,partly-cloudy-day
+2022-02-18 10:00:00,10,10.0,10.0,4.9,70.15,59.3,10.3,544,True,False,Partially cloudy,partly-cloudy-day
+2022-02-18 11:00:00,11,10.6,10.6,2.7,57.73,89.9,11.6,501,True,False,Partially cloudy,wind
+2022-02-18 12:00:00,12,10.5,10.5,2.6,58.12,86.9,10.9,570,True,False,"Rain, Partially cloudy",rain
+2022-02-18 13:00:00,13,10.3,10.3,3.0,60.59,93.0,14.7,534,True,False,Overcast,cloudy
+2022-02-18 14:00:00,14,8.8,8.8,2.1,62.86,80.7,20.9,559,True,False,Partially cloudy,partly-cloudy-day
+2022-02-18 15:00:00,15,8.8,8.8,0.3,55.23,90.0,22.4,552,True,False,Partially cloudy,partly-cloudy-day
+2022-02-18 16:00:00,16,8.6,8.6,-1.7,48.38,90.0,19.3,856,True,False,Partially cloudy,partly-cloudy-day
+2022-02-18 17:00:00,17,8.1,8.1,-2.7,46.49,47.2,22.4,1320,True,False,Partially cloudy,partly-cloudy-day
+2022-02-18 18:00:00,18,7.6,7.6,-2.6,48.13,53.0,20.9,1365,True,False,Partially cloudy,partly-cloudy-night
+2022-02-18 19:00:00,19,4.6,4.6,0.0,72.08,9.3,22.4,1126,True,False,Clear,clear-night
+2022-02-18 20:00:00,20,4.6,4.6,0.0,72.12,3.1,22.4,663,True,False,Clear,clear-night
+2022-02-18 21:00:00,21,4.8,4.8,0.1,71.62,16.7,22.4,559,True,False,Clear,clear-night
+2022-02-18 22:00:00,22,5.1,5.1,-1.4,62.88,30.0,22.4,472,True,False,Partially cloudy,partly-cloudy-night
+2022-02-18 23:00:00,23,4.8,4.8,-1.7,62.82,0.0,22.4,445,True,False,Clear,clear-night
+2022-02-19 00:00:00,0,4.8,4.8,-1.7,62.83,0.0,22.4,362,False,False,Clear,clear-night
+2022-02-19 01:00:00,1,4.3,4.3,-1.0,68.44,0.0,22.4,291,False,False,Clear,clear-night
+2022-02-19 02:00:00,2,4.8,4.8,-1.3,64.23,0.0,20.9,257,False,False,Clear,clear-night
+2022-02-19 03:00:00,3,4.0,4.0,-0.7,71.45,0.0,19.3,171,False,False,Clear,clear-night
+2022-02-19 04:00:00,4,3.8,3.8,-0.2,75.17,0.0,20.9,110,False,False,Clear,clear-night
+2022-02-19 05:00:00,5,3.3,3.3,0.0,78.98,0.0,22.4,74,False,False,Clear,clear-night
+2022-02-19 06:00:00,6,3.1,3.1,-0.2,78.97,14.7,22.4,140,False,False,Clear,clear-night
+2022-02-19 07:00:00,7,3.0,3.0,-0.2,79.51,20.2,22.4,300,False,False,Partially cloudy,partly-cloudy-night
+2022-02-19 08:00:00,8,3.5,3.5,-0.2,76.77,5.0,20.9,674,False,False,Clear,clear-day
+2022-02-19 09:00:00,9,4.8,4.8,0.3,72.66,0.0,19.3,1144,False,False,Clear,clear-day
+2022-02-19 10:00:00,10,6.1,6.1,1.0,69.84,5.0,20.9,1609,False,False,Clear,clear-day
+2022-02-19 11:00:00,11,7.5,7.5,2.1,68.66,53.3,17.8,1654,False,False,Partially cloudy,partly-cloudy-day
+2022-02-19 12:00:00,12,8.0,8.0,2.7,68.79,90.0,13.5,716,False,False,Partially cloudy,partly-cloudy-day
+2022-02-19 13:00:00,13,6.8,2.2,4.6,85.89,93.0,7.9,487,False,False,"Rain, Overcast",rain
+2022-02-19 14:00:00,14,7.1,7.1,5.5,89.58,89.9,7.6,525,False,False,"Rain, Partially cloudy",rain
+2022-02-19 15:00:00,15,8.2,8.2,7.1,93.39,71.7,10.9,984,False,False,"Rain, Partially cloudy",rain
+2022-02-19 16:00:00,16,9.8,9.8,7.0,82.71,86.9,20.9,1209,False,False,Partially cloudy,partly-cloudy-day
+2022-02-19 17:00:00,17,10.3,10.3,5.0,69.69,77.6,14.3,1325,False,False,Partially cloudy,partly-cloudy-day
+2022-02-19 18:00:00,18,9.6,9.6,4.5,70.53,25.2,16.2,1148,False,False,"Rain, Partially cloudy",rain
+2022-02-19 19:00:00,19,8.8,8.8,4.1,72.4,39.3,13.7,993,False,False,Partially cloudy,partly-cloudy-night
+2022-02-19 20:00:00,20,8.5,8.5,2.9,67.43,20.2,13.1,745,False,False,Partially cloudy,partly-cloudy-night
+2022-02-19 21:00:00,21,6.8,6.8,2.4,73.08,0.0,12.2,655,False,False,Clear,clear-night
+2022-02-19 22:00:00,22,6.4,6.4,4.1,85.22,22.4,12.2,643,False,False,Partially cloudy,partly-cloudy-night
+2022-02-19 23:00:00,23,6.5,6.5,5.0,90.12,27.9,12.8,543,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 00:00:00,0,7.3,7.3,5.1,85.95,62.6,12.2,557,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 01:00:00,1,8.1,8.1,5.8,85.43,93.0,11.9,536,False,False,Overcast,cloudy
+2022-02-20 02:00:00,2,9.1,9.1,6.7,84.4,89.9,10.6,367,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 03:00:00,3,10.0,10.0,7.6,85.04,93.8,15.3,266,False,False,Overcast,cloudy
+2022-02-20 04:00:00,4,10.6,10.6,8.1,84.54,93.0,14.7,173,False,False,Overcast,cloudy
+2022-02-20 05:00:00,5,10.6,10.6,7.8,82.82,89.9,11.9,89,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 06:00:00,6,11.0,11.0,7.3,77.95,86.9,13.7,126,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 07:00:00,7,11.0,11.0,7.1,76.9,83.7,11.6,195,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 08:00:00,8,11.0,11.0,7.1,76.91,89.9,9.9,364,False,False,Partially cloudy,partly-cloudy-day
+2022-02-20 09:00:00,9,11.1,11.1,7.7,79.06,93.0,8.8,671,False,False,Overcast,cloudy
+2022-02-20 10:00:00,10,11.3,11.3,8.1,80.72,83.7,9.2,988,False,False,Partially cloudy,partly-cloudy-day
+2022-02-20 11:00:00,11,11.6,11.6,8.7,81.87,89.9,7.8,1201,False,False,Partially cloudy,partly-cloudy-day
+2022-02-20 12:00:00,12,12.6,12.6,9.6,82.01,93.0,7.2,1509,False,False,Overcast,cloudy
+2022-02-20 13:00:00,13,12.6,12.6,9.4,80.38,93.0,7.7,1517,False,False,Overcast,cloudy
+2022-02-20 14:00:00,14,12.1,12.1,9.5,84.16,96.2,6.8,1403,False,False,Overcast,cloudy
+2022-02-20 15:00:00,15,12.6,12.6,9.2,79.32,93.0,6.5,1226,False,False,Overcast,cloudy
+2022-02-20 16:00:00,16,11.8,11.8,9.5,85.83,96.9,7.6,1137,False,False,Overcast,cloudy
+2022-02-20 17:00:00,17,12.3,12.3,9.3,81.95,90.0,9.4,967,False,False,Partially cloudy,partly-cloudy-day
+2022-02-20 18:00:00,18,12.3,12.3,9.3,81.96,89.9,6.2,565,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 19:00:00,19,11.8,11.8,10.0,88.7,86.9,4.0,326,False,False,"Rain, Partially cloudy",rain
+2022-02-20 20:00:00,20,8.0,8.0,4.6,79.13,65.4,30.2,375,False,False,"Rain, Partially cloudy",rain
+2022-02-20 21:00:00,21,7.5,7.5,1.9,67.22,3.1,22.4,289,False,False,Clear,clear-night
+2022-02-20 22:00:00,22,7.0,7.0,1.1,66.12,37.6,20.9,274,False,False,Partially cloudy,partly-cloudy-night
+2022-02-20 23:00:00,23,6.0,6.0,0.0,65.43,23.8,22.4,202,False,False,Partially cloudy,partly-cloudy-night
+2022-02-21 00:00:00,0,5.8,5.8,-1.2,60.8,0.0,20.9,137,True,False,Rain,rain
+2022-02-21 01:00:00,1,5.5,5.5,-0.7,64.37,38.8,17.8,73,True,False,Partially cloudy,partly-cloudy-night
+2022-02-21 02:00:00,2,5.6,0.4,-0.6,63.95,74.5,19.3,55,True,False,Partially cloudy,partly-cloudy-night
+2022-02-21 03:00:00,3,5.1,5.1,-0.7,66.18,18.6,22.4,41,True,False,Clear,clear-night
+2022-02-21 04:00:00,4,4.8,4.8,-1.0,66.11,3.1,22.4,47,True,False,Clear,clear-night
+2022-02-21 05:00:00,5,5.3,5.3,-0.4,66.72,0.0,22.4,133,True,False,Clear,clear-night
+2022-02-21 06:00:00,6,5.8,5.8,-0.4,64.42,27.9,16.2,484,True,False,Partially cloudy,partly-cloudy-night
+2022-02-21 07:00:00,7,6.6,6.6,0.1,63.23,23.8,14.7,1310,True,False,Partially cloudy,partly-cloudy-night
+2022-02-21 08:00:00,8,7.5,7.5,1.0,63.46,65.1,12.8,2441,True,False,Partially cloudy,partly-cloudy-day
+2022-02-21 09:00:00,9,8.3,8.3,1.6,62.72,77.8,11.6,1296,True,False,Partially cloudy,partly-cloudy-day
+2022-02-21 10:00:00,10,9.1,9.1,2.0,61.15,80.7,13.1,884,True,False,Partially cloudy,partly-cloudy-day
+2022-02-21 11:00:00,11,10.3,10.3,2.5,58.48,93.0,14.3,796,True,False,Overcast,cloudy
+2022-02-21 12:00:00,12,10.8,10.8,3.6,61.13,93.0,17.8,953,True,False,Overcast,cloudy
+2022-02-21 13:00:00,13,11.0,11.0,3.8,61.18,77.7,15.0,1028,True,False,Partially cloudy,partly-cloudy-day
+2022-02-21 14:00:00,14,10.8,10.8,3.7,61.15,86.9,17.8,848,True,False,Partially cloudy,partly-cloudy-day
+2022-02-21 15:00:00,15,10.3,10.3,4.8,68.65,90.0,16.2,1106,True,False,"Rain, Partially cloudy",rain
+2022-02-21 16:00:00,16,11.1,11.1,2.6,55.83,93.0,13.7,1457,True,False,Overcast,cloudy
+2022-02-21 17:00:00,17,10.8,10.8,2.1,54.59,77.7,14.0,2298,True,False,Partially cloudy,partly-cloudy-day
+2022-02-21 18:00:00,18,10.3,10.3,1.8,55.64,47.2,15.6,2504,True,False,Partially cloudy,partly-cloudy-night
+2022-02-21 19:00:00,19,9.6,9.6,1.6,57.46,14.7,16.2,1880,True,False,Clear,clear-night
+2022-02-21 20:00:00,20,9.5,9.5,1.3,56.64,16.7,15.0,1223,True,False,Clear,clear-night
+2022-02-21 21:00:00,21,8.8,8.8,1.6,60.69,16.7,14.7,830,True,False,Clear,clear-night
+2022-02-21 22:00:00,22,6.6,6.6,1.5,69.96,0.0,13.7,587,True,False,Clear,clear-night
+2022-02-21 23:00:00,23,6.1,6.1,3.1,81.09,0.0,12.8,347,True,False,Clear,clear-night
+2022-02-22 00:00:00,0,5.6,5.6,2.6,81.03,28.6,16.2,166,True,False,Partially cloudy,partly-cloudy-night
+2022-02-22 01:00:00,1,6.1,6.1,2.6,78.29,37.9,13.1,12,True,False,Partially cloudy,partly-cloudy-night
+2022-02-22 02:00:00,2,6.2,6.2,2.8,79.38,66.4,11.2,16,True,False,Partially cloudy,partly-cloudy-night
+2022-02-22 03:00:00,3,6.5,6.5,3.3,80.05,93.1,10.6,48,True,False,Overcast,cloudy
+2022-02-22 04:00:00,4,7.1,7.1,4.3,82.4,89.9,10.0,50,True,False,Partially cloudy,partly-cloudy-night
+2022-02-22 05:00:00,5,7.1,7.1,6.1,93.34,93.0,7.5,141,True,False,Overcast,cloudy
+2022-02-22 06:00:00,6,8.1,5.6,6.8,91.52,96.9,8.4,782,True,False,Overcast,cloudy
+2022-02-22 07:00:00,7,8.5,8.5,7.1,90.91,62.4,8.4,2073,True,False,Partially cloudy,partly-cloudy-night
+2022-02-22 08:00:00,8,9.6,9.6,8.1,90.39,62.6,9.4,3536,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 09:00:00,9,10.8,10.8,8.0,82.86,65.7,12.8,1773,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 10:00:00,10,11.8,11.8,7.3,73.93,74.8,13.1,1072,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 11:00:00,11,13.3,13.3,7.1,65.68,65.3,19.3,1064,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 12:00:00,12,13.5,13.5,7.0,64.82,83.7,16.2,1188,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 13:00:00,13,12.8,12.8,7.9,71.67,93.0,16.2,990,True,False,Overcast,cloudy
+2022-02-22 14:00:00,14,12.1,12.1,9.5,84.12,90.0,16.2,1076,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 15:00:00,15,13.5,13.5,7.3,66.1,62.2,20.9,1418,True,False,"Rain, Partially cloudy",rain
+2022-02-22 16:00:00,16,13.1,13.1,1.8,46.26,65.1,19.3,1830,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 17:00:00,17,11.8,11.8,1.7,49.66,45.0,22.4,3177,True,False,Partially cloudy,partly-cloudy-day
+2022-02-22 18:00:00,18,10.8,10.8,1.9,53.83,15.1,22.4,3263,True,False,Clear,clear-night
+2022-02-22 19:00:00,19,9.6,9.6,1.8,58.32,0.0,20.9,2208,True,False,Clear,clear-night
+2022-02-22 20:00:00,20,8.6,8.6,1.5,61.06,0.0,20.9,1405,True,False,Clear,clear-night
+2022-02-22 21:00:00,21,7.5,6.0,1.5,65.78,0.0,17.8,989,True,False,Clear,clear-night
+2022-02-22 22:00:00,22,6.3,6.3,2.1,74.49,0.0,17.8,958,True,False,Clear,clear-night
+2022-02-22 23:00:00,23,6.0,6.0,2.1,76.11,0.0,15.9,448,True,False,Clear,clear-night
+2022-02-23 00:00:00,0,5.3,2.5,2.5,82.15,0.0,13.7,243,True,False,Clear,clear-night
+2022-02-23 01:00:00,1,5.1,5.1,3.1,86.91,0.0,11.6,114,True,False,Clear,clear-night
+2022-02-23 02:00:00,2,4.3,4.3,3.1,91.88,0.0,12.8,40,True,False,Clear,clear-night
+2022-02-23 03:00:00,3,4.1,4.1,3.1,93.19,0.0,13.7,52,True,False,Clear,clear-night
+2022-02-23 04:00:00,4,3.6,3.6,3.0,95.83,0.0,12.8,67,True,False,Clear,clear-night
+2022-02-23 05:00:00,5,3.3,3.3,2.6,95.17,0.0,12.2,166,True,False,Clear,clear-night
+2022-02-23 06:00:00,6,3.1,1.1,2.6,96.52,0.0,10.9,799,True,False,Clear,clear-night
+2022-02-23 07:00:00,7,3.8,3.8,2.8,93.21,0.0,10.3,2126,True,False,Clear,clear-day
+2022-02-23 08:00:00,8,4.6,4.6,3.5,92.58,0.0,10.6,3775,True,False,Clear,clear-day
+2022-02-23 09:00:00,9,7.1,7.1,4.1,81.3,30.2,8.4,2010,True,False,Partially cloudy,partly-cloudy-day
+2022-02-23 10:00:00,10,8.3,8.3,4.4,75.98,80.9,7.5,1288,True,False,Partially cloudy,partly-cloudy-day
+2022-02-23 11:00:00,11,10.0,10.0,4.9,70.18,77.6,13.1,1270,True,False,Partially cloudy,partly-cloudy-day
+2022-02-23 12:00:00,12,10.0,10.0,4.5,68.64,89.9,14.3,1529,True,False,Partially cloudy,partly-cloudy-day
+2022-02-23 13:00:00,13,10.8,10.8,2.4,55.79,93.0,17.8,1451,True,False,Overcast,cloudy
+2022-02-23 14:00:00,14,10.6,10.6,3.6,61.97,93.0,16.2,1342,True,False,Overcast,cloudy
+2022-02-23 15:00:00,15,10.3,10.3,3.9,64.11,90.0,16.2,1501,True,False,Partially cloudy,partly-cloudy-day
+2022-02-23 16:00:00,16,9.8,9.8,4.6,70.07,93.0,12.2,1958,True,False,Overcast,cloudy
+2022-02-23 17:00:00,17,9.6,9.6,4.5,70.54,93.0,10.9,3141,True,False,Overcast,cloudy
+2022-02-23 18:00:00,18,9.3,9.3,5.1,75.05,89.9,14.0,3149,True,False,Partially cloudy,partly-cloudy-night
+2022-02-23 19:00:00,19,9.1,9.1,4.8,74.49,30.3,13.1,2127,True,False,Partially cloudy,partly-cloudy-night
+2022-02-23 20:00:00,20,8.8,8.8,4.8,76.03,40.4,14.3,1354,True,False,Partially cloudy,partly-cloudy-night
+2022-02-23 21:00:00,21,8.5,8.5,4.8,77.58,53.3,12.5,1016,True,False,Partially cloudy,partly-cloudy-night
+2022-02-23 22:00:00,22,8.5,8.5,5.1,79.23,96.9,13.7,910,True,False,Overcast,cloudy
+2022-02-23 23:00:00,23,8.1,8.1,5.1,81.39,48.6,20.9,579,True,False,Partially cloudy,partly-cloudy-night
+2022-02-24 00:00:00,0,8.1,4.8,5.3,82.52,90.0,17.8,259,True,False,Partially cloudy,partly-cloudy-night
+2022-02-24 01:00:00,1,8.3,8.3,5.1,80.3,93.1,19.3,150,True,False,Overcast,cloudy
+2022-02-24 02:00:00,2,8.6,8.6,5.1,78.69,68.5,19.3,87,True,False,Partially cloudy,partly-cloudy-night
+2022-02-24 03:00:00,3,8.6,8.6,5.1,78.69,71.5,19.3,58,True,False,Partially cloudy,partly-cloudy-night
+2022-02-24 04:00:00,4,8.6,8.6,5.5,80.89,74.7,17.8,73,True,False,Partially cloudy,partly-cloudy-night
+2022-02-24 05:00:00,5,9.1,9.1,5.7,78.78,86.9,14.7,134,True,False,Partially cloudy,partly-cloudy-night
+2022-02-24 06:00:00,6,8.6,5.1,6.6,87.26,71.5,9.4,546,True,False,"Rain, Partially cloudy",rain
+2022-02-24 07:00:00,7,8.6,8.6,7.1,90.31,86.9,8.4,1199,True,False,"Rain, Partially cloudy",rain
+2022-02-24 08:00:00,8,7.3,7.3,5.6,88.98,62.6,22.4,2245,True,False,"Rain, Partially cloudy",rain
+2022-02-24 09:00:00,9,7.1,7.1,5.3,88.33,86.9,10.3,1012,True,False,"Rain, Partially cloudy",rain
+2022-02-24 10:00:00,10,5.6,5.6,2.6,81.06,90.0,13.1,890,True,False,"Rain, Partially cloudy",rain
+2022-02-24 11:00:00,11,6.1,6.1,2.0,75.02,62.6,22.4,973,True,False,Partially cloudy,partly-cloudy-day
+2022-02-24 12:00:00,12,7.8,7.8,2.0,66.75,48.3,22.4,1323,True,False,"Rain, Partially cloudy",rain
+2022-02-24 13:00:00,13,7.6,7.6,-1.8,51.06,71.5,16.2,1300,True,False,Partially cloudy,partly-cloudy-day
+2022-02-24 14:00:00,14,6.1,6.1,-0.8,60.89,40.8,8.1,1142,True,False,Partially cloudy,partly-cloudy-day
+2022-02-24 15:00:00,15,5.5,5.5,-2.3,56.86,36.1,20.9,1327,True,False,Partially cloudy,partly-cloudy-day
+2022-02-24 16:00:00,16,6.5,6.5,-1.3,57.1,54.5,22.4,1696,True,False,Partially cloudy,partly-cloudy-day
+2022-02-24 17:00:00,17,6.8,6.8,-4.4,44.44,15.1,22.4,2787,True,False,Clear,clear-day
+2022-02-24 18:00:00,18,5.6,1.5,-3.4,52.03,0.0,22.4,2720,True,False,Clear,clear-night
+2022-02-24 19:00:00,19,5.3,5.3,-3.4,53.12,0.0,22.4,1769,True,False,Clear,clear-night
+2022-02-24 20:00:00,20,4.6,4.6,-1.5,64.64,0.0,22.4,1182,True,False,Clear,clear-night
+2022-02-24 21:00:00,21,4.0,4.0,-0.9,70.43,0.0,20.9,892,True,False,Clear,clear-night
+2022-02-24 22:00:00,22,4.0,4.0,-0.7,71.47,0.0,22.4,749,True,False,Clear,clear-night
+2022-02-24 23:00:00,23,4.0,4.0,-0.4,73.04,0.0,20.9,571,True,False,Clear,clear-night
+2022-02-25 00:00:00,0,3.6,-1.0,-0.5,74.57,0.0,20.9,288,True,False,Clear,clear-night
+2022-02-25 01:00:00,1,3.6,3.6,-0.2,76.21,0.0,19.3,174,True,False,Clear,clear-night
+2022-02-25 02:00:00,2,4.0,4.0,-0.2,74.11,0.0,22.4,88,True,False,Clear,clear-night
+2022-02-25 03:00:00,3,3.7,3.7,-0.1,76.2,0.0,15.9,61,True,False,Clear,clear-night
+2022-02-25 04:00:00,4,4.6,4.6,0.3,73.7,0.0,16.2,60,True,False,Clear,clear-night
+2022-02-25 05:00:00,5,4.5,4.5,0.3,74.21,0.0,16.2,159,True,False,Clear,clear-night
+2022-02-25 06:00:00,6,4.1,0.3,0.1,75.23,0.0,19.3,582,True,False,Clear,clear-night
+2022-02-25 07:00:00,7,4.0,4.0,0.6,78.53,0.0,16.2,1547,True,False,Clear,clear-day
+2022-02-25 08:00:00,8,4.5,4.5,1.0,78.05,0.0,16.2,2580,True,False,Clear,clear-day
+2022-02-25 09:00:00,9,5.6,5.6,1.8,76.53,0.0,16.2,1722,True,False,Clear,clear-day
+2022-02-25 10:00:00,10,8.1,8.1,1.6,63.59,0.0,17.8,1273,True,False,Clear,clear-day
+2022-02-25 11:00:00,11,9.8,9.8,1.1,54.36,13.3,10.6,1386,True,False,Clear,clear-day
+2022-02-25 12:00:00,12,10.3,10.3,1.1,52.92,30.0,17.8,1753,True,False,Partially cloudy,partly-cloudy-day
+2022-02-25 13:00:00,13,11.0,11.0,0.4,47.69,38.8,20.9,1800,True,False,Partially cloudy,partly-cloudy-day
+2022-02-25 14:00:00,14,11.1,11.1,0.1,46.69,54.7,16.2,1682,True,False,Partially cloudy,partly-cloudy-day
+2022-02-25 15:00:00,15,10.3,10.3,-0.8,45.79,36.4,19.3,1824,True,False,Partially cloudy,partly-cloudy-day
+2022-02-25 16:00:00,16,10.6,10.6,-0.8,44.88,66.9,17.8,2260,True,False,Partially cloudy,partly-cloudy-day
+2022-02-25 17:00:00,17,9.8,9.8,-0.1,49.82,45.4,20.9,3058,True,False,Partially cloudy,partly-cloudy-day
+2022-02-25 18:00:00,18,9.1,9.1,-0.3,51.49,15.1,22.4,2752,True,False,Clear,clear-night
+2022-02-25 19:00:00,19,7.1,7.1,0.1,61.1,0.0,20.9,1961,True,False,Clear,clear-night
+2022-02-25 20:00:00,20,5.0,5.0,-0.4,68.12,0.0,20.9,1302,True,False,Clear,clear-night
+2022-02-25 21:00:00,21,4.5,4.5,0.8,76.9,0.0,12.8,932,True,False,Clear,clear-night
+2022-02-25 22:00:00,22,4.6,4.6,1.0,77.5,0.0,17.8,971,True,False,Clear,clear-night
+2022-02-25 23:00:00,23,3.6,3.6,0.8,81.92,0.0,17.8,735,True,False,Clear,clear-night
+2022-02-26 00:00:00,0,3.6,3.6,0.6,80.76,0.0,16.2,557,False,False,Clear,clear-night
+2022-02-26 01:00:00,1,2.8,2.8,0.3,83.62,0.0,17.8,515,False,False,Clear,clear-night
+2022-02-26 02:00:00,2,2.1,2.1,0.1,86.61,0.0,17.8,330,False,False,Clear,clear-night
+2022-02-26 03:00:00,3,1.6,1.6,0.3,91.06,0.0,17.8,209,False,False,Clear,clear-night
+2022-02-26 04:00:00,4,1.5,1.5,0.6,93.67,27.9,20.9,172,False,False,Partially cloudy,partly-cloudy-night
+2022-02-26 05:00:00,5,1.3,1.3,0.5,94.35,16.7,20.9,102,False,False,Clear,clear-night
+2022-02-26 06:00:00,6,1.6,1.6,0.8,94.36,0.0,19.3,178,False,False,Clear,clear-night
+2022-02-26 07:00:00,7,3.1,3.1,1.3,87.97,0.0,16.2,358,False,False,Clear,clear-day
+2022-02-26 08:00:00,8,2.6,2.6,0.8,87.95,0.0,11.6,804,False,False,Clear,clear-day
+2022-02-26 09:00:00,9,6.1,6.1,4.1,87.03,0.0,13.1,1368,False,False,Clear,clear-day
+2022-02-26 10:00:00,10,8.8,8.8,4.6,74.45,14.7,12.8,2062,False,False,Rain,rain
+2022-02-26 11:00:00,11,9.8,9.8,3.1,63.06,56.5,19.3,2596,False,False,Partially cloudy,partly-cloudy-day
+2022-02-26 12:00:00,12,11.0,11.0,1.8,53.09,14.7,17.8,3034,False,False,Clear,clear-day
+2022-02-26 13:00:00,13,11.1,11.1,1.1,50.18,39.2,15.6,3155,False,False,Partially cloudy,partly-cloudy-day
+2022-02-26 14:00:00,14,10.6,10.6,0.5,49.66,27.9,15.6,3145,False,False,Partially cloudy,partly-cloudy-day
+2022-02-26 15:00:00,15,11.0,11.0,0.2,47.01,0.0,17.8,2902,False,False,Clear,clear-day
+2022-02-26 16:00:00,16,10.3,10.3,-1.4,44.13,0.0,22.4,2921,False,False,Clear,clear-day
+2022-02-26 17:00:00,17,9.1,9.1,-3.9,39.49,0.0,22.4,2456,False,False,Clear,clear-day
+2022-02-26 18:00:00,18,8.1,8.1,-1.9,49.34,0.0,22.4,1884,False,False,Clear,clear-night
+2022-02-26 19:00:00,19,6.6,6.6,-0.2,61.86,0.0,22.4,1441,False,False,Clear,clear-night
+2022-02-26 20:00:00,20,6.3,6.3,0.6,66.93,0.0,22.4,1034,False,False,Clear,clear-night
+2022-02-26 21:00:00,21,5.6,5.6,0.3,68.75,0.0,20.9,843,False,False,Clear,clear-night
+2022-02-26 22:00:00,22,5.8,5.8,0.6,69.28,0.0,22.4,865,False,False,Clear,clear-night
+2022-02-26 23:00:00,23,5.6,2.7,0.5,69.76,0.0,22.4,697,False,False,Clear,clear-night
+2022-02-27 00:00:00,0,5.6,2.8,0.1,67.78,0.0,22.4,625,False,False,Clear,clear-night
+2022-02-27 01:00:00,1,5.3,5.3,0.3,70.18,0.0,19.3,407,False,False,Clear,clear-night
+2022-02-27 02:00:00,2,5.1,5.1,-0.3,67.68,0.0,16.2,365,False,False,Clear,clear-night
+2022-02-27 03:00:00,3,4.6,4.6,-0.9,67.08,0.0,19.3,185,False,False,Clear,clear-night
+2022-02-27 04:00:00,4,4.1,4.1,-1.1,68.45,0.0,20.9,158,False,False,Clear,clear-night
+2022-02-27 05:00:00,5,3.8,3.8,-1.0,70.94,0.0,20.9,91,False,False,Clear,clear-night
+2022-02-27 06:00:00,6,3.6,0.2,-0.7,73.53,0.0,22.4,134,False,False,Clear,clear-night
+2022-02-27 07:00:00,7,3.6,3.6,-0.5,74.62,0.0,20.9,225,False,False,Clear,clear-day
+2022-02-27 08:00:00,8,4.0,4.0,-0.2,74.13,0.0,17.8,529,False,False,Clear,clear-day
+2022-02-27 09:00:00,9,5.1,5.1,-0.3,67.65,0.0,19.3,1110,False,False,Clear,clear-day
+2022-02-27 10:00:00,10,6.2,6.2,-0.3,63.11,0.0,19.3,1830,False,False,Clear,clear-day
+2022-02-27 11:00:00,11,8.8,8.8,-0.4,52.13,0.0,22.4,2355,False,False,Clear,clear-day
+2022-02-27 12:00:00,12,10.1,10.1,-1.2,45.39,0.0,16.2,2867,False,False,Clear,clear-day
+2022-02-27 13:00:00,13,11.1,11.1,-0.9,43.41,0.0,17.8,3302,False,False,Clear,clear-day
+2022-02-27 14:00:00,14,11.3,11.3,-2.6,37.53,0.0,22.4,3049,False,False,Clear,clear-day
+2022-02-27 15:00:00,15,11.3,11.3,-2.8,36.99,0.0,20.9,2941,False,False,Clear,clear-day
+2022-02-27 16:00:00,16,10.3,10.3,-2.1,41.62,0.0,22.4,2761,False,False,Clear,clear-day
+2022-02-27 17:00:00,17,8.6,8.6,-1.4,49.46,0.0,20.9,2134,False,False,Clear,clear-day
+2022-02-27 18:00:00,18,7.6,7.6,-0.9,54.93,0.0,20.9,1422,False,False,Clear,clear-night
+2022-02-27 19:00:00,19,6.6,6.6,-0.6,59.68,0.0,22.4,978,False,False,Clear,clear-night
+2022-02-27 20:00:00,20,6.3,6.3,0.1,64.57,0.0,20.9,724,False,False,Clear,clear-night
+2022-02-27 21:00:00,21,6.3,6.3,0.6,66.94,0.0,20.9,532,False,False,Clear,clear-night
+2022-02-27 22:00:00,22,6.6,6.6,0.8,66.52,0.0,22.4,446,False,False,Clear,clear-night
+2022-02-27 23:00:00,23,6.5,6.5,1.0,67.96,0.0,22.4,284,False,False,Clear,clear-night
+2022-02-28 00:00:00,0,6.1,3.5,0.9,68.87,0.0,22.4,183,True,False,Clear,clear-night
+2022-02-28 01:00:00,1,6.8,6.8,1.8,70.52,0.0,17.8,107,True,False,Clear,clear-night
+2022-02-28 02:00:00,2,6.3,6.3,1.8,72.99,34.8,17.8,68,True,False,Partially cloudy,partly-cloudy-night
+2022-02-28 03:00:00,3,6.6,6.6,2.3,74.09,62.4,19.3,38,True,False,Partially cloudy,partly-cloudy-night
+2022-02-28 04:00:00,4,7.3,7.3,3.1,74.74,96.2,19.3,43,True,False,Overcast,cloudy
+2022-02-28 05:00:00,5,7.8,7.8,3.3,73.25,93.0,16.2,138,True,False,Overcast,cloudy
+2022-02-28 06:00:00,6,8.3,6.1,3.6,71.83,93.0,16.2,696,True,False,Overcast,cloudy
+2022-02-28 07:00:00,7,8.1,8.1,3.7,73.3,93.0,16.2,1878,True,False,Overcast,cloudy
+2022-02-28 08:00:00,8,8.6,8.6,4.2,73.4,96.2,16.2,3130,True,False,Overcast,cloudy
+2022-02-28 09:00:00,9,9.6,9.6,4.9,72.06,93.1,15.0,1788,True,False,Overcast,cloudy
+2022-02-28 10:00:00,10,10.6,10.6,6.0,73.24,93.0,11.9,1218,True,False,Overcast,cloudy
+2022-02-28 11:00:00,11,11.6,11.6,6.5,70.95,90.0,20.9,1160,True,False,Partially cloudy,partly-cloudy-day
+2022-02-28 12:00:00,12,12.3,12.3,7.1,70.6,80.7,16.2,1308,True,False,Partially cloudy,partly-cloudy-day
+2022-02-28 13:00:00,13,12.3,12.3,7.3,71.56,80.7,17.8,1388,True,False,Partially cloudy,partly-cloudy-day
+2022-02-28 14:00:00,14,12.5,12.5,6.8,68.26,74.7,20.9,1229,True,False,Partially cloudy,partly-cloudy-day
+2022-02-28 15:00:00,15,11.6,11.6,5.9,67.61,56.2,22.4,1432,True,False,Partially cloudy,partly-cloudy-day
+2022-02-28 16:00:00,16,11.3,11.3,5.7,68.02,77.8,19.3,1862,True,False,Partially cloudy,partly-cloudy-day
+2022-02-28 17:00:00,17,11.1,11.1,6.8,74.85,96.9,19.3,2966,True,False,Overcast,cloudy
+2022-02-28 18:00:00,18,11.3,11.3,7.2,75.44,96.9,14.0,2552,True,False,Overcast,cloudy
+2022-02-28 19:00:00,19,10.3,10.3,8.0,85.67,87.6,7.3,1285,True,False,Partially cloudy,partly-cloudy-night
+2022-02-28 20:00:00,20,9.8,9.8,8.3,90.41,80.7,6.8,703,True,False,"Rain, Partially cloudy",rain
+2022-02-28 21:00:00,21,9.6,9.6,8.7,93.52,93.0,6.8,507,True,False,"Rain, Overcast",rain
+2022-02-28 22:00:00,22,9.6,9.6,9.1,96.68,96.2,6.1,381,True,False,"Rain, Overcast",rain
+2022-02-28 23:00:00,23,9.8,9.8,9.1,95.41,96.2,6.2,233,True,False,"Rain, Overcast",rain
