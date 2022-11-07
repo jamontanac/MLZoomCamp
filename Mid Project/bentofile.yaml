@@ -1,0 +1,49 @@
+service: "service.py:svc"
+labels:
+ owner: Jose_Montana
+ project: demand_prediction
+ stage: prod
+description: |
+    ## This is the development of the demand prediction services in BentoML 🍱
+    Here we deploy a rest API in the endpoint /predict which provides us
+    with the prediction of the demand based on the variables we send.
+    As an example of the input needed here i let this simple example of payload
+    ```json
+    [
+      {
+        "WorkDay": false,
+        "Holiday": false,
+        "conditions": "Partially cloudy",
+        "hour": 0,
+        "temp": 7.3,
+        "feelslike": 7.3,
+        "dew": 5.1,
+        "humidity": 85.95,
+        "cloudcover": 62.6,
+        "visibility": 12.2
+      },
+      {
+        "WorkDay": false,
+        "Holiday": false,
+        "conditions": "Overcast",
+        "hour": 1,
+        "temp": 8.1,
+        "feelslike": 8.1,
+        "dew": 5.8,
+        "humidity": 85.43,
+        "cloudcover": 93.0,
+        "visibility": 11.9
+      }
+    ]
+    ```
+include:
+- "*.py"
+- "configuration.yaml"
+python:
+  packages:
+    - sklearn
+    - pandas
+    
+  # requirements_txt: "./requirements.txt"
+docker:
+    distro: debian
